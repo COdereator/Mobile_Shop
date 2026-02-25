@@ -1,0 +1,4339 @@
+{
+  "iPhone": [
+    {
+      "model": "iPhone 17 Pro Max",
+      "products": [
+        {
+          "id": 6137964,
+          "smallTitle": "Apple iPhone 17 Pro Max",
+          "title": "Custom iPhone 17 Pro Max Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/12/Iphone-17-pro.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/11/Glass-Case-Custom-Thumbnail-Final-1-1-2-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "id": 6118206,
+          "smallTitle": "Apple iPhone 17 Pro Max",
+          "title": "Custom iPhone 17 Pro Max Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/09/Iphone-17-Pro-Max-custom.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "id": 6142091,
+          "smallTitle": "Apple iPhone 17 Pro Max",
+          "title": "Custom iPhone 17 Pro Max Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/11/Iphone-17-pro-1.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/11/Clear-Case-Custom-Thumbnail-Final-5-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iPhone 17 Pro",
+      "products": [
+        {
+          "id": 6118754,
+          "smallTitle": "Apple iPhone 17 Pro",
+          "title": "Custom iPhone 17 Pro Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/09/Iphone-17-Pro-Max-custom.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "id": 6137970,
+          "smallTitle": "Apple iPhone 17 Pro",
+          "title": "Custom iPhone 17 Pro Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/12/Iphone-17-pro.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/11/Glass-Case-Custom-Thumbnail-Final-1-1-2-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "id": 6142087,
+          "smallTitle": "Apple iPhone 17 Pro",
+          "title": "Custom iPhone 17 Pro Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/11/Iphone-17-pro-1.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/11/Clear-Case-Custom-Thumbnail-Final-5-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iPhone 17 Air",
+      "products": [
+        {
+          "id": 6118478,
+          "smallTitle": "Apple iPhone 17 Air",
+          "title": "Custom iPhone 17 Air Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Iphone-17-Air-Silicone-Case-Custom-Thumbnail-Final-247x247.jpg",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/09/Iphone-17-Air-Custom.png",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "id": 6179535,
+          "smallTitle": "Apple iPhone 17 Air",
+          "title": "Custom iPhone 17 Air Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2026/02/iPhone-17-Air.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/iPhone-17-Air-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "id": 6142081,
+          "smallTitle": "Apple iPhone 17 Air",
+          "title": "Custom iPhone 17 Air Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/11/Iphone-17-Air.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/11/Clear-Case-Custom-Thumbnail-Final-4-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iPhone 17",
+      "products": [
+        {
+          "id": 6137972,
+          "smallTitle": "Apple iPhone 17",
+          "title": "Custom iPhone 17 Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/12/Iphone-17.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/11/Glass-Case-Custom-Thumbnail-Final-1-2-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "id": 6118055,
+          "smallTitle": "Apple iPhone 17",
+          "title": "Custom iPhone 17 Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/12/Iphone-17-Custom.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Iphone-17-Silicone-Case-Custom-Thumbnail-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iPhone 16E",
+      "products": [
+        {
+          "id": 5943618,
+          "smallTitle": "Apple iPhone 16E",
+          "title": "Custom iPhone 16E Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/03/iPhone-16E-bg.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/03/Glass-Case-Custom-Thumbnail-Final-1-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "id": 6121570,
+          "smallTitle": "Apple iPhone 16E",
+          "title": "Custom iPhone 16E Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/09/iPhone-16E-Custom.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/iPhone-16E-Silicone-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iPhone 16 Pro Max",
+      "products": [
+        {
+          "id": 5500395,
+          "smallTitle": "Apple iPhone 16 Pro Max",
+          "title": "Custom iPhone 16 Pro Max Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-15-Pro-Max-Bg.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Glass-Case-Custom-Thumbnail-Final-2-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "id": 5500688,
+          "smallTitle": "Apple iPhone 16 Pro Max",
+          "title": "Custom iPhone 16 Pro Max Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-16-Pro-Max-Sili-Custom.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Silicone-Case-Custom-Thumbnail-Final-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "id": 5500050,
+          "smallTitle": "Apple iPhone 16 Pro Max",
+          "title": "Custom iPhone 16 Pro Max Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/iPhone-15-Pro-Max-Custom.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Clear-Case-Custom-Thumbnail-Final-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iPhone 16 Pro",
+      "products": [
+        {
+          "id": 5929131,
+          "smallTitle": "Apple iPhone 16 Pro",
+          "title": "Custom iPhone 16 Pro Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/02/iPhone-14-Pro-Bg.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/02/Glass-Case-Custom-Thumbnail-Final-1-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "id": 5500568,
+          "smallTitle": "Apple iPhone 16 Pro",
+          "title": "Custom iPhone 16 Pro Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-16-Pro-Max-Sili-Custom.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Silicone-Case-Custom-Thumbnail-Final-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "id": 5500132,
+          "smallTitle": "Apple iPhone 16 Pro",
+          "title": "Custom iPhone 16 Pro Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/iPhone-15-Pro-Max-Custom.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Clear-Case-Custom-Thumbnail-Final-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iPhone 16 Plus",
+      "products": [
+        {
+          "id": 5514786,
+          "smallTitle": "Apple iPhone 16 Plus",
+          "title": "Custom iPhone 16 Plus Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-16-Plus-Bg.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Glass-Case-Custom-Thumbnail-Final-3-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "id": 5501145,
+          "smallTitle": "Apple iPhone 16 Plus",
+          "title": "Custom iPhone 16 Plus Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/iPhone-16-iPhone-16-Plus-Custom.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Clear-Case-Custom-Thumbnail-Final-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "id": 5516192,
+          "smallTitle": "Apple iPhone 16 Plus",
+          "title": "Custom iPhone 16 Plus Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/09/iPhone-16-Bg-1-1.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Silicone-Case-Custom-Thumbnail-Final-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iPhone 16",
+      "products": [
+        {
+          "id": 5514780,
+          "smallTitle": "Apple iPhone 16",
+          "title": "Custom iPhone 16 Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-16-Bg-1.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Glass-Case-Custom-Thumbnail-Final-3-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "id": 5516124,
+          "smallTitle": "Apple iPhone 16",
+          "title": "Custom iPhone 16 Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/09/iPhone-16-Bg-1-1.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Silicone-Case-Custom-Thumbnail-Final-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "id": 5500796,
+          "smallTitle": "Apple iPhone 16",
+          "title": "Custom iPhone 16 Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/iPhone-16-iPhone-16-Plus-Custom.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Clear-Case-Custom-Thumbnail-Final-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iPhone 15 Pro Max",
+      "products": [
+        {
+          "id": 5195679,
+          "smallTitle": "Apple iPhone 15 Pro Max",
+          "title": "Custom iPhone 15 Pro Max Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-15-Pro-Max-Bg.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Glass-Case-Custom-Thumbnail-Final-2-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "id": 5008722,
+          "smallTitle": "Apple iPhone 15 Pro Max",
+          "title": "Custom iPhone 15 Pro Max Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-16-Pro-Max-Sili-Custom.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Silicone-Case-Custom-Thumbnail-Final-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "id": 5205512,
+          "smallTitle": "Apple iPhone 15 Pro Max",
+          "title": "Custom iPhone 15 Pro Max Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/iPhone-15-Pro-Max-Custom.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Clear-Case-Custom-Thumbnail-Final-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iPhone 15 Pro",
+      "products": [
+        {
+          "id": 4950109,
+          "smallTitle": "Apple iPhone 15 Pro",
+          "title": "Custom iPhone 15 Pro Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/02/iPhone-14-Pro-Bg.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Glass-Case-Custom-Thumbnail-Final-2-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "id": 5008724,
+          "smallTitle": "Apple iPhone 15 Pro",
+          "title": "Custom iPhone 15 Pro Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-16-Pro-Max-Sili-Custom.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Silicone-Case-Custom-Thumbnail-Final-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "id": 5205876,
+          "smallTitle": "Apple iPhone 15 Pro",
+          "title": "Custom iPhone 15 Pro Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/iPhone-15-Pro-Max-Custom.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Clear-Case-Custom-Thumbnail-Final-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iPhone 15 Plus",
+      "products": [
+        {
+          "id": 5200833,
+          "smallTitle": "Apple iPhone 15 Plus",
+          "title": "Custom iPhone 15 Plus Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-14-Plus-Bg.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Glass-Case-Custom-Thumbnail-Final-4-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "id": 5007980,
+          "smallTitle": "Apple iPhone 15 Plus",
+          "title": "Custom iPhone 15 Plus Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-15-Plus.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-3-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "id": 5205907,
+          "smallTitle": "Apple iPhone 15 Plus",
+          "title": "Custom iPhone 15 Plus Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Custom-iPhone-14-iPhone-14-Plus-iPhone-15-iPhone-15-Plus.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iPhone 15",
+      "products": [
+        {
+          "id": 5200831,
+          "smallTitle": "Apple iPhone 15",
+          "title": "Custom iPhone 15 Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-14-Plus-Bg.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Glass-Case-Custom-Thumbnail-Final-4-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "id": 5007979,
+          "smallTitle": "Apple iPhone 15",
+          "title": "Custom iPhone 15 Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-15-Plus-1.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-3-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "id": 5205909,
+          "smallTitle": "Apple iPhone 15",
+          "title": "Custom iPhone 15 Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Custom-iPhone-14-iPhone-14-Plus-iPhone-15-iPhone-15-Plus.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iPhone 14 Pro Max",
+      "products": [
+        {
+          "id": 4572441,
+          "smallTitle": "Apple iPhone 14 Pro Max",
+          "title": "Custom iPhone 14 Pro Max Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-14-Pro-Max-Bg.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Glass-Case-Custom-Thumbnail-Final-2-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "id": 5008718,
+          "smallTitle": "Apple iPhone 14 Pro Max",
+          "title": "Custom iPhone 14 Pro Max Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-14-Pro-Max.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Silicone-Case-Custom-Thumbnail-Final-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "id": 5205883,
+          "smallTitle": "Apple iPhone 14 Pro Max",
+          "title": "Custom iPhone 14 Pro Max Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/iPhone-15-Pro-Max-Custom.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Clear-Case-Custom-Thumbnail-Final-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iPhone 14 Pro",
+      "products": [
+        {
+          "id": 4572438,
+          "smallTitle": "Apple iPhone 14 Pro",
+          "title": "Custom iPhone 14 Pro Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/02/iPhone-14-Pro-Bg.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Glass-Case-Custom-Thumbnail-Final-2-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "id": 5008717,
+          "smallTitle": "Apple iPhone 14 Pro",
+          "title": "Custom iPhone 14 Pro Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-14-Pro-Max-1.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Silicone-Case-Custom-Thumbnail-Final-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "id": 5205877,
+          "smallTitle": "Apple iPhone 14 Pro",
+          "title": "Custom iPhone 14 Pro Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/iPhone-15-Pro-Max-Custom.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Clear-Case-Custom-Thumbnail-Final-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iPhone 14 Plus",
+      "products": [
+        {
+          "id": 4576084,
+          "smallTitle": "Apple iPhone 14 Plus",
+          "title": "Custom iPhone 14 Plus Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-14-Plus-Bg.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Glass-Case-Custom-Thumbnail-Final-4-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "id": 5007978,
+          "smallTitle": "Apple iPhone 14 Plus",
+          "title": "Custom iPhone 14 Plus Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-15-Plus-2.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-3-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "id": 5205905,
+          "smallTitle": "Apple iPhone 14 Plus",
+          "title": "Custom iPhone 14 Plus Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Custom-iPhone-14-iPhone-14-Plus-iPhone-15-iPhone-15-Plus.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iPhone 14",
+      "products": [
+        {
+          "id": 4572433,
+          "smallTitle": "Apple iPhone 14",
+          "title": "Custom iPhone 14 Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-14-Bg.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Glass-Case-Custom-Thumbnail-Final-4-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "id": 5007976,
+          "smallTitle": "Apple iPhone 14",
+          "title": "Custom iPhone 14 Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-15-Plus-3.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-3-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "id": 5205902,
+          "smallTitle": "Apple iPhone 14",
+          "title": "Custom iPhone 14 Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Custom-iPhone-14-iPhone-14-Plus-iPhone-15-iPhone-15-Plus.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iPhone 13 Pro Max",
+      "products": [
+        {
+          "id": 5200822,
+          "smallTitle": "Apple iPhone 13 Pro Max",
+          "title": "Custom iPhone 13 Pro Max Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-13-Pro-Max-Bg.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Glass-Case-Custom-Thumbnail-Final-2-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "id": 5008402,
+          "smallTitle": "Apple iPhone 13 Pro Max",
+          "title": "Custom iPhone 13 Pro Max Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-14-Pro-Max-2.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Silicone-Case-Custom-Thumbnail-Final-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "id": 5205886,
+          "smallTitle": "Apple iPhone 13 Pro Max",
+          "title": "Custom iPhone 13 Pro Max Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/iPhone-15-Pro-Max-Custom.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Clear-Case-Custom-Thumbnail-Final-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iPhone 13 Pro",
+      "products": [
+        {
+          "id": 5200817,
+          "smallTitle": "Apple iPhone 13 Pro",
+          "title": "Custom iPhone 13 Pro Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-13-Pro-Bg.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Glass-Case-Custom-Thumbnail-Final-2-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "id": 5008401,
+          "smallTitle": "Apple iPhone 13 Pro",
+          "title": "Custom iPhone 13 Pro Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-14-Pro-Max-3.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Silicone-Case-Custom-Thumbnail-Final-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "id": 5205891,
+          "smallTitle": "Apple iPhone 13 Pro",
+          "title": "Custom iPhone 13 Pro Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/iPhone-15-Pro-Max-Custom.png",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Clear-Case-Custom-Thumbnail-Final-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iPhone 13 Mini",
+      "products": [
+        {
+          "smallTitle": "Apple iPhone 13 Mini",
+          "title": "Custom iPhone13 Mini Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-13-Mini-Bg.png",
+          "oldPrice": 698,
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Glass-Case-Custom-Thumbnail-Final-4.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 13 Mini",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-15-Plus-4.png",
+          "title": "Custom iPhone 13 Mini Silicone Case",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-3.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 13 Mini",
+          "title": "Custom iPhone 13 Mini Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Custom-iPhone-14-iPhone-14-Plus-iPhone-15-iPhone-15-Plus.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-2.jpg"
+        }
+      ]
+    },
+    {
+      "model": "iPhone 13",
+      "products": [
+        {
+          "smallTitle": "Apple iPhone 13",
+          "title": "Custom iPhone 13 Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-13-Bg-1.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Glass-Case-Custom-Thumbnail-Final-4.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 13",
+          "title": "Custom iPhone 13 Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-15-Plus-5.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-3.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 13",
+          "title": "Custom iPhone 13 Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Custom-iPhone-14-iPhone-14-Plus-iPhone-15-iPhone-15-Plus.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-2.jpg"
+        }
+      ]
+    },
+    {
+      "model": "iPhone 12 Pro Max",
+      "products": [
+        {
+          "smallTitle": "Apple iPhone 12 Pro Max",
+          "title": "Custom iPhone 12 Pro Max Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-12-Pro-Max-Bg.png",
+          "oldPrice": 698,
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Glass-Case-Custom-Thumbnail-Final-5.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 12 Pro Max",
+          "title": "Custom iPhone 12 Pro Max Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-14-Pro-Max-4.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-4.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 12 Pro Max",
+          "title": "Custom iPhone 12 Pro Max Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/iPhone-15-Pro-Max-Custom.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-3.jpg"
+        }
+      ]
+    },
+    {
+      "model": "iPhone 12 Pro",
+      "products": [
+        {
+          "smallTitle": "Apple iPhone 12 Pro",
+          "title": "Custom iPhone 12 Pro Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-12-Pro-Bg-1.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Glass-Case-Custom-Thumbnail-Final-5.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 12 Pro",
+          "title": "Custom iPhone 12 Pro Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-14-Pro-Max-5.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-4.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 12 Pro",
+          "title": "Custom iPhone 12 Pro Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/iPhone-15-Pro-Max-Custom.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-3.jpg"
+        }
+      ]
+    },
+    {
+      "model": "iPhone 12 Mini",
+      "products": [
+        {
+          "smallTitle": "Apple iPhone 12 Mini",
+          "title": "Custom iPhone 12 Mini Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-12-Mini-Bg.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Glass-Case-Custom-Thumbnail-Final-6.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 12 Mini",
+          "title": "Custom iPhone 12 Mini Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-12-Min-1.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-5.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 12 Mini",
+          "title": "Custom iPhone 12 Mini Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/iPhone-11-iPhone-12.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-4.jpg"
+        }
+      ]
+    },
+    {
+      "model": "iPhone 12",
+      "products": [
+        {
+          "smallTitle": "Apple iPhone 12",
+          "title": "Custom iPhone 12 Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-11-Bg.png",
+          "oldPrice": 698,
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Glass-Case-Custom-Thumbnail-Final-6.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 12",
+          "title": "Custom iPhone 12 Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-12-Min-1.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-5.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 12",
+          "title": "Custom iPhone 12 Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/iPhone-11-iPhone-12.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-4.jpg"
+        }
+      ]
+    },
+    {
+      "model": "iPhone 11 Pro Max",
+      "products": [
+        {
+          "smallTitle": "Apple iPhone 11 Pro Max",
+          "title": "Custom iPhone 11 Pro Max Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-11-Pro-Max.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Glass-Case-Custom-Thumbnail-Final-5.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 11 Pro Max",
+          "title": "Custom iPhone 11 Pro Max Silicone Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-11-Pro-Bg.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-6.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 11 Pro Max",
+          "title": "Custom iPhone 11 Pro Max Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/02/iPhone-11-Pro-iPhone-11-Pro-Max.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-3.jpg"
+        }
+      ]
+    },
+    {
+      "model": "iPhone 11 Pro",
+      "products": [
+        {
+          "smallTitle": "Apple iPhone 11 Pro",
+          "title": "Custom iPhone 11 Pro Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-11-Pro-Bg.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Glass-Case-Custom-Thumbnail-Final-5.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 11 Pro",
+          "title": "Custom iPhone 11 Pro Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-11-Pro-Max-1.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-6.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 11 Pro",
+          "title": "Custom iPhone 11 Pro Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/02/iPhone-11-Pro-iPhone-11-Pro-Max.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-3.jpg"
+        }
+      ]
+    },
+    {
+      "model": "iPhone 11",
+      "products": [
+        {
+          "smallTitle": "Apple iPhone 11",
+          "title": "Custom iPhone 11 Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-11-Bg.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Glass-Case-Custom-Thumbnail-Final-6.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 11",
+          "title": "Custom iPhone 11 Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-12-Min-2.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-5-1.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 11",
+          "title": "Custom iPhone 11 Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/iPhone-11-iPhone-12.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-4.jpg"
+        }
+      ]
+    },
+    {
+      "model": "iPhone X",
+      "products": [
+        {
+          "smallTitle": "Apple iPhone X",
+          "title": "Custom iPhone X Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-X-Bg.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Glass-Case-Custom-Thumbnail-Final-7.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone X",
+          "title": "Custom iPhone X Silicone Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-X.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-7.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone X",
+          "title": "Custom iPhone X Clear Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/iPhone-X-iPhone-XS-iPhone-Xs-Max.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-5.jpg"
+        }
+      ]
+    },
+    {
+      "model": "iPhone XR",
+      "products": [
+        {
+          "smallTitle": "Apple iPhone XR",
+          "title": "Custom iPhone XR Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-XR-Bg.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Glass-Case-Custom-Thumbnail-Final-8.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone XR",
+          "title": "Custom iPhone XR Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-X-1.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-8.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone XR",
+          "title": "Custom iPhone XR Clear Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/iPhone-XR.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-6.jpg"
+        }
+      ]
+    },
+    {
+      "model": "iPhone XS",
+      "products": [
+        {
+          "smallTitle": "Apple iPhone XS",
+          "title": "Custom iPhone XS Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-XS-Bg.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Glass-Case-Custom-Thumbnail-Final-7.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone XS",
+          "title": "Custom iPhone XS Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-XS-Custom.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-9.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone XS",
+          "title": "Custom iPhone XS Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/iPhone-X-iPhone-XS-iPhone-Xs-Max.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-7.jpg"
+        }
+      ]
+    },
+    {
+      "model": "iPhone XS Max",
+      "products": [
+        {
+          "smallTitle": "Apple iPhone XS Max",
+          "title": "Custom iPhone XS Max Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-XS-Max-Bg.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Glass-Case-Custom-Thumbnail-Final-7.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone XS Max",
+          "title": "Custom iPhone XS Max Silicone Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-X-2.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-9.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone XS Max",
+          "title": "Custom iPhone XS Max Clear Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/iPhone-X-iPhone-XS-iPhone-Xs-Max.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-7.jpg"
+        }
+      ]
+    },
+    {
+      "model": "iPhone SE 2022",
+      "products": [
+        {
+          "smallTitle": "Apple iPhone SE 2022",
+          "title": "Custom iPhone SE 2022 Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-SE-2022-Bg.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/03/Glass-Case-Custom-Thumbnail-Final-1.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone SE 2022",
+          "title": "Custom iPhone SE 2022 Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-SE-2022.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-10.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone SE 2022",
+          "title": "Custom iPhone SE 2022 Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2026/02/iPhone-SE-2022.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Clear-Case-Custom-Thumbnail-Final-1-510x510.jpg"
+        }
+      ]
+    },
+    {
+      "model": "iPhone SE 2020",
+      "products": [
+        {
+          "smallTitle": "Apple iPhone SE 2020",
+          "title": "Custom iPhone SE 2020 Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-SE-2020-Bg.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/03/Glass-Case-Custom-Thumbnail-Final-1.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone SE 2020",
+          "title": "Custom iPhone SE 2020 Silicone Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-SE-2022-1.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-10.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone SE 2020",
+          "title": "Custom iPhone SE 2020 Clear Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/iPhone-7-iPhone-8-iPhone-SE-2020.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-8.jpg"
+        }
+      ]
+    },
+    {
+      "model": "iPhone 8 Plus",
+      "products": [
+        {
+          "smallTitle": "Apple iPhone 8 Plus",
+          "title": "Custom iPhone 8 Plus Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-8-Plus-Bg.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Glass-Case-Custom-Thumbnail-Final-9.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 8 Plus",
+          "title": "Custom iPhone 8 Plus Silicone Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-8-Plus.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-11.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 8 Plus",
+          "title": "Custom iPhone 8 Plus Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/iPhone-7-Plus-iPhone-8-Plus.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-9.jpg"
+        }
+      ]
+    },
+    {
+      "model": "iPhone 8",
+      "products": [
+        {
+          "smallTitle": "Apple iPhone 8",
+          "title": "Custom iPhone 8 Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/iPhone-7-iPhone-8-iPhone-SE-2020.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-8.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 8",
+          "title": "Custom iPhone 8 Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-8-Bg.png",
+          "oldPrice": 698,
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/03/Glass-Case-Custom-Thumbnail-Final-1.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 8",
+          "title": "Custom iPhone 8 Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-8-Custom.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-12.jpg"
+        }
+      ]
+    },
+    {
+      "model": "iPhone 7 Plus",
+      "products": [
+        {
+          "smallTitle": "Apple iPhone 7 Plus",
+          "title": "Custom iPhone 7 Plus Silicone Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-8-Plus-1.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-13.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 7 Plus",
+          "title": "Custom iPhone 7 Plus Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-7-Plus-Bg.png",
+          "oldPrice": 698,
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Glass-Case-Custom-Thumbnail-Final-1-1.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 7 Plus",
+          "title": "Custom iPhone 7 Plus Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/iPhone-7-Plus-iPhone-8-Plus.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-9.jpg"
+        }
+      ]
+    },
+    {
+      "model": "iPhone 7",
+      "products": [
+        {
+          "smallTitle": "Apple iPhone 7",
+          "title": "Custom iPhone 7 Silicone Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/iPhone-SE-2022-2.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-12.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 7",
+          "title": "Custom iPhone 7 Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/10/iPhone-7-Bg.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/03/Glass-Case-Custom-Thumbnail-Final-1.jpg"
+        },
+        {
+          "smallTitle": "Apple iPhone 7",
+          "title": "Custom iPhone 7 Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/iPhone-7-iPhone-8-iPhone-SE-2020.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-8.jpg"
+        }
+      ]
+    }
+  ],
+  "OnePlus": [
+    {
+      "model": "OnePlus 6T",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 6T Clear Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Oneplus-6T.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-10.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 6T Silicon Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2026/02/Oneplus-6T.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/07/Oneplus-6T-510x510.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 6T Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/12/Oneplus-6T.png",
+          "oldPrice": 698,
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Oneplus-6T.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus 7",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 7 Silicone Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/12/Oneplus-7.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/07/Oneplus-7-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 7 Clear Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Oneplus-7.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-11-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 7 Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/12/Oneplus-7-1.png",
+          "oldPrice": 698,
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Oneplus-7-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus 7 Pro",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 7 Pro Silicone Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/Oneplus-7-pro.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 7 Pro Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/12/Oneplus-7-pro-Custom.png",
+          "oldPrice": 698,
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Oneplus-7-Pro-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus 7T",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 7T Silicone Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/OnePlus-7T.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-2-1-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 7T Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Oneplus-7T-1.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/OnePlus-7T-4-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 7T Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/12/OnePlus-7T.png",
+          "oldPrice": 698,
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Glass-Case-Custom-Thumbnail-Final-1-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus 7T Pro",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 7T Pro Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/OnePlus-7T-Pro.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-1-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 7T Pro Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Oneplus-7T-Pro.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/OnePlus-7T-Pro-3-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 7T Pro Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/12/OnePlus-7T-Pro.psd.png",
+          "oldPrice": 698,
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/11/Glass-Case-Custom-Thumbnail-Final-1-3-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus 8",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 8 Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2022/01/Untitled-1-1-min.png",
+          "oldPrice": 698,
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2020/06/Glass-Case-Custom-Thumbnail-Final-1-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 8 Silicone Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/02/OnePlus-8-Custom-Png.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/OnePlus-8-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 8 Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Oneplus-8-1.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-12-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus 8 Pro",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 8 Pro Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2022/01/Oneplus-8-Pro-2.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2020/06/Glass-Case-Custom-Thumbnail-Final-1-1-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 8 Pro Silicone Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/12/Oneplus-8-Pro.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/07/OnePlus-8-Pro-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 8 Pro Clear Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Oneplus-8-Pro.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-13-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus 8T",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 8T Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2022/01/8t.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2021/03/Glass-Case-Custom-Thumbnail-Final-1-2-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 8T Silicone Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/07/Oneplus-8T-Custom.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-14-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 8T Clear Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Oneplus-8T.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-14-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus 9",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 9 Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/05/Oneplus-9-bg-1.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2022/10/Glass-Case-Custom-Thumbnail-Final-1-3-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 9 Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/02/Oneplus-9-BG.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-15-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 9 Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Oneplus-9-1.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-15-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus 9 Pro",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 9 Pro Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/05/Oneplus-9-bg-1.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2021/10/Glass-Case-Custom-Thumbnail-Final-1-2-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 9 Pro Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/Oneplus-9-Pro.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-16-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 9 Pro Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Oneplus-9-Pro.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-16-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus 9R",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 9R Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/05/Oneplus-9R-bg-1.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2021/10/Glass-Case-Custom-Thumbnail-Final-1-5-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 9R Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/07/Oneplus-9R-Custom.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-3-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 9R Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/OnePlus-9R.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-17-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus 9RT",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 9RT Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/OnePlus-9RT-Custom.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2022/09/Glass-Case-Custom-Thumbnail-Final-1-6-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 9RT Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/OnePlus-9RT.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-4-1-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 9RT Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Oneplus-9RT.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-18-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus 10 Pro",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 10 Pro Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/Oneplus-10-Pro-Coustom.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2022/09/Glass-Case-Custom-Thumbnail-Final-1-7-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 10 Pro Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/Oneplus-10-Pro.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-5-2-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 10 Pro Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Oneplus-10-Pro-5G.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-19-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus 10R",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 10R Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/07/Oneplus-10R-Custom.png",
+          "oldPrice": 698,
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2022/09/Glass-Case-Custom-Thumbnail-Final-1-8-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 10R Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/Oneplus-10R.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-6-1-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 10R Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Oneplus-10R-1.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-20-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus 10T",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 10T Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/Oneplus-10T-Custom.png",
+          "oldPrice": 698,
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2022/12/Glass-Case-Custom-Thumbnail-Final-1-9-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 10T Silicone Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/Oneplus-10T.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-7-1-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 10T Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Oneplus-10-Pro-5G-1.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-21-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus 11",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 11 Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/OnePlus-11-Custom.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/04/Glass-Case-Custom-Thumbnail-Final-1-10-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 11 Silicone Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/OnePlus-11.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-8-1-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 11 Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/OnePlus-11.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-34-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus 11R",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 11R Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/OnePlus-11R-Custom.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/04/Glass-Case-Custom-Thumbnail-Final-1-11-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 11R Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/OnePlus-11.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-8-1-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 11R Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/OnePlus-11-5G.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-35-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus 12",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 12 Glass Case",
+          "oldPrice": 698,
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/01/Glass-Case-Custom-Thumbnail-Final-1-12-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 12 Silicone Case",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/01/Silicone-Case-Custom-Thumbnail-Final-9-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 12 Clear Case",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-36-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus 12R",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 12R Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/OnePlus-11R-Custom.png",
+          "oldPrice": 698,
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Glass-Case-Custom-Thumbnail-Final-1-13-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 12R Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/OnePlus-11.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-10-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 12R Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/OnePlus-11-5G.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-37-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus 13",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 13 Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/OnePlus-13-Bg.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/01/Silicone-Case-Custom-Thumbnail-Final-11-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 13 Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/02/OnePlus-13-Bg.png",
+          "oldPrice": 698,
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/02/Glass-Case-Custom-Thumbnail-Final-1-14-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 13 Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/07/oneplus-13r-Custom.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/07/Clear-Case-Custom-Thumbnail-Final-8-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus 13R",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 13R Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/07/OnePlus-13R-Custom-1.png",
+          "oldPrice": 698,
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/05/Glass-Case-Custom-Thumbnail-Final-1-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 13R Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/09/OnePlus-13R.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-1-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 13R Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/07/oneplus-13r-Custom.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/07/Clear-Case-Custom-Thumbnail-Final-8-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus 13S",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 13S Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/08/OnePlus-13T-Custom.png",
+          "oldPrice": 698,
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/08/Glass-OnePlus-13S-Thumbnail-Compress-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 13S Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/09/OnePlus-13S-Custom.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-2-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom Oneplus 13S Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/08/Oneplus-13s-Custom-1.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/08/Clear-Case-Custom-Thumbnail-Final-4-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus 13T",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 13T Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/09/OnePlus-13S-Custom-1.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-3-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/08/Oneplus-13T-Custom-1.png",
+          "title": "Custom Oneplus 13T Clear Case",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/08/Clear-Case-Custom-Thumbnail-Final-5-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 13T Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/08/OnePlus-13S-Custom.png",
+          "oldPrice": 698,
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/08/Glass-OnePlus-13T-Thumbnail-Compress-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus 15",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus 15 Glass Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2026/02/Oneplus-15.png",
+          "oldPrice": 698,
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Oneplus-15-510x510.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus Nord",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/05/Oneplus-Nord-bg-1.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2022/09/Glass-Case-Custom-Thumbnail-Final-1-16-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Oneplus-Nord.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-22-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus Nord 2",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord 2 Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2022/01/oneplus-nord-2-5G.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2022/11/Glass-Case-Custom-Thumbnail-Final-1-17-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord 2 Silicone Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/OnePlus-Nord-2.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Clear-Case-Custom-Thumbnail.psd-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord 2 Clear Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/02/Oneplus-Nord-2.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-23-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus Nord 2T",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord 2T Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/04/Oneplus-Nord-2T-5G-bg.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2022/09/Glass-Case-Custom-Thumbnail-Final-1-18-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord 2T Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Oneplus-Nord-2T-5G.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-24-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord 2T Silicone Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/OnePlus-Nord-2T.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-14-1-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus Nord 3",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord 3 Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/OnePlus-Nord-3-Custom.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/08/Glass-Case-Custom-Thumbnail-Final-1-19-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord 3 Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/OnePlus-Nord-3-5G.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-25-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus Nord 4",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord 4 Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/03/OnePlus-Nord-4-Bg.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Glass-Case-Custom-Thumbnail-Final-1-20-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord 4 Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Oneplus-Nord-4.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/07/Clear-Case-Custom-Thumbnail-Final-26-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord 4 Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/02/OnePlus-Nord-4-Bg.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/02/Silicone-Case-Custom-Thumbnail-Final-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus Nord 5",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord 5 Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/08/OnePlus-Nord-5-Custom-1.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/08/Glass-OnePlus-Nord-5-Thumbnail-Compress-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord 5 Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/09/OnePlus-Nord-5-Custom-Silicone.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-4-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord 5 Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/08/OnePlus-Nord-5-custom-2.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/08/Clear-Case-Custom-Thumbnail-Final-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus Nord CE",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord CE Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/05/Oneplus-Nord-CE-5G-bg-1.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Glass-Case-Custom-Thumbnail-Final-1-21-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord CE Silicone Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/07/OnePlus-Nord-CE.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-27-1-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord CE Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Oneplus-Nord-CE-5G.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-27-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus Nord CE 2",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord CE 2 Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/05/Oneplus-Nord-CE-2-5G-bg.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2022/05/Glass-Case-Custom-Thumbnail-Final-1-22-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord CE 2 Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Oneplus-Nord-CE-2-1.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-28-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus Nord CE 2 Lite",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord CE 2 Lite Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/OnePlus-Nord-CE-2-Lite-Custom.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2022/09/Glass-Case-Custom-Thumbnail-Final-1-23-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord CE 2 Lite Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/OnePlus-Nord-CE-2-Lite.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-28-1-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord CE 2 Lite Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Oneplus-Nord-CE-2-Lite-5G.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-29-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus Nord CE 3",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord CE 3 Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/OnePlus-Nord-CE-3-Custom.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/08/Glass-Case-Custom-Thumbnail-Final-1-24-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord CE 3 Silicone Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/07/OnePlus-Nord-CE-3.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-1-1-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord CE 3 Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/OnePlus-Nord-CE-3.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-30-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus Nord CE 3 Lite",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord CE 3 Lite Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/OnePlus-Nord-CE-3-Lite-Custom.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2023/05/Glass-Case-Custom-Thumbnail-Final-1-25-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord CE 3 Lite Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/12/OnePlus-Nord-CE-3.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/07/OnePlus-Nord-CE-3-Lite-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord CE 3 Lite Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/OnePlus-Nord-CE-3-1.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-31-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus Nord CE 4",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord CE 4 Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Oppo-A3-Pro-Custom.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Glass-Case-Custom-Thumbnail-Final-1-26-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord CE 4 Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/07/Oppo-K12-Custom.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-29-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord CE 4 Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/OnePlus-Nord-CE-4.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-32-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus Nord CE 4 Lite",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord CE 4 Lite Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/07/80-1.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/07/Glass-Case-Custom-Thumbnail-Final-1-27-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord CE 4 Lite Silicone Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/07/OnePlus-Nord-CE-4-Lite-Custom.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-30-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord CE 4 Lite Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/OnePlus-Nord-CE-4-Lite-1.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2024/07/Clear-Case-Custom-Thumbnail-Final-33-247x247.jpg"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus Nord CE 5",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord CE 5 Glass Case",
+          "oldPrice": 698,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/08/OnePlus-Nord-CE-5-Custom-1.png",
+          "price": 349,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/08/Glass-OnePlus-Nord-CE-5-Thumbnail-Compress-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord CE 5 Silicone Case",
+          "oldPrice": 598,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/08/OnePlus-Nord-CE-5-Custom.png",
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-5-247x247.jpg"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "title": "Custom OnePlus Nord CE 5 Clear Case",
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/08/OnePlus-Nord-CE-5-Custom-2.png",
+          "oldPrice": 598,
+          "price": 299,
+          "image": "https://stayclassy.in/wp-content/uploads/2025/08/Clear-Case-Custom-Thumbnail-Final-1-247x247.jpg"
+        }
+      ]
+    }
+  ],
+  "Nothing": [
+    {
+      "model": "Nothing CMF Phone 1",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 1,
+          "title": "Custom Nothing CMF Phone 1 Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Glass-Case-Custom-Thumbnail-Final-7-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/08/Nothing-CMF-Phone-1-Custom.png"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 2,
+          "title": "Custom Nothing CMF Phone 1 Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Clear-Case-Custom-Thumbnail-Final-38-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Nothing-CMF-Phone-1.png"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 3,
+          "title": "Custom Nothing CMF Phone 1 Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/01/Silicone-Case-Custom-Thumbnail-Final-31-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Nothing-CMF-Phone-1-Bg.png"
+        }
+      ]
+    },
+    {
+      "model": "Nothing Phone 1",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 1,
+          "title": "Custom Nothing Phone 1 Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Nothing-Phone-2-Thamlain-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/07/Nothing-Phone-2.png"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 2,
+          "title": "Custom Nothing Phone 1 Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/07/Clear-Case-Custom-Thumbnail-Final-39-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/05/Nothing-Phone-1-Custom.png"
+        }
+      ]
+    },
+    {
+      "model": "Nothing Phone 2",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 1,
+          "title": "Custom Nothing Phone 2 Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-32-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/Nothing-Phone-2-silicon-custom.png"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 2,
+          "title": "Custom Nothing Phone 2 Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-40-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "https://stayclassy.in/wp-content/uploads/2026/02/Nothing-Phone-2-Cut.png"
+        }
+      ]
+    },
+    {
+      "model": "Nothing Phone 2A",
+      "products": [
+        {
+          "id": 1,
+          "title": "Custom Nothing Phone 2A Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Glass-Case-Custom-Thumbnail-Final-1-2-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/03/Nothing-Phone-2A-Custom.png"
+        },
+        {
+          "id": 2,
+          "title": "Custom Nothing Phone 2A Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Nothing-Phone-2A-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/08/Nothing-Phone-2A-Bg.png"
+        },
+        {
+          "id": 3,
+          "title": "Custom Nothing Phone 2A Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-41-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Nothing-Phone-2A.png"
+        }
+      ]
+    },
+    {
+      "model": "Nothing Phone 2A+",
+      "products": [
+        {
+          "id": 1,
+          "title": "Custom Nothing Phone 2A+ Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/05/Glass-Case-Custom-Thumbnail-Final-1-2-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/03/Nothing-Phone-2A-Custom.png"
+        },
+        {
+          "id": 2,
+          "title": "Custom Nothing Phone 2A+ Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/01/Nothing-Phone-2A-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "https://stayclassy.in/wp-content/uploads/2024/08/Nothing-Phone-2A-Bg.png"
+        },
+        {
+          "id": 3,
+          "title": "Custom Nothing Phone 2A+ Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-41-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/01/Nothing-Phone-2A.png"
+        }
+      ]
+    },
+    {
+      "model": "Nothing Phone 3A",
+      "products": [
+        {
+          "id": 1,
+          "title": "Custom Nothing Phone 3A Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/06/Clear-Case-Custom-Thumbnail-Final-42-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/06/Nothing-Phone-3A-Custom.png"
+        },
+        {
+          "id": 2,
+          "title": "Custom Nothing Phone 3A Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Nothing-Phone-3A-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/12/Nothing-Phone-3A.png"
+        },
+        {
+          "id": 3,
+          "title": "Custom Nothing Phone 3A Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-6-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/08/Nothing-Phone-3A-Custom.png"
+        }
+      ]
+    },
+    {
+      "model": "Nothing Phone 3A Pro",
+      "products": [
+        {
+          "id": 1,
+          "title": "Custom Nothing Phone 3A Pro Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/08/Clear-Case-Custom-Thumbnail-Final-3-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/08/Nothing-Phone-3A-Pro-Custom.png"
+        },
+        {
+          "id": 2,
+          "title": "Custom Nothing Phone 3A Pro Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Silicone-Case-Custom-Thumbnail-Final-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "https://stayclassy.in/wp-content/uploads/2025/08/Nothing-Phone-3A-Pro-Custom.png"
+        },
+        {
+          "id": 3,
+          "title": "Custom Nothing Phone 3A Pro Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Nothing-Phone-3A-Pro-1-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "https://stayclassy.in/wp-content/uploads/2026/02/Nothing-Phone-3A-Pro.png"
+        }
+      ]
+    }
+  ],
+  "Xiaomi": [
+    {
+      "model": "Xiaomi 11i",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4804531,
+          "title": "Custom Xiaomi 11i Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/08/Xiaomi-11i-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": ""
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5047013,
+          "title": "Custom Xiaomi 11i Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-33-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": ""
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6186286,
+          "title": "Custom Xiaomi 11i Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Clear-Case-Custom-Thumbnail-Final-1-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": ""
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi 11i HyperCharge",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4804651,
+          "title": "Custom Xiaomi 11i HyperCharge Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/08/Xiaomi-11i-HyperCharge-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": ""
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5047016,
+          "title": "Custom Xiaomi 11i HyperCharge Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-33-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": ""
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5227681,
+          "title": "Custom Xiaomi 11i HyperCharge Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Xiaomi-11i-HyperCharge-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": ""
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi 11T",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5388436,
+          "title": "Custom Xiaomi 11T Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-34-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": ""
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi 11T Pro",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4584416,
+          "title": "Custom Xiaomi 11T Pro Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/09/Glass-Case-Custom-Thumbnail-Final-1-3-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": ""
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5388433,
+          "title": "Custom Xiaomi 11T Pro Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Xiaomi-11T-Pro-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": ""
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi 11 Lite NE 5G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6152561,
+          "title": "Custom Xiaomi 11 Lite NE 5G Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Glass-Case-Custom-Thumbnail-Final-1-20-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": ""
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6158587,
+          "title": "Custom Xiaomi 11 Lite NE 5G Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Silicone-Case-Custom-Thumbnail-Final-17-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": ""
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi 12 Lite",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4584417,
+          "title": "Custom Xiaomi 12 Lite Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/09/Glass-Case-Custom-Thumbnail-Final-1-4-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": ""
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi 12 Pro",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4584421,
+          "title": "Custom Xiaomi 12 Pro Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/09/Glass-Case-Custom-Thumbnail-Final-1-5-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": ""
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5388427,
+          "title": "Custom Xiaomi 12 Pro Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Xiaomi-12-Pro-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": ""
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5257703,
+          "title": "Custom Xiaomi 12 Pro Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/06/Xiaomi-12-Pro-3-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": ""
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi 12S Pro",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4881755,
+          "title": "Custom Xiaomi 12S Pro Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/08/Glass-Case-Custom-Thumbnail-Final-1-6-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": ""
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi 12X",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4969878,
+          "title": "Custom Xiaomi 12X Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Glass-Case-Custom-Thumbnail-Final-1-7-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": ""
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi 13",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5235760,
+          "title": "Custom Xiaomi 13 Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Glass-Case-Custom-Thumbnail-Final-1-8-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": ""
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi 13 Pro",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4788383,
+          "title": "Custom Xiaomi 13 Pro Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/04/Glass-Case-Custom-Thumbnail-Final-1-8-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": ""
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi 13 Ultra",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5236958,
+          "title": "Custom Xiaomi 13 Ultra Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Glass-Case-Custom-Thumbnail-Final-1-9-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": ""
+        }
+      ]
+    },
+
+    {
+      "model": "Xiaomi 14",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5182893,
+          "title": "Custom Xiaomi 14 Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Glass-Case-Custom-Thumbnail-Final-1-10-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5387928,
+          "title": "Custom Xiaomi 14 Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-36-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5232744,
+          "title": "Custom Xiaomi 14 Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi 14 Civi",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5303075,
+          "title": "Custom Xiaomi 14 Civi Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/06/Clear-Case-Custom-Thumbnail-Final-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5387903,
+          "title": "Custom Xiaomi 14 Civi Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-37-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6179703,
+          "title": "Custom Xiaomi 14 Civi Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Xiaomi-14-Civi-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi 14 Ultra",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5205450,
+          "title": "Custom Xiaomi 14 Ultra Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Glass-Case-Custom-Thumbnail-Final-1-11-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Mi Note 10 Lite",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6152564,
+          "title": "Custom Xiaomi Mi Note 10 Lite Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Glass-Case-Custom-Thumbnail-Final-1-21-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6121605,
+          "title": "Custom Xiaomi Mi Note 10 Lite Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-7-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        }
+      ]
+    },
+    { "model": "Xiaomi Mi 10T Lite", "products": [] },
+    {
+      "model": "Xiaomi Mi 10i",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5047025,
+          "title": "Custom Xiaomi Mi 10i Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/06/Xiaomi-Mi-10i-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Mi 11 Lite",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4601740,
+          "title": "Custom Xiaomi Mi 11 Lite Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/11/Glass-Case-Custom-Thumbnail-Final-1-12-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5387038,
+          "title": "Custom Xiaomi Mi 11 Lite Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/02/Silicone-Case-Custom-Thumbnail-Final-35-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5227671,
+          "title": "Custom Xiaomi Mi 11 Lite Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-3-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Mi 11i",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5231971,
+          "title": "Custom Xiaomi Mi 11i Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Glass-Case-Custom-Thumbnail-Final-1-13-1-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6181971,
+          "title": "Custom Xiaomi Mi 11i Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Clear-Case-Custom-Thumbnail-Final-22-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Mi 11X",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4171536,
+          "title": "Custom Xiaomi Mi 11X Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2021/11/Glass-Case-Custom-Thumbnail-Final-1-14-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5047028,
+          "title": "Custom Xiaomi Mi 11X Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-39-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5227685,
+          "title": "Custom Xiaomi Mi 11X Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-4-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Mi 11X Pro",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4506943,
+          "title": "Custom Xiaomi Mi 11X Pro Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/08/Glass-Case-Custom-Thumbnail-Final-1-14-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5047027,
+          "title": "Custom Xiaomi Mi 11X Pro Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/06/Xiaomi-Mi-11X-Pro-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5227688,
+          "title": "Custom Xiaomi Mi 11X Pro Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-4-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Mi 9T",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5037057,
+          "title": "Custom Xiaomi Mi 9T Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/06/Xiaomi-Mi-9T-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        }
+      ]
+    },
+    { "model": "Xiaomi Mi 9T Pro", "products": [] },
+
+    {
+      "model": "Xiaomi Redmi 9",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6122216,
+          "title": "Custom Xiaomi Redmi 9 Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-33-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi 9C",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6122206,
+          "title": "Custom Xiaomi Redmi 9C Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-20-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi 9T",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6152567,
+          "title": "Custom Xiaomi Redmi 9T Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Glass-Case-Custom-Thumbnail-Final-1-22-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6121611,
+          "title": "Custom Xiaomi Redmi 9T Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-8-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6181976,
+          "title": "Custom Xiaomi Redmi 9T Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Clear-Case-Custom-Thumbnail-Final-23-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi 9 Prime",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6122211,
+          "title": "Custom Xiaomi Redmi 9 Prime Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-21-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi 9 Power",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6121614,
+          "title": "Custom Xiaomi Redmi 9 Power Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-8-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6152572,
+          "title": "Custom Xiaomi Redmi 9 Power Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Glass-Case-Custom-Thumbnail-Final-1-22-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6181980,
+          "title": "Custom Xiaomi Redmi 9 Power Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Clear-Case-Custom-Thumbnail-Final-24-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi 10",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5259339,
+          "title": "Custom Xiaomi Redmi 10 Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/06/Clear-Case-Custom-Thumbnail-Final-5-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6152575,
+          "title": "Custom Xiaomi Redmi 10 Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Glass-Case-Custom-Thumbnail-Final-1-24-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi 10 Power",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5232768,
+          "title": "Custom Xiaomi Redmi 10 Power Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/06/Clear-Case-Custom-Thumbnail-Final-5-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6152580,
+          "title": "Custom Xiaomi Redmi 10 Power Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Glass-Case-Custom-Thumbnail-Final-1-24-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi 10 Prime",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5319729,
+          "title": "Custom Xiaomi Redmi 10 Prime Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/07/Clear-Case-Custom-Thumbnail-Final-6-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6152582,
+          "title": "Custom Xiaomi Redmi 10 Prime Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Glass-Case-Custom-Thumbnail-Final-1-25-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6122092,
+          "title": "Custom Xiaomi Redmi 10 Prime Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-9-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi 10A",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5257728,
+          "title": "Custom Xiaomi Redmi 10A Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/06/Clear-Case-Custom-Thumbnail-Final-7-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi 10C",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5232771,
+          "title": "Custom Xiaomi Redmi 10C Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-8-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6152585,
+          "title": "Custom Xiaomi Redmi 10C Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Glass-Case-Custom-Thumbnail-Final-1-26-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        }
+      ]
+    },
+    { "model": "Xiaomi Redmi 11 Prime 4G", "products": [] },
+    {
+      "model": "Xiaomi Redmi 11 Prime 5G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5232780,
+          "title": "Custom Xiaomi Redmi 11 Prime 5G Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-10-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi 12 4G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5387856,
+          "title": "Custom Xiaomi Redmi 12 4G Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-41-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5232818,
+          "title": "Custom Xiaomi Redmi 12 4G Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-11-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi 12 5G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5143301,
+          "title": "Custom Xiaomi Redmi 12 5G Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/02/Silicone-Case-Custom-Thumbnail-Final-42-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5257663,
+          "title": "Custom Xiaomi Redmi 12 5G Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/06/Clear-Case-Custom-Thumbnail-Final-12-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi 12C",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5232785,
+          "title": "Custom Xiaomi Redmi 12C Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-13-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5235785,
+          "title": "Custom Xiaomi Redmi 12C Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Glass-Case-Custom-Thumbnail-Final-1-17-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6121851,
+          "title": "Custom Xiaomi Redmi 12C Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-35-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi 13",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5514899,
+          "title": "Custom Xiaomi Redmi 13 Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Glass-Case-Custom-Thumbnail-Final-1-18-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5318141,
+          "title": "Custom Xiaomi Redmi 13 Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/07/Clear-Case-Custom-Thumbnail-Final-14-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6121618,
+          "title": "Custom Xiaomi Redmi 13 Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-9-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi 13C 4G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5232788,
+          "title": "Custom Xiaomi Redmi 13C 4G Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-15-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi 13C 5G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5205456,
+          "title": "Custom Xiaomi Redmi 13C 5G Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Glass-Case-Custom-Thumbnail-Final-1-19-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5387851,
+          "title": "Custom Xiaomi Redmi 13C 5G Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-43-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5233482,
+          "title": "Custom Xiaomi Redmi 13C 5G Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-16-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi 14C",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5927563,
+          "title": "Custom Xiaomi Redmi 14C Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/02/Clear-Case-Custom-Thumbnail-Final-17-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6121622,
+          "title": "Custom Xiaomi Redmi 14C Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-10-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5957303,
+          "title": "Custom Xiaomi Redmi 14C Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/05/Glass-Case-Custom-Thumbnail-Final-1-20-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi 14R",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5526482,
+          "title": "Custom Xiaomi Redmi 14R Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/02/Clear-Case-Custom-Thumbnail-Final-17-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi 15 5G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6142068,
+          "title": "Custom Xiaomi Redmi 15 5G Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/11/Clear-Case-Custom-Thumbnail-Final-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6179707,
+          "title": "Custom Xiaomi Redmi 15 5G Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Xiaomi-Redmi-15-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi 15C 5G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6142059,
+          "title": "Custom Xiaomi Redmi 15C 5G Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/11/Clear-Case-Custom-Thumbnail-Final-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi A1",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5257686,
+          "title": "Custom Xiaomi Redmi A1 Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/06/Clear-Case-Custom-Thumbnail-Final-18-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6152588,
+          "title": "Custom Xiaomi Redmi A1 Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Glass-Case-Custom-Thumbnail-Final-1-27-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi A1+",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5227701,
+          "title": "Custom Xiaomi Redmi A1+ Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-19-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi A2",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5232800,
+          "title": "Custom Xiaomi Redmi A2 Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-20-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6179575,
+          "title": "Custom Xiaomi Redmi A2 Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Xiaomi-Redmi-A2-1-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi A2+",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6152593,
+          "title": "Custom Xiaomi Redmi A2+ Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Glass-Case-Custom-Thumbnail-Final-1-27-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5232804,
+          "title": "Custom Xiaomi Redmi A2+ Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-19-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi A3",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5232809,
+          "title": "Custom Xiaomi Redmi A3 Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Xiaomi-Redmi-A3-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6179579,
+          "title": "Custom Xiaomi Redmi A3 Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Xiaomi-Redmi-A3-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi K20",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5046989,
+          "title": "Custom Xiaomi Redmi K20 Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-45-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6152595,
+          "title": "Custom Xiaomi Redmi K20 Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Glass-Case-Custom-Thumbnail-Final-1-28-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6181990,
+          "title": "Custom Xiaomi Redmi K20 Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Clear-Case-Custom-Thumbnail-Final-25-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi K20 Pro",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5037069,
+          "title": "Custom Xiaomi Redmi K20 Pro Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-45-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6152598,
+          "title": "Custom Xiaomi Redmi K20 Pro Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Glass-Case-Custom-Thumbnail-Final-1-28-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6181999,
+          "title": "Custom Xiaomi Redmi K20 Pro Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Clear-Case-Custom-Thumbnail-Final-26-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi K40",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6158599,
+          "title": "Custom Xiaomi Redmi K40 Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Silicone-Case-Custom-Thumbnail-Final-18-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6152600,
+          "title": "Custom Xiaomi Redmi K40 Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Glass-Case-Custom-Thumbnail-Final-1-29-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5227706,
+          "title": "Custom Xiaomi Redmi K40 Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-4-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    { "model": "Xiaomi Redmi K40 Gaming", "products": [] },
+    {
+      "model": "Xiaomi Redmi K50i",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5037085,
+          "title": "Custom Xiaomi Redmi K50i Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-46-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5939780,
+          "title": "Custom Xiaomi Redmi K50i Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/03/Glass-Case-Custom-Thumbnail-Final-1-21-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5227710,
+          "title": "Custom Xiaomi Redmi K50i Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Xiaomi-Redmi-K50i-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi K80",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5823958,
+          "title": "Custom Xiaomi Redmi K80 Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/02/Glass-Case-Custom-Thumbnail-Final-1-22-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi K80 Pro",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5823989,
+          "title": "Custom Xiaomi Redmi K80 Pro Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/02/Glass-Case-Custom-Thumbnail-Final-1-23-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        }
+      ]
+    },
+
+    {
+      "model": "Xiaomi Redmi Note 7",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6167595,
+          "title": "Custom Xiaomi Redmi Note 7 Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/01/Glass-Case-Custom-Thumbnail-Final-1-32-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 7 Pro",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6167598,
+          "title": "Custom Xiaomi Redmi Note 7 Pro Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/01/Glass-Case-Custom-Thumbnail-Final-1-32-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 8",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6122198,
+          "title": "Custom Xiaomi Redmi Note 8 Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-19-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 8 Pro",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5037145,
+          "title": "Custom Xiaomi Redmi Note 8 Pro Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-47-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6033081,
+          "title": "Custom Redmi Note 8 Pro Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/07/Glass-Case-Custom-Thumbnail-Final-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6182009,
+          "title": "Custom Xiaomi Redmi Note 8 Pro Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Clear-Case-Custom-Thumbnail-Final-27-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    { "model": "Xiaomi Redmi Note 9 4G", "products": [] },
+    { "model": "Xiaomi Redmi Note 9 Pro 4G", "products": [] },
+    { "model": "Xiaomi Redmi Note 9 Pro 5G", "products": [] },
+    { "model": "Xiaomi Redmi Note 9 Pro Max", "products": [] },
+    { "model": "Xiaomi Redmi Note 9S", "products": [] },
+    { "model": "Xiaomi Redmi Note 10 4G", "products": [] },
+    { "model": "Xiaomi Redmi Note 10 5G", "products": [] },
+    { "model": "Xiaomi Redmi Note 10 Lite", "products": [] },
+    { "model": "Xiaomi Redmi Note 10 Pro", "products": [] },
+    { "model": "Xiaomi Redmi Note 10 Pro Max", "products": [] },
+    { "model": "Xiaomi Redmi Note 10S", "products": [] },
+    { "model": "Xiaomi Redmi Note 10T", "products": [] },
+    { "model": "Xiaomi Redmi Note 11", "products": [] },
+    { "model": "Xiaomi Redmi Note 11 Pro", "products": [] },
+    { "model": "Xiaomi Redmi Note 11 Pro+", "products": [] },
+    { "model": "Xiaomi Redmi Note 11 SE", "products": [] },
+    { "model": "Xiaomi Redmi Note 11E Pro", "products": [] },
+    { "model": "Xiaomi Redmi Note 11S 4G", "products": [] },
+    { "model": "Xiaomi Redmi Note 11S 5G", "products": [] },
+    { "model": "Xiaomi Redmi Note 11T", "products": [] },
+    { "model": "Xiaomi Redmi Note 11T Pro", "products": [] },
+    { "model": "Xiaomi Redmi Note 11T Pro+", "products": [] },
+    { "model": "Xiaomi Redmi Note 12 4G", "products": [] },
+    { "model": "Xiaomi Redmi Note 12 5G", "products": [] },
+    { "model": "Xiaomi Redmi Note 12 Pro 5G", "products": [] },
+    { "model": "Xiaomi Redmi Note 12 Pro+", "products": [] },
+    { "model": "Xiaomi Redmi Note 12 Pro Speed", "products": [] },
+    { "model": "Xiaomi Redmi Note 12R", "products": [] },
+    { "model": "Xiaomi Redmi Note 12S", "products": [] },
+    { "model": "Xiaomi Redmi Note 13 4G", "products": [] },
+    { "model": "Xiaomi Redmi Note 13 5G", "products": [] },
+    { "model": "Xiaomi Redmi Note 13 Pro 4G", "products": [] },
+    { "model": "Xiaomi Redmi Note 13 Pro 5G", "products": [] },
+    { "model": "Xiaomi Redmi Note 13 Pro+", "products": [] },
+    { "model": "Xiaomi Redmi Note 14 5G", "products": [] },
+    { "model": "Xiaomi Redmi Note 14 Pro 4G", "products": [] },
+    { "model": "Xiaomi Redmi Note 14 Pro 5G", "products": [] },
+    { "model": "Xiaomi Redmi Note 14 Pro+", "products": [] },
+    { "model": "Xiaomi Redmi Note 15 5G", "products": [] }
+  ],
+  "Poco": [
+    { "model": "Poco C31", "products": [] },
+    { "model": "Poco C50", "products": [] },
+    { "model": "Poco C51", "products": [] },
+    { "model": "Poco C55", "products": [] },
+    { "model": "Poco C61", "products": [] },
+    { "model": "Poco C65", "products": [] },
+
+    { "model": "Poco F3", "products": [] },
+    { "model": "Poco F3 GT", "products": [] },
+    { "model": "Poco F4", "products": [] },
+    { "model": "Poco F5", "products": [] },
+    { "model": "Poco F6", "products": [] },
+
+    { "model": "Poco M2", "products": [] },
+    { "model": "Poco M4", "products": [] },
+    { "model": "Poco M4 Pro 4G", "products": [] },
+    { "model": "Poco M4 Pro 5G", "products": [] },
+    { "model": "Poco M5", "products": [] },
+    { "model": "Poco M5s", "products": [] },
+    { "model": "Poco M6 Pro 5G", "products": [] },
+
+    { "model": "Poco X3", "products": [] },
+    { "model": "Poco X3 Pro", "products": [] },
+    { "model": "Poco X4 GT", "products": [] },
+    { "model": "Poco X4 Pro", "products": [] },
+    { "model": "Poco X5", "products": [] },
+    { "model": "Poco X5 Pro", "products": [] },
+    { "model": "Poco X6", "products": [] },
+    { "model": "Poco X6 Pro", "products": [] }
+  ],
+  "Samsung": [
+    { "model": "Samsung A06", "products": [] },
+    { "model": "Samsung A12", "products": [] },
+    { "model": "Samsung A13 4G", "products": [] },
+    { "model": "Samsung A13 5G", "products": [] },
+    { "model": "Samsung A14", "products": [] },
+    { "model": "Samsung A15", "products": [] },
+    { "model": "Samsung A16", "products": [] },
+    { "model": "Samsung A22 4G", "products": [] },
+    { "model": "Samsung A22 5G", "products": [] },
+    { "model": "Samsung A23", "products": [] },
+    { "model": "Samsung A25", "products": [] },
+    { "model": "Samsung A26", "products": [] },
+    { "model": "Samsung A31", "products": [] },
+    { "model": "Samsung A32 4G", "products": [] },
+    { "model": "Samsung A32 5G", "products": [] },
+    { "model": "Samsung A33", "products": [] },
+    { "model": "Samsung A34", "products": [] },
+    { "model": "Samsung A35", "products": [] },
+    { "model": "Samsung A36", "products": [] },
+    { "model": "Samsung A50", "products": [] },
+    { "model": "Samsung A51", "products": [] },
+    { "model": "Samsung A52", "products": [] },
+    { "model": "Samsung A52S", "products": [] },
+    { "model": "Samsung A53", "products": [] },
+    { "model": "Samsung A54", "products": [] },
+    { "model": "Samsung A55", "products": [] },
+    { "model": "Samsung A56", "products": [] },
+    { "model": "Samsung A72", "products": [] },
+    { "model": "Samsung A73", "products": [] },
+
+    { "model": "Samsung F04", "products": [] },
+    { "model": "Samsung F05", "products": [] },
+    { "model": "Samsung F06", "products": [] },
+    { "model": "Samsung F12", "products": [] },
+    { "model": "Samsung F13", "products": [] },
+    { "model": "Samsung F14 4G", "products": [] },
+    { "model": "Samsung F14 5G", "products": [] },
+    { "model": "Samsung F15", "products": [] },
+    { "model": "Samsung F22", "products": [] },
+    { "model": "Samsung F23", "products": [] },
+    { "model": "Samsung F34", "products": [] },
+    { "model": "Samsung F41", "products": [] },
+    { "model": "Samsung F42", "products": [] },
+    { "model": "Samsung F54", "products": [] },
+    { "model": "Samsung F55", "products": [] },
+    { "model": "Samsung F62", "products": [] },
+
+    { "model": "Samsung M02S", "products": [] },
+    { "model": "Samsung M04", "products": [] },
+    { "model": "Samsung M06", "products": [] },
+    { "model": "Samsung M12", "products": [] },
+    { "model": "Samsung M13 4G", "products": [] },
+    { "model": "Samsung M13 5G", "products": [] },
+    { "model": "Samsung M14 4G", "products": [] },
+    { "model": "Samsung M14 5G", "products": [] },
+    { "model": "Samsung M15", "products": [] },
+    { "model": "Samsung M21 2021", "products": [] },
+    { "model": "Samsung M23", "products": [] },
+    { "model": "Samsung M31", "products": [] },
+    { "model": "Samsung M31 Prime", "products": [] },
+    { "model": "Samsung M31S", "products": [] },
+    { "model": "Samsung M32 4G", "products": [] },
+    { "model": "Samsung M32 5G", "products": [] },
+    { "model": "Samsung M33", "products": [] },
+    { "model": "Samsung M34", "products": [] },
+    { "model": "Samsung M35", "products": [] },
+    { "model": "Samsung M36", "products": [] },
+    { "model": "Samsung M51", "products": [] },
+    { "model": "Samsung M52 5G", "products": [] },
+    { "model": "Samsung M53", "products": [] },
+    { "model": "Samsung M54", "products": [] },
+    { "model": "Samsung M55", "products": [] },
+    { "model": "Samsung M56", "products": [] },
+    { "model": "Samsung M62", "products": [] },
+
+    { "model": "Samsung Note 20", "products": [] },
+    { "model": "Samsung Note 20 Ultra", "products": [] },
+
+    { "model": "Samsung S20", "products": [] },
+    { "model": "Samsung S20 FE", "products": [] },
+    { "model": "Samsung S20+", "products": [] },
+    { "model": "Samsung S20 Ultra", "products": [] },
+    { "model": "Samsung S21", "products": [] },
+    { "model": "Samsung S21 FE", "products": [] },
+    { "model": "Samsung S21+", "products": [] },
+    { "model": "Samsung S21 Ultra", "products": [] },
+    { "model": "Samsung S22", "products": [] },
+    { "model": "Samsung S22+", "products": [] },
+    { "model": "Samsung S22 Ultra", "products": [] },
+    { "model": "Samsung S23", "products": [] },
+    { "model": "Samsung S23 FE", "products": [] },
+    { "model": "Samsung S23+", "products": [] },
+    { "model": "Samsung S23 Ultra", "products": [] },
+    { "model": "Samsung S24", "products": [] },
+    { "model": "Samsung S24 FE", "products": [] },
+    { "model": "Samsung S24+", "products": [] },
+    { "model": "Samsung S24 Ultra", "products": [] },
+    { "model": "Samsung S25", "products": [] },
+    { "model": "Samsung S25+", "products": [] },
+    { "model": "Samsung S25 Ultra", "products": [] },
+    { "model": "Samsung S25 Edge", "products": [] },
+
+    { "model": "Samsung Z Flip 3", "products": [] },
+    { "model": "Samsung Z Flip 4", "products": [] },
+    { "model": "Samsung Z Flip 5", "products": [] },
+    { "model": "Samsung Z Flip 6", "products": [] },
+    { "model": "Samsung Z Fold 3", "products": [] },
+    { "model": "Samsung Z Fold 4", "products": [] },
+    { "model": "Samsung Z Fold 5", "products": [] },
+    { "model": "Samsung Z Fold 6", "products": [] }
+  ],
+  "Google": [
+    { "model": "Google Pixel 6", "products": [] },
+    { "model": "Google Pixel 6A", "products": [] },
+    { "model": "Google Pixel 6 Pro", "products": [] },
+    { "model": "Google Pixel 7", "products": [] },
+    { "model": "Google Pixel 7A", "products": [] },
+    { "model": "Google Pixel 7 Pro", "products": [] },
+    { "model": "Google Pixel 8", "products": [] },
+    { "model": "Google Pixel 8A", "products": [] },
+    { "model": "Google Pixel 8 Pro", "products": [] },
+    { "model": "Google Pixel 9", "products": [] },
+    { "model": "Google Pixel 9 Pro", "products": [] },
+    { "model": "Google Pixel 9 Pro XL", "products": [] }
+  ],
+  "Vivo": [
+    { "model": "Vivo T1 4G (44W)", "products": [] },
+    { "model": "Vivo T1 5G", "products": [] },
+    { "model": "Vivo T1 Pro 5G", "products": [] },
+    { "model": "Vivo T1X 4G", "products": [] },
+    { "model": "Vivo T2 5G", "products": [] },
+    { "model": "Vivo T2X", "products": [] },
+    { "model": "Vivo T2 Pro 5G", "products": [] },
+    { "model": "Vivo T3 5G", "products": [] },
+    { "model": "Vivo T3 Lite", "products": [] },
+    { "model": "Vivo T3 Pro 5G", "products": [] },
+    { "model": "Vivo T3X", "products": [] },
+    { "model": "Vivo T3 Ultra", "products": [] },
+    { "model": "Vivo T4X", "products": [] },
+
+    { "model": "Vivo V20", "products": [] },
+    { "model": "Vivo V20 Pro", "products": [] },
+    { "model": "Vivo V20 SE", "products": [] },
+    { "model": "Vivo V21", "products": [] },
+    { "model": "Vivo V21E 4G", "products": [] },
+    { "model": "Vivo V21E 5G", "products": [] },
+    { "model": "Vivo V21S", "products": [] },
+    { "model": "Vivo V23", "products": [] },
+    { "model": "Vivo V23 Pro", "products": [] },
+    { "model": "Vivo V23E", "products": [] },
+    { "model": "Vivo V25 5G", "products": [] },
+    { "model": "Vivo V25 Pro 5G", "products": [] },
+    { "model": "Vivo V25E", "products": [] },
+    { "model": "Vivo V27", "products": [] },
+    { "model": "Vivo V27 Pro", "products": [] },
+    { "model": "Vivo V27E", "products": [] },
+    { "model": "Vivo V29", "products": [] },
+    { "model": "Vivo V29 Pro", "products": [] },
+    { "model": "Vivo V29E", "products": [] },
+    { "model": "Vivo V30 5G", "products": [] },
+    { "model": "Vivo V30 Pro 5G", "products": [] },
+    { "model": "Vivo V30E", "products": [] },
+    { "model": "Vivo V40", "products": [] },
+    { "model": "Vivo V40 Lite", "products": [] },
+    { "model": "Vivo V40E", "products": [] },
+    { "model": "Vivo V40 Pro", "products": [] },
+    { "model": "Vivo V50", "products": [] },
+    { "model": "Vivo V50E", "products": [] },
+    { "model": "Vivo V60", "products": [] },
+
+    { "model": "Vivo Y01", "products": [] },
+    { "model": "Vivo Y02 4G", "products": [] },
+    { "model": "Vivo Y02S", "products": [] },
+    { "model": "Vivo Y02T", "products": [] },
+    { "model": "Vivo Y03", "products": [] },
+    { "model": "Vivo Y11(2023)", "products": [] },
+    { "model": "Vivo Y12S", "products": [] },
+    { "model": "Vivo Y15S", "products": [] },
+    { "model": "Vivo Y16", "products": [] },
+    { "model": "Vivo Y17S", "products": [] },
+    { "model": "Vivo Y18", "products": [] },
+    { "model": "Vivo Y18E", "products": [] },
+    { "model": "Vivo Y19S", "products": [] },
+    { "model": "Vivo Y19S Pro", "products": [] },
+    { "model": "Vivo Y20", "products": [] },
+    { "model": "Vivo Y21 4G", "products": [] },
+    { "model": "Vivo Y21S", "products": [] },
+    { "model": "Vivo Y21T", "products": [] },
+    { "model": "Vivo Y22", "products": [] },
+    { "model": "Vivo Y22S", "products": [] },
+    { "model": "Vivo Y27 4G", "products": [] },
+    { "model": "Vivo Y27 5G", "products": [] },
+    { "model": "Vivo Y27S", "products": [] },
+    { "model": "Vivo Y28 5G", "products": [] },
+    { "model": "Vivo Y28S", "products": [] },
+    { "model": "Vivo Y28E", "products": [] },
+    { "model": "Vivo Y29 4G", "products": [] },
+    { "model": "Vivo Y29 5G", "products": [] },
+    { "model": "Vivo Y30 5G", "products": [] },
+    { "model": "Vivo Y31 4G(2020)", "products": [] },
+    { "model": "Vivo Y32", "products": [] },
+    { "model": "Vivo Y33E", "products": [] },
+    { "model": "Vivo Y33S 4G", "products": [] },
+    { "model": "Vivo Y33S 5G", "products": [] },
+    { "model": "Vivo Y33T", "products": [] },
+    { "model": "Vivo Y35 4G", "products": [] },
+    { "model": "Vivo Y35+", "products": [] },
+    { "model": "Vivo Y36", "products": [] },
+    { "model": "Vivo Y38", "products": [] },
+    { "model": "Vivo Y39", "products": [] },
+    { "model": "Vivo Y51A", "products": [] },
+    { "model": "Vivo Y52 5G", "products": [] },
+    { "model": "Vivo Y52T", "products": [] },
+    { "model": "Vivo Y55 5G", "products": [] },
+    { "model": "Vivo Y56 5G", "products": [] },
+    { "model": "Vivo Y58 5G", "products": [] },
+    { "model": "Vivo Y70", "products": [] },
+    { "model": "Vivo Y71T", "products": [] },
+    { "model": "Vivo Y73 4G", "products": [] },
+    { "model": "Vivo Y75 4G", "products": [] },
+    { "model": "Vivo Y75 5G", "products": [] },
+    { "model": "Vivo Y75S", "products": [] },
+    { "model": "Vivo Y77", "products": [] },
+    { "model": "Vivo Y78 5G", "products": [] },
+    { "model": "Vivo Y100 5G", "products": [] },
+    { "model": "Vivo Y100A", "products": [] },
+    { "model": "Vivo Y200", "products": [] },
+    { "model": "Vivo Y200 Pro", "products": [] },
+    { "model": "Vivo Y200E 5G", "products": [] },
+    { "model": "Vivo Y200T", "products": [] },
+    { "model": "Vivo Y300", "products": [] },
+    { "model": "Vivo Y300+", "products": [] },
+    { "model": "Vivo Y400", "products": [] },
+    { "model": "Vivo Y400 Pro", "products": [] },
+
+    { "model": "Vivo X60", "products": [] },
+    { "model": "Vivo X60 Pro", "products": [] },
+    { "model": "Vivo X60 Pro+ 5G", "products": [] },
+    { "model": "Vivo X60T", "products": [] },
+    { "model": "Vivo X70", "products": [] },
+    { "model": "Vivo X70 Pro", "products": [] },
+    { "model": "Vivo X70 Pro+", "products": [] },
+    { "model": "Vivo X80 5G", "products": [] },
+    { "model": "Vivo X80 Lite", "products": [] },
+    { "model": "Vivo X80 Pro 5G", "products": [] },
+    { "model": "Vivo X90", "products": [] },
+    { "model": "Vivo X90 Pro", "products": [] },
+    { "model": "Vivo X100 5G", "products": [] },
+    { "model": "Vivo X100 Pro 5G", "products": [] },
+    { "model": "Vivo X200", "products": [] },
+    { "model": "Vivo X200 Pro", "products": [] },
+    { "model": "Vivo X200 FE", "products": [] }
+  ],
+  "Oppo": [
+    { "model": "Oppo A1 Pro", "products": [] },
+    { "model": "Oppo A3X 5G", "products": [] },
+    { "model": "Oppo A3 Pro", "products": [] },
+    { "model": "Oppo A5 5G", "products": [] },
+    { "model": "Oppo A5 Pro", "products": [] },
+    { "model": "Oppo A16", "products": [] },
+    { "model": "Oppo A16K", "products": [] },
+    { "model": "Oppo A17", "products": [] },
+    { "model": "Oppo A17K", "products": [] },
+    { "model": "Oppo A18", "products": [] },
+    { "model": "Oppo A36", "products": [] },
+    { "model": "Oppo A38", "products": [] },
+    { "model": "Oppo A53 4G", "products": [] },
+    { "model": "Oppo A53S 4G", "products": [] },
+    { "model": "Oppo A53S 5G", "products": [] },
+    { "model": "Oppo A54 4G", "products": [] },
+    { "model": "Oppo A55 4G", "products": [] },
+    { "model": "Oppo A55 5G", "products": [] },
+    { "model": "Oppo A57 4G", "products": [] },
+    { "model": "Oppo A57 5G", "products": [] },
+    { "model": "Oppo A58", "products": [] },
+    { "model": "Oppo A58X", "products": [] },
+    { "model": "Oppo A59", "products": [] },
+    { "model": "Oppo A74 4G", "products": [] },
+    { "model": "Oppo A74 5G", "products": [] },
+    { "model": "Oppo A76", "products": [] },
+    { "model": "Oppo A77 4G", "products": [] },
+    { "model": "Oppo A77 5G", "products": [] },
+    { "model": "Oppo A77S", "products": [] },
+    { "model": "Oppo A78 4G", "products": [] },
+    { "model": "Oppo A78 5G", "products": [] },
+    { "model": "Oppo A79", "products": [] },
+    { "model": "Oppo A94 4G", "products": [] },
+    { "model": "Oppo A95 5G", "products": [] },
+    { "model": "Oppo A96", "products": [] },
+    { "model": "Oppo A98", "products": [] },
+
+    { "model": "Oppo F19", "products": [] },
+    { "model": "Oppo F19 Pro", "products": [] },
+    { "model": "Oppo F19 Pro+", "products": [] },
+    { "model": "Oppo F21 Pro 4G", "products": [] },
+    { "model": "Oppo F21 Pro 5G", "products": [] },
+    { "model": "Oppo F21S Pro 4G", "products": [] },
+    { "model": "Oppo F21S Pro 5G", "products": [] },
+    { "model": "Oppo F23", "products": [] },
+    { "model": "Oppo F25 Pro 5G", "products": [] },
+    { "model": "Oppo F27", "products": [] },
+    { "model": "Oppo F27 Pro", "products": [] },
+    { "model": "Oppo F27 Pro+", "products": [] },
+    { "model": "Oppo F29", "products": [] },
+    { "model": "Oppo F29 Pro", "products": [] },
+    { "model": "Oppo F31", "products": [] },
+    { "model": "Oppo F31 Pro", "products": [] },
+    { "model": "Oppo F31 Pro+", "products": [] },
+
+    { "model": "Oppo Find X8", "products": [] },
+    { "model": "Oppo Find X8 Pro", "products": [] },
+
+    { "model": "Oppo K10 4G", "products": [] },
+    { "model": "Oppo K10 5G", "products": [] },
+    { "model": "Oppo K12", "products": [] },
+    { "model": "Oppo K12X", "products": [] },
+    { "model": "Oppo K13", "products": [] },
+
+    { "model": "Oppo Reno 6 4G", "products": [] },
+    { "model": "Oppo Reno 6 5G", "products": [] },
+    { "model": "Oppo Reno 6 Pro", "products": [] },
+    { "model": "Oppo Reno 7 4G", "products": [] },
+    { "model": "Oppo Reno 7 5G", "products": [] },
+    { "model": "Oppo Reno 7 Lite", "products": [] },
+    { "model": "Oppo Reno 7 Pro 5G", "products": [] },
+    { "model": "Oppo Reno 7Z", "products": [] },
+    { "model": "Oppo Reno 8 4G", "products": [] },
+    { "model": "Oppo Reno 8 5G", "products": [] },
+    { "model": "Oppo Reno 8 Lite", "products": [] },
+    { "model": "Oppo Reno 8 Pro", "products": [] },
+    { "model": "Oppo Reno 8T 4G", "products": [] },
+    { "model": "Oppo Reno 8T 5G", "products": [] },
+    { "model": "Oppo Reno 8Z", "products": [] },
+    { "model": "Oppo Reno 9", "products": [] },
+    { "model": "Oppo Reno 9 Pro", "products": [] },
+    { "model": "Oppo Reno 9 Pro+", "products": [] },
+    { "model": "Oppo Reno 10 5G", "products": [] },
+    { "model": "Oppo Reno 10 Pro 5G", "products": [] },
+    { "model": "Oppo Reno 10 Pro+ 5G", "products": [] },
+    { "model": "Oppo Reno 11 5G", "products": [] },
+    { "model": "Oppo Reno 11 Pro 5G", "products": [] },
+    { "model": "Oppo Reno 11F", "products": [] },
+    { "model": "Oppo Reno 12", "products": [] },
+    { "model": "Oppo Reno 12 Pro", "products": [] },
+    { "model": "Oppo Reno 13", "products": [] },
+    { "model": "Oppo Reno 13 Pro", "products": [] },
+    { "model": "Oppo Reno 14 Pro", "products": [] }
+  ],
+  "Realme": [
+    { "model": "Realme 5 Pro", "products": [] },
+    { "model": "Realme 6", "products": [] },
+    { "model": "Realme 6 Pro", "products": [] },
+    { "model": "Realme 7 4G", "products": [] },
+    { "model": "Realme 7 Pro", "products": [] },
+    { "model": "Realme 8 4G", "products": [] },
+    { "model": "Realme 8 5G", "products": [] },
+    { "model": "Realme 8 Pro", "products": [] },
+    { "model": "Realme 8i", "products": [] },
+    { "model": "Realme 8S", "products": [] },
+
+    { "model": "Realme 9 4G", "products": [] },
+    { "model": "Realme 9 5G", "products": [] },
+    { "model": "Realme 9 Pro 5G", "products": [] },
+    { "model": "Realme 9 Pro+ 5G", "products": [] },
+    { "model": "Realme 9 Speed", "products": [] },
+    { "model": "Realme 9i 4G", "products": [] },
+    { "model": "Realme 9i 5G", "products": [] },
+
+    { "model": "Realme 10 4G", "products": [] },
+    { "model": "Realme 10 5G", "products": [] },
+    { "model": "Realme 10 Pro 5G", "products": [] },
+    { "model": "Realme 10 Pro+ 5G", "products": [] },
+
+    { "model": "Realme 11 4G", "products": [] },
+    { "model": "Realme 11 5G", "products": [] },
+    { "model": "Realme 11 Pro", "products": [] },
+    { "model": "Realme 11 Pro+", "products": [] },
+    { "model": "Realme 11X 5G", "products": [] },
+
+    { "model": "Realme 12 4G", "products": [] },
+    { "model": "Realme 12 5G", "products": [] },
+    { "model": "Realme 12 Plus 5G", "products": [] },
+    { "model": "Realme 12 Pro 5G", "products": [] },
+    { "model": "Realme 12 Pro+ 5G", "products": [] },
+    { "model": "Realme 12X 5G", "products": [] },
+
+    { "model": "Realme 13 4G", "products": [] },
+    { "model": "Realme 13 5G", "products": [] },
+    { "model": "Realme 13 Pro", "products": [] },
+    { "model": "Realme 13+", "products": [] },
+    { "model": "Realme 13 Pro+", "products": [] },
+
+    { "model": "Realme 14", "products": [] },
+    { "model": "Realme 14X", "products": [] },
+    { "model": "Realme 14T", "products": [] },
+    { "model": "Realme 14 Pro", "products": [] },
+    { "model": "Realme 14 Pro+", "products": [] },
+    { "model": "Realme 15", "products": [] },
+    { "model": "Realme 15 Pro", "products": [] },
+
+    { "model": "Realme C11(2021)", "products": [] },
+    { "model": "Realme C15", "products": [] },
+    { "model": "Realme C17", "products": [] },
+    { "model": "Realme C20", "products": [] },
+    { "model": "Realme C21", "products": [] },
+    { "model": "Realme C21Y", "products": [] },
+    { "model": "Realme C25", "products": [] },
+    { "model": "Realme C25Y", "products": [] },
+    { "model": "Realme C30", "products": [] },
+    { "model": "Realme C30S", "products": [] },
+    { "model": "Realme C31", "products": [] },
+    { "model": "Realme C33", "products": [] },
+    { "model": "Realme C35", "products": [] },
+    { "model": "Realme C51", "products": [] },
+    { "model": "Realme C53", "products": [] },
+    { "model": "Realme C55", "products": [] },
+    { "model": "Realme C61", "products": [] },
+    { "model": "Realme C63 4G", "products": [] },
+    { "model": "Realme C63 5G", "products": [] },
+    { "model": "Realme C65 5G", "products": [] },
+    { "model": "Realme C67 5G", "products": [] },
+
+    { "model": "Realme GT 5G", "products": [] },
+    { "model": "Realme GT 2", "products": [] },
+    { "model": "Realme GT 2 Pro", "products": [] },
+    { "model": "Realme GT 6", "products": [] },
+    { "model": "Realme GT 6T", "products": [] },
+    { "model": "Realme GT 7 Pro", "products": [] },
+    { "model": "Realme GT Master", "products": [] },
+    { "model": "Realme GT Neo 2", "products": [] },
+    { "model": "Realme GT Neo 2T", "products": [] },
+    { "model": "Realme GT Neo 3", "products": [] },
+    { "model": "Realme GT Neo 3T", "products": [] },
+    { "model": "Realme GT Neo 6", "products": [] },
+    { "model": "Realme GT Neo 6 SE", "products": [] },
+    { "model": "Realme GT Neo Flash", "products": [] },
+
+    { "model": "Realme Narzo 20 Pro", "products": [] },
+    { "model": "Realme Narzo 30 5G", "products": [] },
+    { "model": "Realme Narzo 30A", "products": [] },
+    { "model": "Realme Narzo 50 5G", "products": [] },
+    { "model": "Realme Narzo 50 Pro", "products": [] },
+    { "model": "Realme Narzo 50A", "products": [] },
+    { "model": "Realme Narzo 50i Prime", "products": [] },
+    { "model": "Realme Narzo 60", "products": [] },
+    { "model": "Realme Narzo 60 Pro", "products": [] },
+    { "model": "Realme Narzo 60X", "products": [] },
+    { "model": "Realme Narzo 70", "products": [] },
+    { "model": "Realme Narzo 70 Pro", "products": [] },
+    { "model": "Realme Narzo 70X", "products": [] },
+    { "model": "Realme Narzo 80 Lite 5G", "products": [] },
+    { "model": "Realme Narzo N53", "products": [] },
+    { "model": "Realme Narzo N55", "products": [] },
+    { "model": "Realme Narzo N63", "products": [] },
+
+    { "model": "Realme P1", "products": [] },
+    { "model": "Realme P1 Pro", "products": [] },
+    { "model": "Realme P1 Speed", "products": [] },
+    { "model": "Realme P2 Pro", "products": [] },
+    { "model": "Realme P3", "products": [] },
+    { "model": "Realme P3 Pro", "products": [] },
+    { "model": "Realme P3 Ultra", "products": [] },
+    { "model": "Realme P4", "products": [] },
+    { "model": "Realme P4 Pro", "products": [] },
+
+    { "model": "Realme Q3 5G", "products": [] },
+    { "model": "Realme Q3 Pro 5G", "products": [] },
+    { "model": "Realme Q3i 5G", "products": [] },
+    { "model": "Realme Q5", "products": [] },
+    { "model": "Realme Q5 Pro", "products": [] },
+
+    { "model": "Realme V13 5G", "products": [] },
+    { "model": "Realme V23 5G", "products": [] },
+    { "model": "Realme V25", "products": [] },
+    { "model": "Realme V60", "products": [] },
+
+    { "model": "Realme X50 Pro", "products": [] },
+    { "model": "Realme X7", "products": [] },
+    { "model": "Realme X7 Max 5G", "products": [] },
+    { "model": "Realme X7 Pro", "products": [] },
+    { "model": "Realme XT", "products": [] }
+  ],
+  "iQOO": [
+    { "model": "iQOO 3", "products": [] },
+    { "model": "iQOO 7", "products": [] },
+    { "model": "iQOO 7 Legend", "products": [] },
+    { "model": "iQOO 8", "products": [] },
+    { "model": "iQOO 9", "products": [] },
+    { "model": "iQOO 9 Pro", "products": [] },
+    { "model": "iQOO 9 SE", "products": [] },
+    { "model": "iQOO 9T", "products": [] },
+    { "model": "iQOO 10", "products": [] },
+    { "model": "iQOO 11", "products": [] },
+    { "model": "iQOO 12", "products": [] },
+    { "model": "iQOO 12 Pro", "products": [] },
+    { "model": "iQOO 13", "products": [] },
+
+    { "model": "iQOO Neo 5", "products": [] },
+    { "model": "iQOO Neo 5S", "products": [] },
+    { "model": "iQOO Neo 6", "products": [] },
+    { "model": "iQOO Neo 6 SE", "products": [] },
+    { "model": "iQOO Neo 7", "products": [] },
+    { "model": "iQOO Neo 7 Pro", "products": [] },
+    { "model": "iQOO Neo 7 Racing", "products": [] },
+    { "model": "iQOO Neo 7 SE", "products": [] },
+    { "model": "iQOO Neo 9", "products": [] },
+    { "model": "iQOO Neo 9 Pro", "products": [] },
+    { "model": "iQOO Neo 10", "products": [] },
+    { "model": "iQOO Neo 10R", "products": [] },
+
+    { "model": "iQOO U5E", "products": [] },
+
+    { "model": "iQOO Z3", "products": [] },
+    { "model": "iQOO Z5", "products": [] },
+    { "model": "iQOO Z6", "products": [] },
+    { "model": "iQOO Z6 Lite", "products": [] },
+    { "model": "iQOO Z6 Pro", "products": [] },
+    { "model": "iQOO Z7", "products": [] },
+    { "model": "iQOO Z7 Pro", "products": [] },
+    { "model": "iQOO Z7S", "products": [] },
+    { "model": "iQOO Z9", "products": [] },
+    { "model": "iQOO Z9 Lite", "products": [] },
+    { "model": "iQOO Z9S", "products": [] },
+    { "model": "iQOO Z9S Pro", "products": [] },
+    { "model": "iQOO Z9X", "products": [] },
+    { "model": "iQOO Z10X", "products": [] },
+    { "model": "iQOO Z10 Turbo", "products": [] }
+  ],
+  "Motorola": [
+    { "model": "Motorola Edge 30", "products": [] },
+    { "model": "Motorola Edge 30 Fusion", "products": [] },
+    { "model": "Motorola Edge 30 Pro", "products": [] },
+    { "model": "Motorola Edge 30 Ultra", "products": [] },
+    { "model": "Motorola Edge 40", "products": [] },
+    { "model": "Motorola Edge 40 Neo", "products": [] },
+    { "model": "Motorola Edge 50", "products": [] },
+    { "model": "Motorola Edge 50 Fusion", "products": [] },
+    { "model": "Motorola Edge 50 Pro", "products": [] },
+    { "model": "Motorola Edge 50 Ultra", "products": [] },
+    { "model": "Motorola Edge 50 Neo", "products": [] },
+    { "model": "Motorola Edge 60", "products": [] },
+    { "model": "Motorola Edge 60 Pro", "products": [] },
+    { "model": "Motorola Edge 60 Fusion", "products": [] },
+    { "model": "Motorola Edge 60 Stylus", "products": [] },
+
+    { "model": "Motorola Moto E40", "products": [] },
+
+    { "model": "Motorola Moto G04", "products": [] },
+    { "model": "Motorola Moto G04S", "products": [] },
+    { "model": "Motorola Moto G24", "products": [] },
+    { "model": "Motorola Moto G24 Power", "products": [] },
+    { "model": "Motorola Moto G31", "products": [] },
+    { "model": "Motorola Moto G32", "products": [] },
+    { "model": "Motorola Moto G34", "products": [] },
+    { "model": "Motorola Moto G35", "products": [] },
+    { "model": "Motorola Moto G40 Fusion", "products": [] },
+    { "model": "Motorola Moto G45", "products": [] },
+    { "model": "Motorola Moto G52", "products": [] },
+    { "model": "Motorola Moto G54", "products": [] },
+    { "model": "Motorola Moto G55", "products": [] },
+    { "model": "Motorola Moto G62", "products": [] },
+    { "model": "Motorola Moto G64", "products": [] },
+    { "model": "Motorola Moto G75", "products": [] },
+    { "model": "Motorola Moto G82", "products": [] },
+    { "model": "Motorola Moto G84", "products": [] },
+    { "model": "Motorola Moto G85", "products": [] }
+  ]
+}
