@@ -25,21 +25,47 @@ const CoupleMobileCases = () => {
   }, [products, sortOption, search]);
 
   return (
-    <section className="bg-gray-100 py-14 px-6 md:px-12">
+    <section className="bg-gray-100 py-14 pt-8 px-6 md:px-12">
       <div className="max-w-7xl mx-auto">
         {/* Header */}
         <div className="flex flex-col lg:flex-row lg:justify-between lg:items-start gap-6 mb-10">
           {/* Left - Title & Breadcrumb */}
           <div className="flex-1">
-            <h1 className="text-3xl md:text-4xl font-bold mb-2 text-gray-900">
-              Couple Mobile Cases
+            <h1 className="text-3xl md:text-4xl font-bold mb-2 text-gray-900 hover:scale-[1.02] transition-transform duration-300">
+              Couple Mobile Cases 💕
             </h1>
-            <p className="text-sm text-gray-500">
+
+            <p className="text-sm text-gray-500 mb-3">
               Shop /{" "}
               <span className="font-medium text-gray-800 hover:text-black cursor-pointer transition-colors duration-200">
                 Couple Mobile Cases
               </span>
             </p>
+
+            {/* Interactive Description */}
+            <p className="text-gray-600 max-w-xl text-sm md:text-base leading-relaxed mb-4">
+              Celebrate your bond with our{" "}
+              <span className="font-medium text-pink-500 hover:text-pink-600 transition-colors duration-200 cursor-pointer">
+                matching couple cases
+              </span>
+              . Designed to connect hearts even when you're miles apart. Find
+              the perfect pair that tells{" "}
+              <span className="underline decoration-pink-400">
+                your love story
+              </span>{" "}
+              💖
+            </p>
+
+            {/* Small Interactive CTA */}
+            <div className="flex items-center gap-4">
+              <button className="px-4 py-2 bg-pink-500 text-white rounded-full text-sm hover:bg-pink-600 hover:scale-105 active:scale-95 transition-all duration-200 shadow-md">
+                Explore Collection
+              </button>
+
+              <span className="text-sm text-gray-500 hover:text-pink-500 cursor-pointer transition-colors duration-200">
+                ✨ Find Your Perfect Match
+              </span>
+            </div>
           </div>
 
           {/* Right - Search & Sort */}
@@ -70,36 +96,6 @@ const CoupleMobileCases = () => {
               <option value="priceHigh">Price: high to low</option>
             </select>
           </div>
-        </div>
-
-        {/* Description Section */}
-        <div className="mb-8 text-gray-700 space-y-3 max-w-3xl">
-          <p className="text-sm md:text-base">
-            Love a design? Head to the product page to choose your brand and
-            device – we’ve got you covered with{" "}
-            <span className="font-semibold text-gray-900">
-              550+ Android and iOS Phone Models
-            </span>
-            .
-          </p>
-          <p className="text-sm md:text-base">
-            <span className="font-semibold text-gray-900">
-              All images are for preview only.
-            </span>{" "}
-            Actual product will be delivered as per your selected phone model.
-            <span className="font-semibold text-black cursor-pointer hover:underline ml-1">
-              [Select Your Device Inside]
-            </span>
-          </p>
-        </div>
-
-        {/* Result Count */}
-        <div className="mb-6 text-sm md:text-base text-gray-600">
-          Showing{" "}
-          <span className="font-semibold text-gray-900">
-            {filteredProducts.length}
-          </span>{" "}
-          products
         </div>
 
         {/* Product Grid */}
