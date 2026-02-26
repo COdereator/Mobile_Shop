@@ -62,7 +62,7 @@ export default function Navbar() {
                 style={blue3DLogo}
                 className="text-xl md:text-3xl leading-none"
               >
-                STAY CLASSY
+                MM CLASSY
               </span>
               <div className="flex items-center gap-2 mt-1">
                 <div className="h-[1px] w-4 bg-blue-500/50"></div>
@@ -146,19 +146,20 @@ export default function Navbar() {
             >
               <div className="p-6 space-y-3">
                 {navItems.map((item, idx) => (
-                  <motion.a
+                  <NavLink
                     initial={{ opacity: 0, x: -10 }}
                     animate={{ opacity: 1, x: 0 }}
                     transition={{ delay: idx * 0.05 }}
                     key={item}
-                    href="#"
+                    onClick={() => setMobileOpen(false)}
+                    to={item.toLowerCase().split(" ").join("-")}
                     className="flex items-center justify-between p-4 rounded-2xl bg-neutral-900/50 text-gray-200 border border-blue-500/5 hover:border-blue-500/30 transition-all"
                   >
                     <span className="text-sm font-bold uppercase tracking-tight">
                       {item}
                     </span>
                     <ArrowRight size={16} className="text-blue-500" />
-                  </motion.a>
+                  </NavLink>
                 ))}
               </div>
             </motion.div>

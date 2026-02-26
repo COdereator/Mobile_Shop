@@ -43,7 +43,7 @@ const categories = [
 
 export default function CategorySection() {
   return (
-    <section className="py-12 sm:py-16 bg-white">
+    <section className="py-6 sm:py-16 bg-white">
       {/* Heading */}
       <div className="flex items-center justify-center gap-2 sm:gap-4 md:gap-6 mb-8 sm:mb-12 px-4 sm:px-6">
         <span className="flex-1 h-px bg-gray-300" />
@@ -62,7 +62,7 @@ export default function CategorySection() {
               className="group cursor-pointer transition-all duration-300"
             >
               {/* Image Card */}
-              <div className="relative overflow-hidden rounded-lg bg-gradient-to-b from-sky-50 to-sky-100 h-56 sm:h-60 md:h-70 flex items-center justify-center group-hover:-translate-y-1 group-hover:shadow-2xl transition-all duration-300">
+              <div className="relative overflow-hidden rounded-lg h-76 sm:h-60 md:h-70 flex items-center justify-center group-hover:-translate-y-1 group-hover:shadow-2xl transition-all duration-300">
                 <img
                   src={cat.image}
                   alt={cat.title}
@@ -75,8 +75,8 @@ export default function CategorySection() {
               </div>
 
               {/* Title */}
-              <div className="mt-4 bg-black/95 text-center py-2.5 transition-all duration-300 ease-in-out backdrop-blur-sm border border-neutral-800/50 group-hover:bg-black hover:scale-105  hover:shadow-2xl hover:shadow-cyan-500/20 hover:border-cyan-400/60 cursor-pointer active:scale-95 active:rotate-0 active:shadow-xl transform-gpu">
-                <span className="text-sm sm:text-base font-medium tracking-[0.18em] text-white group-hover:text-white hover:text-cyan-400 transition-all duration-200">
+              <div className="mt-4 bg-black/95 w-[300px] m-auto text-center py-2.5 transition-all duration-300 ease-in-out backdrop-blur-sm border border-neutral-800/50 group-hover:bg-black hover:scale-105  hover:shadow-2xl hover:shadow-cyan-500/20 hover:border-cyan-400/60 cursor-pointer active:scale-95 active:rotate-0 active:shadow-xl transform-gpu">
+                <span className="text-sm sm:text-base  font-medium tracking-[0.18em] text-white group-hover:text-white hover:text-cyan-400 transition-all duration-200">
                   {cat.title}
                 </span>
               </div>

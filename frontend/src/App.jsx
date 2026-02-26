@@ -11,6 +11,7 @@ import CheckoutPage from "./pages/CheckoutPage";
 import Sidebar from "./components/SideBar";
 import CoupleMobileCases from "./pages/CoupleMobileCases";
 import ProductDetails from "./pages/ProductDetails";
+import MagSafePhone from "./pages/MagSafePhone";
 
 const App = () => {
   return (
@@ -26,6 +27,7 @@ const App = () => {
           element={<CustomePhonePage />}
         />
         <Route path="/couple-mobile-cases" element={<CoupleMobileCases />} />
+        <Route path="/magsafe-iphone" element={<MagSafePhone />} />
         <Route path="/products/:id" element={<ProductDetails />} />
         <Route path="/cart" element={<CartPage />} />
         <Route path="/checkout" element={<CheckoutPage />} />

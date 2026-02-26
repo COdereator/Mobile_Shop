@@ -113,11 +113,11 @@ export default function BestSellingCarousel() {
                 style={{ width: cardWidth }}
               >
                 {/* Image Wrap */}
-                <div className="bg-[#f8f8f8] rounded-2xl p-4 mb-4 relative overflow-hidden">
+                <div className="bg-[#f8f8f8] rounded-2xl p-6 mb-4 relative overflow-hidden">
                   <img
                     src={p.image}
                     alt={p.title}
-                    className="h-[280px] md:h-[350px] w-full mx-auto object-cover transition-transform duration-500 group-hover:scale-103"
+                    className="h-[290px] md:h-[350px] w-full mx-auto object-cover transition-transform duration-500 group-hover:scale-103"
                   />
                 </div>
 
