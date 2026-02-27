@@ -84,32 +84,8 @@ const CustomPhone = () => {
 
       {/* Brand Grid */}
       <div className="max-w-6xl mx-auto px-4">
-        <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 gap-y-10 gap-x-6 place-items-center">
-          {brands.map((brand) => (
-            <div
-              key={brand.name}
-              onClick={() =>
-                setSelectedBrand(
-                  selectedBrand === brand.name ? null : brand.name,
-                )
-              }
-              className="flex flex-col items-center justify-center cursor-pointer transition hover:scale-105"
-            >
-              <img
-                src={brand.logo}
-                alt={brand.name}
-                className="h-10 object-contain grayscale hover:grayscale-0 transition"
-              />
-              <p className="mt-3 text-base font-medium text-gray-900">
-                {brand.name}
-              </p>
-            </div>
-          ))}
-        </div>
-
-        {/* Models List */}
         {selectedBrand && (
-          <section className="mt-10 max-w-6xl mx-auto px-4">
+          <section className="mt-10 max-w-6xl mx-auto px-4 mb-10">
             {/* Section Header */}
             <div className="mb-5 flex flex-col sm:flex-col sm:items-start sm:justify-between gap-3">
               <h3 className="text-lg font-semibold text-gray-900">
@@ -156,6 +132,30 @@ const CustomPhone = () => {
             </div>
           </section>
         )}
+        <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 gap-y-10 gap-x-6 place-items-center">
+          {brands.map((brand) => (
+            <div
+              key={brand.name}
+              onClick={() =>
+                setSelectedBrand(
+                  selectedBrand === brand.name ? null : brand.name,
+                )
+              }
+              className="flex flex-col items-center justify-center cursor-pointer transition hover:scale-105"
+            >
+              <img
+                src={brand.logo}
+                alt={brand.name}
+                className="h-10 object-contain grayscale hover:grayscale-0 transition"
+              />
+              <p className="mt-3 text-base font-medium text-gray-900">
+                {brand.name}
+              </p>
+            </div>
+          ))}
+        </div>
+
+        {/* Models List */}
       </div>
       {/* Compact Premium Phone Covers Section */}
       <section className="mt-16 w-full py-6 px-4 relative overflow-hidden">

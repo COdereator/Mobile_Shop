@@ -94,7 +94,7 @@ export default function Navbar() {
               {/* SEARCH - Mobile pe visible, responsive size */}
               <button
                 onClick={() => setSearchActive(true)}
-                className="hidden sm:flex p-1.5 sm:p-2 text-gray-400 hover:text-blue-400 hover:bg-blue-500/5 rounded-full transition-colors"
+                className="sm:flex p-1.5 sm:p-2 text-gray-400 hover:text-blue-400 hover:bg-blue-500/5 rounded-full transition-colors"
               >
                 <Search className="w-5 h-5 md:w-6 md:h-6" />
               </button>
@@ -174,7 +174,7 @@ export default function Navbar() {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
-            className="fixed inset-0 z-[70] bg-black/95 backdrop-blur-xl flex items-start justify-center pt-24 px-6"
+            className="fixed inset-0 z-[70] bg-black/95 backdrop-blur-xl flex items-start justify-center pt-10 px-6"
           >
             <div className="w-full max-w-2xl">
               <div className="flex items-center justify-between mb-8">
@@ -188,17 +188,22 @@ export default function Navbar() {
                   <X size={30} />
                 </button>
               </div>
-              <div className="relative group">
+
+              <div className="relative group mb-6">
                 <input
                   autoFocus
                   placeholder="Find your phone model..."
-                  className="w-full bg-neutral-900 border border-white/10 p-6 rounded-3xl text-white outline-none focus:border-blue-500 transition-all shadow-2xl text-lg"
+                  className="w-full bg-neutral-900 border border-white/10 p-5 rounded-3xl text-white outline-none focus:border-blue-500 transition-all shadow-2xl text-lg"
                 />
                 <Search
                   className="absolute right-6 top-1/2 -translate-y-1/2 text-gray-500 group-focus-within:text-blue-500"
                   size={24}
                 />
               </div>
+
+              <button className="w-full bg-blue-500 hover:bg-blue-600 text-white py-4 rounded-3xl font-semibold text-lg transition-all shadow-lg">
+                Search
+              </button>
             </div>
           </motion.div>
         )}
