@@ -2632,7 +2632,6 @@
         }
       ]
     },
-
     {
       "model": "Xiaomi 14",
       "products": [
@@ -2734,7 +2733,10 @@
         }
       ]
     },
-    { "model": "Xiaomi Mi 10T Lite", "products": [] },
+    {
+      "model": "Xiaomi Mi 10T Lite",
+      "products": []
+    },
     {
       "model": "Xiaomi Mi 10i",
       "products": [
@@ -2882,8 +2884,10 @@
         }
       ]
     },
-    { "model": "Xiaomi Mi 9T Pro", "products": [] },
-
+    {
+      "model": "Xiaomi Mi 9T Pro",
+      "products": []
+    },
     {
       "model": "Xiaomi Redmi 9",
       "products": [
@@ -3105,7 +3109,10 @@
         }
       ]
     },
-    { "model": "Xiaomi Redmi 11 Prime 4G", "products": [] },
+    {
+      "model": "Xiaomi Redmi 11 Prime 4G",
+      "products": []
+    },
     {
       "model": "Xiaomi Redmi 11 Prime 5G",
       "products": [
@@ -3561,7 +3568,10 @@
         }
       ]
     },
-    { "model": "Xiaomi Redmi K40 Gaming", "products": [] },
+    {
+      "model": "Xiaomi Redmi K40 Gaming",
+      "products": []
+    },
     {
       "model": "Xiaomi Redmi K50i",
       "products": [
@@ -3622,7 +3632,6 @@
         }
       ]
     },
-
     {
       "model": "Xiaomi Redmi Note 7",
       "products": [
@@ -3697,643 +3706,4785 @@
         }
       ]
     },
-    { "model": "Xiaomi Redmi Note 9 4G", "products": [] },
-    { "model": "Xiaomi Redmi Note 9 Pro 4G", "products": [] },
-    { "model": "Xiaomi Redmi Note 9 Pro 5G", "products": [] },
-    { "model": "Xiaomi Redmi Note 9 Pro Max", "products": [] },
-    { "model": "Xiaomi Redmi Note 9S", "products": [] },
-    { "model": "Xiaomi Redmi Note 10 4G", "products": [] },
-    { "model": "Xiaomi Redmi Note 10 5G", "products": [] },
-    { "model": "Xiaomi Redmi Note 10 Lite", "products": [] },
-    { "model": "Xiaomi Redmi Note 10 Pro", "products": [] },
-    { "model": "Xiaomi Redmi Note 10 Pro Max", "products": [] },
-    { "model": "Xiaomi Redmi Note 10S", "products": [] },
-    { "model": "Xiaomi Redmi Note 10T", "products": [] },
-    { "model": "Xiaomi Redmi Note 11", "products": [] },
-    { "model": "Xiaomi Redmi Note 11 Pro", "products": [] },
-    { "model": "Xiaomi Redmi Note 11 Pro+", "products": [] },
-    { "model": "Xiaomi Redmi Note 11 SE", "products": [] },
-    { "model": "Xiaomi Redmi Note 11E Pro", "products": [] },
-    { "model": "Xiaomi Redmi Note 11S 4G", "products": [] },
-    { "model": "Xiaomi Redmi Note 11S 5G", "products": [] },
-    { "model": "Xiaomi Redmi Note 11T", "products": [] },
-    { "model": "Xiaomi Redmi Note 11T Pro", "products": [] },
-    { "model": "Xiaomi Redmi Note 11T Pro+", "products": [] },
-    { "model": "Xiaomi Redmi Note 12 4G", "products": [] },
-    { "model": "Xiaomi Redmi Note 12 5G", "products": [] },
-    { "model": "Xiaomi Redmi Note 12 Pro 5G", "products": [] },
-    { "model": "Xiaomi Redmi Note 12 Pro+", "products": [] },
-    { "model": "Xiaomi Redmi Note 12 Pro Speed", "products": [] },
-    { "model": "Xiaomi Redmi Note 12R", "products": [] },
-    { "model": "Xiaomi Redmi Note 12S", "products": [] },
-    { "model": "Xiaomi Redmi Note 13 4G", "products": [] },
-    { "model": "Xiaomi Redmi Note 13 5G", "products": [] },
-    { "model": "Xiaomi Redmi Note 13 Pro 4G", "products": [] },
-    { "model": "Xiaomi Redmi Note 13 Pro 5G", "products": [] },
-    { "model": "Xiaomi Redmi Note 13 Pro+", "products": [] },
-    { "model": "Xiaomi Redmi Note 14 5G", "products": [] },
-    { "model": "Xiaomi Redmi Note 14 Pro 4G", "products": [] },
-    { "model": "Xiaomi Redmi Note 14 Pro 5G", "products": [] },
-    { "model": "Xiaomi Redmi Note 14 Pro+", "products": [] },
-    { "model": "Xiaomi Redmi Note 15 5G", "products": [] }
+    {
+      "model": "Xiaomi Redmi Note 9 4G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6122195,
+          "title": "Custom Xiaomi Redmi Note 9 4G Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-18-2-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 9 Pro 4G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5047000,
+          "title": "Custom Xiaomi Redmi Note 9 Pro 4G Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Xiaomi-Redmi-Note-9-Pro-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6143471,
+          "title": "Custom Xiaomi Redmi Note 9 Pro 4G Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/09/Glass-Case-Custom-Thumbnail-Final-1-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6182016,
+          "title": "Custom Xiaomi Redmi Note 9 Pro 4G Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Clear-Case-Custom-Thumbnail-Final-28-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 9 Pro 5G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6152604,
+          "title": "Custom Xiaomi Redmi Note 9 Pro 5G Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Glass-Case-Custom-Thumbnail-Final-1-30-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5047076,
+          "title": "Custom Xiaomi Redmi Note 9 Pro 5G Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-48-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 9 Pro Max",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5046932,
+          "title": "Custom Xiaomi Redmi Note 9 Pro Max Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Xiaomi-Redmi-Note-9-Pro-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5232812,
+          "title": "Custom Xiaomi Redmi Note 9 Pro Max Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-21-2-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6143472,
+          "title": "Custom Xiaomi Redmi Note 9 Pro Max Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/09/Glass-Case-Custom-Thumbnail-Final-1-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 9S",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5047002,
+          "title": "Custom Xiaomi Redmi Note 9S Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Xiaomi-Redmi-Note-9-Pro-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6143474,
+          "title": "Custom Xiaomi Redmi Note 9S Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/09/Glass-Case-Custom-Thumbnail-Final-1-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 10 4G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4011965,
+          "title": "Custom Xiaomi Redmi Note 10 4G Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2021/10/Glass-Case-Custom-Thumbnail-Final-1-24-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5047039,
+          "title": "Custom Xiaomi Redmi Note 10 4G Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-49-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5227715,
+          "title": "Custom Xiaomi Redmi Note 10 4G Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-22-2-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 10 5G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4593198,
+          "title": "Custom Xiaomi Redmi Note 10 5G Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/10/Glass-Case-Custom-Thumbnail-Final-1-25-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 10 Lite",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4584401,
+          "title": "Custom Xiaomi Redmi Note 10 Lite Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/09/Glass-Case-Custom-Thumbnail-Final-1-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5046927,
+          "title": "Custom Xiaomi Redmi Note 10 Lite Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Xiaomi-Redmi-Note-9-Pro-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 10 Pro",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4507153,
+          "title": "Custom Xiaomi Redmi Note 10 Pro Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/08/Glass-Case-Custom-Thumbnail-Final-1-1-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5047045,
+          "title": "Custom Xiaomi Redmi Note 10 Pro Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-50-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5227720,
+          "title": "Custom Xiaomi Redmi Note 10 Pro Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-23-2-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 10 Pro Max",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4079438,
+          "title": "Custom Xiaomi Redmi Note 10 Pro Max Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2021/11/Glass-Case-Custom-Thumbnail-Final-1-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5047049,
+          "title": "Custom Xiaomi Redmi Note 10 Pro Max Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-50-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5227729,
+          "title": "Custom Xiaomi Redmi Note 10 Pro Max Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-23-2-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 10S",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4406173,
+          "title": "Custom Xiaomi Redmi Note 10S Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/05/Glass-Case-Custom-Thumbnail-Final-1-2-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5047053,
+          "title": "Custom Xiaomi Redmi Note 10S Silicone Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-51-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Silicone"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6182031,
+          "title": "Custom Xiaomi Redmi Note 10S Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Clear-Case-Custom-Thumbnail-Final-29-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 10T",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5240366,
+          "title": "Custom Xiaomi Redmi Note 10T Glass Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/06/Glass-Case-Custom-Thumbnail-Final-1-3-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349,
+          "cases": "Glass"
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5257767,
+          "title": "Custom Xiaomi Redmi Note 10T Clear Case",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/06/Clear-Case-Custom-Thumbnail-Final-24-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299,
+          "cases": "Clear"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 11",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5047057,
+          "title": "Custom Xiaomi Redmi Note 11 Silicone Case",
+          "model": "Xiaomi Redmi Note 11",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-2-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5732187,
+          "title": "Custom Xiaomi Redmi Note 11 Glass Case",
+          "model": "Xiaomi Redmi Note 11",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/01/Glass-Case-Custom-Thumbnail-Final-1-4-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5227731,
+          "title": "Custom Xiaomi Redmi Note 11 Clear Case",
+          "model": "Xiaomi Redmi Note 11",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-25-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 11 Pro",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4584410,
+          "title": "Custom Xiaomi Redmi Note 11 Pro Glass Case",
+          "model": "Xiaomi Redmi Note 11 Pro",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/09/Glass-Case-Custom-Thumbnail-Final-1-5-1-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5047061,
+          "title": "Custom Xiaomi Redmi Note 11 Pro Silicone Case",
+          "model": "Xiaomi Redmi Note 11 Pro",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-2-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 11 Pro+",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4584412,
+          "title": "Custom Xiaomi Redmi Note 11 Pro+ Glass Case",
+          "model": "Xiaomi Redmi Note 11 Pro+",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/09/Glass-Case-Custom-Thumbnail-Final-1-8-1-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5047063,
+          "title": "Custom Xiaomi Redmi Note 11 Pro+ Silicone Case",
+          "model": "Xiaomi Redmi Note 11 Pro+",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-2-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 11 SE",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4881807,
+          "title": "Custom Xiaomi Redmi Note 11 SE Glass Case",
+          "model": "Xiaomi Redmi Note 11 SE",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/08/Glass-Case-Custom-Thumbnail-Final-1-9-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5232815,
+          "title": "Custom Xiaomi Redmi Note 11 SE Clear Case",
+          "model": "Xiaomi Redmi Note 11 SE",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Xiaomi-Redmi-Note-11-SE-2-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5047066,
+          "title": "Custom Xiaomi Redmi Note 11 SE Silicone Case",
+          "model": "Xiaomi Redmi Note 11 SE",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-3-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 11E Pro",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5047069,
+          "title": "Custom Xiaomi Redmi Note 11E Pro Silicone Case",
+          "model": "Xiaomi Redmi Note 11E Pro",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-4-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4881823,
+          "title": "Custom Xiaomi Redmi Note 11E Pro Glass Case",
+          "model": "Xiaomi Redmi Note 11E Pro",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/08/Glass-Case-Custom-Thumbnail-Final-1-10-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 11S 4G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4584414,
+          "title": "Custom Xiaomi Redmi Note 11S 4G Glass Case",
+          "model": "Xiaomi Redmi Note 11S 4G",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/09/Glass-Case-Custom-Thumbnail-Final-1-11-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5047072,
+          "title": "Custom Xiaomi Redmi Note 11S 4G Silicone Case",
+          "model": "Xiaomi Redmi Note 11S 4G",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-2-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5227744,
+          "title": "Custom Xiaomi Redmi Note 11S 4G Clear Case",
+          "model": "Xiaomi Redmi Note 11S 4G",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Xiaomi-Redmi-Note-11S-4G-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 11S 5G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4881826,
+          "title": "Custom Xiaomi Redmi Note 11S 5G Glass Case",
+          "model": "Xiaomi Redmi Note 11S 5G",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/08/Glass-Case-Custom-Thumbnail-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 11T",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4507160,
+          "title": "Custom Xiaomi Redmi Note 11T Glass Case",
+          "model": "Xiaomi Redmi Note 11T",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/08/Glass-Case-Custom-Thumbnail-Final-1-12-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5387845,
+          "title": "Custom Xiaomi Redmi Note 11T Silicone Case",
+          "model": "Xiaomi Redmi Note 11T",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-52-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5227747,
+          "title": "Custom Xiaomi Redmi Note 11T Clear Case",
+          "model": "Xiaomi Redmi Note 11T",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Xiaomi-Redmi-Note-11T-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 11T Pro",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4640121,
+          "title": "Custom Xiaomi Redmi Note 11T Pro Glass Case",
+          "model": "Xiaomi Redmi Note 11T Pro",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/12/Glass-Case-Custom-Thumbnail-Final-1-13-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5037106,
+          "title": "Custom Xiaomi Redmi Note 11T Pro Silicone Case",
+          "model": "Xiaomi Redmi Note 11T Pro",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-5-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 11T Pro+",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4640123,
+          "title": "Custom Xiaomi Redmi Note 11T Pro+ Glass Case",
+          "model": "Xiaomi Redmi Note 11T Pro+",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/12/Glass-Case-Custom-Thumbnail-Final-1-13-1-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5037122,
+          "title": "Custom Xiaomi Redmi Note 11T Pro+ Silicone Case",
+          "model": "Xiaomi Redmi Note 11T Pro+",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-5-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 12 4G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4788382,
+          "title": "Custom Xiaomi Redmi Note 12 4G Glass Case",
+          "model": "Xiaomi Redmi Note 12 4G",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/04/Glass-Case-Custom-Thumbnail-Final-1-7-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5377498,
+          "title": "Custom Xiaomi Redmi Note 12 4G Clear Case",
+          "model": "Xiaomi Redmi Note 12 4G",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Clear-Case-Custom-Thumbnail-Final-26-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 12 5G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5232059,
+          "title": "Custom Xiaomi Redmi Note 12 5G Glass Case",
+          "model": "Xiaomi Redmi Note 12 5G",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Glass-Case-Custom-Thumbnail-Final-1-14-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5037128,
+          "title": "Custom Xiaomi Redmi Note 12 5G Silicone Case",
+          "model": "Xiaomi Redmi Note 12 5G",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-6-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5227749,
+          "title": "Custom Xiaomi Redmi Note 12 5G Clear Case",
+          "model": "Xiaomi Redmi Note 12 5G",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-27-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 12 Pro 5G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4707459,
+          "title": "Custom Xiaomi Redmi Note 12 Pro 5G Glass Case",
+          "model": "Xiaomi Redmi Note 12 Pro 5G",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/03/Glass-Case-Custom-Thumbnail-Final-1-15-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5037133,
+          "title": "Custom Xiaomi Redmi Note 12 Pro 5G Silicone Case",
+          "model": "Xiaomi Redmi Note 12 Pro 5G",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-6-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6182053,
+          "title": "Custom Xiaomi Redmi Note 12 Pro 5G Clear Case",
+          "model": "Xiaomi Redmi Note 12 Pro 5G",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Clear-Case-Custom-Thumbnail-Final-30-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 12 Pro+",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4707460,
+          "title": "Custom Xiaomi Redmi Note 12 Pro+ Glass Case",
+          "model": "Xiaomi Redmi Note 12 Pro+ 5G",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/03/Glass-Case-Custom-Thumbnail-Final-1-15-1-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5037139,
+          "title": "Custom Xiaomi Redmi Note 12 Pro+ Silicone Case",
+          "model": "Xiaomi Redmi Note 12 Pro+ 5G",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-6-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5227754,
+          "title": "Custom Xiaomi Redmi Note 12 Pro+ Clear Case",
+          "model": "Xiaomi Redmi Note 12 Pro+ 5G",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-27-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 12 Pro Speed",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5235496,
+          "title": "Custom Xiaomi Redmi Note 12 Pro Speed Glass Case",
+          "model": "Xiaomi Redmi Note 12 Pro Speed",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Glass-Case-Custom-Thumbnail-Final-1-16-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 12R",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5235795,
+          "title": "Custom Xiaomi Redmi Note 12R Glass Case",
+          "model": "Xiaomi Redmi Note 12R",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Glass-Case-Custom-Thumbnail-Final-1-17-1-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 12S",
+      "products": []
+    },
+    {
+      "model": "Xiaomi Redmi Note 13 4G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5387836,
+          "title": "Custom Xiaomi Redmi Note 13 4G Silicone Case",
+          "model": "Xiaomi Redmi Note 13 4G",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-7-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5227757,
+          "title": "Custom Xiaomi Redmi Note 13 4G Clear Case",
+          "model": "Xiaomi Redmi Note 13 4G",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-28-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 13 5G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5949665,
+          "title": "Custom Xiaomi Redmi Note 13 5G Glass Case",
+          "model": "Xiaomi Redmi Note 13 5G",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/04/Glass-Case-Custom-Thumbnail-Final-1-19-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6121625,
+          "title": "Custom Xiaomi Redmi Note 13 5G Silicone Case",
+          "model": "Xiaomi Redmi Note 13 5G",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-11-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5949624,
+          "title": "Custom Xiaomi Redmi Note 13 5G Clear Case",
+          "model": "Xiaomi Redmi Note 13 5G",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-28-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 13 Pro 4G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6122180,
+          "title": "Custom Xiaomi Redmi Note 13 Pro 4G Silicone Case",
+          "model": "Xiaomi Redmi Note 13 Pro 4G",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-17-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 13 Pro 5G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5130599,
+          "title": "Custom Xiaomi Redmi Note 13 Pro 5G Glass Case",
+          "model": "Xiaomi Redmi Note 13 Pro 5G",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/01/Glass-Case-Custom-Thumbnail-Final-1-19-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5387830,
+          "title": "Custom Xiaomi Redmi Note 13 Pro 5G Silicone Case",
+          "model": "Xiaomi Redmi Note 13 Pro 5G",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-7-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5227761,
+          "title": "Custom Xiaomi Redmi Note 13 Pro 5G Clear Case",
+          "model": "Xiaomi Redmi Note 13 Pro 5G",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-28-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 13 Pro+",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5130594,
+          "title": "Custom Xiaomi Redmi Note 13 Pro+ Glass Case",
+          "model": "Xiaomi Redmi Note 13 Pro+",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/01/Glass-Case-Custom-Thumbnail-Final-1-21-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5387799,
+          "title": "Custom Xiaomi Redmi Note 13 Pro+ Silicone Case",
+          "model": "Xiaomi Redmi Note 13 Pro+",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-8-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5257642,
+          "title": "Custom Xiaomi Redmi Note 13 Pro+ Clear Case",
+          "model": "Xiaomi Redmi Note 13 Pro+",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/06/Clear-Case-Custom-Thumbnail-Final-29-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 14 5G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5957311,
+          "title": "Custom Xiaomi Redmi Note 14 5G Glass Case",
+          "model": "Xiaomi Redmi Note 14 5G",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/05/Glass-Case-Custom-Thumbnail-Final-1-19-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5735003,
+          "title": "Custom Xiaomi Redmi Note 14 5G Silicone Case",
+          "model": "Xiaomi Redmi Note 14 5G",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/01/Xiaomi-Redmi-Note-14-5G-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6112003,
+          "title": "Custom Xiaomi Redmi Note 14 5G Clear Case",
+          "model": "Xiaomi Redmi Note 14 5G",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/08/Clear-Case-Custom-Thumbnail-Final-8-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 14 Pro 4G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6111680,
+          "title": "Custom Xiaomi Redmi Note 14 Pro 4G Glass Case",
+          "model": "Xiaomi Redmi Note 14 Pro 4G",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/05/Glass-Case-Custom-Thumbnail-Final-8-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 14 Pro 5G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5957267,
+          "title": "Custom Xiaomi Redmi Note 14 Pro 5G Glass Case",
+          "model": "Xiaomi Redmi Note 14 Pro 5G",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/05/Glass-Case-Custom-Thumbnail-Final-8-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6140773,
+          "title": "Custom Xiaomi Redmi Note 14 Pro 5G Clear Case",
+          "model": "Xiaomi Redmi Note 14 Pro 5G",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/11/Clear-Case-Custom-Thumbnail-Final-1-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 14 Pro+",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5735013,
+          "title": "Custom Xiaomi Redmi Note 14 Pro+ Silicone Case",
+          "model": "Xiaomi Redmi Note 14 Pro+",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/01/Silicone-Case-Custom-Thumbnail-Final-53-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6153434,
+          "title": "Custom Xiaomi Redmi Note 14 Pro+ Glass Case",
+          "model": "Xiaomi Redmi Note 14 Pro+",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/05/Glass-Case-Custom-Thumbnail-Final-8-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6140781,
+          "title": "Custom Xiaomi Redmi Note 14 Pro+ Clear Case",
+          "model": "Xiaomi Redmi Note 14 Pro+",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/11/Clear-Case-Custom-Thumbnail-Final-1-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi Redmi Note 15 5G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6179717,
+          "title": "Custom Xiaomi Redmi Note 15 5G Glass Case",
+          "model": "Xiaomi Redmi Note 15 5G",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Xiaomi-Redmi-Note-15-5G-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
+    }
   ],
   "Poco": [
-    { "model": "Poco C31", "products": [] },
-    { "model": "Poco C50", "products": [] },
-    { "model": "Poco C51", "products": [] },
-    { "model": "Poco C55", "products": [] },
-    { "model": "Poco C61", "products": [] },
-    { "model": "Poco C65", "products": [] },
-
-    { "model": "Poco F3", "products": [] },
-    { "model": "Poco F3 GT", "products": [] },
-    { "model": "Poco F4", "products": [] },
-    { "model": "Poco F5", "products": [] },
-    { "model": "Poco F6", "products": [] },
-
-    { "model": "Poco M2", "products": [] },
-    { "model": "Poco M4", "products": [] },
-    { "model": "Poco M4 Pro 4G", "products": [] },
-    { "model": "Poco M4 Pro 5G", "products": [] },
-    { "model": "Poco M5", "products": [] },
-    { "model": "Poco M5s", "products": [] },
-    { "model": "Poco M6 Pro 5G", "products": [] },
-
-    { "model": "Poco X3", "products": [] },
-    { "model": "Poco X3 Pro", "products": [] },
-    { "model": "Poco X4 GT", "products": [] },
-    { "model": "Poco X4 Pro", "products": [] },
-    { "model": "Poco X5", "products": [] },
-    { "model": "Poco X5 Pro", "products": [] },
-    { "model": "Poco X6", "products": [] },
-    { "model": "Poco X6 Pro", "products": [] }
+    {
+      "model": "Poco C31",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6179570,
+          "title": "Custom Xiaomi Poco C31 Glass Case",
+          "model": "Xiaomi Poco C31",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Xiaomi-Poco-C31-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6122109,
+          "title": "Custom Xiaomi Poco C31 Silicone Case",
+          "model": "Xiaomi Poco C31",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-11-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5232747,
+          "title": "Custom Xiaomi Poco C31 Clear Case",
+          "model": "Xiaomi Poco C31",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-30-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Poco C50",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5232750,
+          "title": "Custom Xiaomi Poco C50 Clear Case",
+          "model": "Xiaomi Poco C50",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-31-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Poco C51",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5232753,
+          "title": "Custom Xiaomi Poco C51 Clear Case",
+          "model": "Xiaomi Poco C51",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-31-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Poco C55",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5232756,
+          "title": "Custom Xiaomi Poco C55 Clear Case",
+          "model": "Xiaomi Poco C55",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-32-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6121875,
+          "title": "Custom Xiaomi Poco C55 Silicone Case",
+          "model": "Xiaomi Poco C55",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-3-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6179572,
+          "title": "Custom Xiaomi Poco C55 Glass Case",
+          "model": "Xiaomi Poco C55",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Xiaomi-Poco-C55-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
+    },
+    {
+      "model": "Poco C61",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5664041,
+          "title": "Custom Xiaomi Poco C65 Clear Case",
+          "model": "Xiaomi Poco C65",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/12/Clear-Case-Custom-Thumbnail-Final-33-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Poco C65",
+      "products": []
+    },
+    {
+      "model": "Poco F3",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5227689,
+          "title": "Custom Xiaomi Poco F3 Clear Case",
+          "model": "Xiaomi Poco F3",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-34-2-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4506953,
+          "title": "Custom Xiaomi Poco F3 Glass Case",
+          "model": "Xiaomi Poco F3",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/08/Glass-Case-Custom-Thumbnail-Final-1-5-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
+    },
+    {
+      "model": "Poco F3 GT",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5036971,
+          "title": "Custom Xiaomi Poco F3 GT Silicone Case",
+          "model": "Xiaomi Poco F3 GT",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-9-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Poco F4",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4584380,
+          "title": "Custom Xiaomi Poco F4 Glass Case",
+          "model": "Xiaomi Poco F4",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/09/Glass-Case-Custom-Thumbnail-Final-1-6-2-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5036992,
+          "title": "Custom Xiaomi Poco F4 Silicone Case",
+          "model": "Xiaomi Poco F4",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-10-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5377505,
+          "title": "Custom Xiaomi Poco F4 Clear Case",
+          "model": "Xiaomi Poco F4",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Xiaomi-Poco-F4-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Poco F5",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4847221,
+          "title": "Custom Xiaomi Poco F5 Glass Case",
+          "model": "Xiaomi Poco F5",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/06/Glass-Case-Custom-Thumbnail-Final-1-7-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5037005,
+          "title": "Custom Xiaomi Poco F5 Silicone Case",
+          "model": "Xiaomi Poco F5",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-11-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Poco F6",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5387883,
+          "title": "Custom Xiaomi Poco F6 Silicone Case",
+          "model": "Xiaomi Poco F6",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-12-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5308173,
+          "title": "Custom Xiaomi Poco F6 Glass Case",
+          "model": "Xiaomi Poco F6",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/07/Xiaomi-Poco-F6-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
+    },
+    {
+      "model": "Poco M2",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6122212,
+          "title": "Custom Xiaomi Poco M2 Silicone Case",
+          "model": "Xiaomi Poco M2",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-1-2-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Poco M4",
+      "products": []
+    },
+    {
+      "model": "Poco M4 Pro 4G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5235773,
+          "title": "Custom Xiaomi Poco M4 Pro 4G Glass Case",
+          "model": "Xiaomi Poco M4 Pro 4G",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Glass-Case-Custom-Thumbnail-Final-1-8-1-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5232759,
+          "title": "Custom Xiaomi Poco M4 Pro 4G Clear Case",
+          "model": "Xiaomi Poco M4 Pro 4G",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Xiaomi-Poco-M4-Pro-4G-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Poco M4 Pro 5G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4706922,
+          "title": "Custom Xiaomi Poco M4 Pro 5G Glass Case",
+          "model": "Xiaomi Poco M4 Pro 5G",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/03/Glass-Case-Custom-Thumbnail-Final-1-9-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5387884,
+          "title": "Custom Xiaomi Poco M4 Pro 5G Silicone Case",
+          "model": "Xiaomi Poco M4 Pro 5G",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-13-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5227694,
+          "title": "Custom Xiaomi Poco M4 Pro 5G Clear Case",
+          "model": "Xiaomi Poco M4 Pro 5G",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-35-2-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Poco M5",
+      "products": []
+    },
+    {
+      "model": "Poco M5s",
+      "products": []
+    },
+    {
+      "model": "Poco M6 Pro 5G",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5309818,
+          "title": "Custom Xiaomi Poco M6 Pro 5G Silicone Case",
+          "model": "Xiaomi Poco M6 Pro 5G",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/07/Silicone-Case-Custom-Thumbnail-Final-14-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6182064,
+          "title": "Custom Xiaomi Poco M6 Pro 5G Clear Case",
+          "model": "Xiaomi Poco M6 Pro 5G",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Clear-Case-Custom-Thumbnail-Final-31-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Poco X3",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4584384,
+          "title": "Custom Xiaomi Poco X3 Glass Case",
+          "model": "Xiaomi Poco X3",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/09/Glass-Case-Custom-Thumbnail-Final-1-11-1-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5046980,
+          "title": "Custom Xiaomi Poco X3 Silicone Case",
+          "model": "Xiaomi Poco X3",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-15-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6182068,
+          "title": "Custom Xiaomi Poco X3 Clear Case",
+          "model": "Xiaomi Poco X3",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Clear-Case-Custom-Thumbnail-Final-32-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Poco X3 Pro",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4584387,
+          "title": "Custom Xiaomi Poco X3 Pro Glass Case",
+          "model": "Xiaomi Poco X3 Pro",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/09/Glass-Case-Custom-Thumbnail-Final-1-12-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5037028,
+          "title": "Custom Xiaomi Poco X3 Pro Silicone Case",
+          "model": "Xiaomi Poco X3 Pro",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-15-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6182071,
+          "title": "Custom Xiaomi Poco X3 Pro Clear Case",
+          "model": "Xiaomi Poco X3 Pro",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Clear-Case-Custom-Thumbnail-Final-32-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Poco X4 GT",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5037035,
+          "title": "Custom Xiaomi Poco X4 GT Silicone Case",
+          "model": "Xiaomi Poco X4 GT",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-5-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4881780,
+          "title": "Custom Xiaomi Poco X4 GT Glass Case",
+          "model": "Xiaomi Poco X4 GT",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/08/Glass-Case-Custom-Thumbnail-Final-1-13-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
+    },
+    {
+      "model": "Poco X4 Pro",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5663504,
+          "title": "Custom Xiaomi Poco X4 Pro Glass Case",
+          "model": "Xiaomi Poco X4 Pro",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/12/Glass-Case-Custom-Thumbnail-Final-1-14-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6122103,
+          "title": "Custom Xiaomi Poco X4 Pro Silicone Case",
+          "model": "Xiaomi Poco X4 Pro",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-10-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Poco X5",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4847223,
+          "title": "Custom Xiaomi Poco X5 Glass Case",
+          "model": "Xiaomi Poco X5",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/06/Glass-Case-Custom-Thumbnail-Final-1-15-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5037044,
+          "title": "Custom Xiaomi Poco X5 Silicone Case",
+          "model": "Xiaomi Poco X5",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/11/Silicone-Case-Custom-Thumbnail-Final-6-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Poco X5 Pro",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4847224,
+          "title": "Custom Xiaomi Poco X5 Pro Glass Case",
+          "model": "Xiaomi Poco X5 Pro",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/06/Glass-Case-Custom-Thumbnail-Final-1-16-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6121866,
+          "title": "Custom Xiaomi Poco X5 Pro Silicone Case",
+          "model": "Xiaomi Poco X5 Pro",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-2-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5664046,
+          "title": "Custom Xiaomi Poco X5 Pro Clear Case",
+          "model": "Xiaomi Poco X5 Pro",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/12/Clear-Case-Custom-Thumbnail-Final-36-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Poco X6",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5182897,
+          "title": "Custom Xiaomi Poco X6 Glass Case",
+          "model": "Xiaomi Poco X6",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Glass-Case-Custom-Thumbnail-Final-1-17-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5387881,
+          "title": "Custom Xiaomi Poco X6 Silicone Case",
+          "model": "Xiaomi Poco X6",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-7-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6182074,
+          "title": "Custom Xiaomi Poco X6 Clear Case",
+          "model": "Xiaomi Poco X6",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Clear-Case-Custom-Thumbnail-Final-33-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Poco X6 Pro",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5182901,
+          "title": "Custom Xiaomi Poco X6 Pro Glass Case",
+          "model": "Xiaomi Poco X6 Pro",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Glass-Case-Custom-Thumbnail-Final-1-18-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6121854,
+          "title": "Custom Xiaomi Poco X6 Pro Silicone Case",
+          "model": "Xiaomi Poco X6 Pro",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-1-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5257651,
+          "title": "Custom Xiaomi Poco X6 Pro Clear Case",
+          "model": "Xiaomi Poco X6 Pro",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/06/Clear-Case-Custom-Thumbnail-Final-37-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    }
   ],
   "Samsung": [
-    { "model": "Samsung A06", "products": [] },
-    { "model": "Samsung A12", "products": [] },
-    { "model": "Samsung A13 4G", "products": [] },
-    { "model": "Samsung A13 5G", "products": [] },
-    { "model": "Samsung A14", "products": [] },
-    { "model": "Samsung A15", "products": [] },
-    { "model": "Samsung A16", "products": [] },
-    { "model": "Samsung A22 4G", "products": [] },
-    { "model": "Samsung A22 5G", "products": [] },
-    { "model": "Samsung A23", "products": [] },
-    { "model": "Samsung A25", "products": [] },
-    { "model": "Samsung A26", "products": [] },
-    { "model": "Samsung A31", "products": [] },
-    { "model": "Samsung A32 4G", "products": [] },
-    { "model": "Samsung A32 5G", "products": [] },
-    { "model": "Samsung A33", "products": [] },
-    { "model": "Samsung A34", "products": [] },
-    { "model": "Samsung A35", "products": [] },
-    { "model": "Samsung A36", "products": [] },
-    { "model": "Samsung A50", "products": [] },
-    { "model": "Samsung A51", "products": [] },
-    { "model": "Samsung A52", "products": [] },
-    { "model": "Samsung A52S", "products": [] },
-    { "model": "Samsung A53", "products": [] },
-    { "model": "Samsung A54", "products": [] },
-    { "model": "Samsung A55", "products": [] },
-    { "model": "Samsung A56", "products": [] },
-    { "model": "Samsung A72", "products": [] },
-    { "model": "Samsung A73", "products": [] },
-
-    { "model": "Samsung F04", "products": [] },
-    { "model": "Samsung F05", "products": [] },
-    { "model": "Samsung F06", "products": [] },
-    { "model": "Samsung F12", "products": [] },
-    { "model": "Samsung F13", "products": [] },
-    { "model": "Samsung F14 4G", "products": [] },
-    { "model": "Samsung F14 5G", "products": [] },
-    { "model": "Samsung F15", "products": [] },
-    { "model": "Samsung F22", "products": [] },
-    { "model": "Samsung F23", "products": [] },
-    { "model": "Samsung F34", "products": [] },
-    { "model": "Samsung F41", "products": [] },
-    { "model": "Samsung F42", "products": [] },
-    { "model": "Samsung F54", "products": [] },
-    { "model": "Samsung F55", "products": [] },
-    { "model": "Samsung F62", "products": [] },
-
-    { "model": "Samsung M02S", "products": [] },
-    { "model": "Samsung M04", "products": [] },
-    { "model": "Samsung M06", "products": [] },
-    { "model": "Samsung M12", "products": [] },
-    { "model": "Samsung M13 4G", "products": [] },
-    { "model": "Samsung M13 5G", "products": [] },
-    { "model": "Samsung M14 4G", "products": [] },
-    { "model": "Samsung M14 5G", "products": [] },
-    { "model": "Samsung M15", "products": [] },
-    { "model": "Samsung M21 2021", "products": [] },
-    { "model": "Samsung M23", "products": [] },
-    { "model": "Samsung M31", "products": [] },
-    { "model": "Samsung M31 Prime", "products": [] },
-    { "model": "Samsung M31S", "products": [] },
-    { "model": "Samsung M32 4G", "products": [] },
-    { "model": "Samsung M32 5G", "products": [] },
-    { "model": "Samsung M33", "products": [] },
-    { "model": "Samsung M34", "products": [] },
-    { "model": "Samsung M35", "products": [] },
-    { "model": "Samsung M36", "products": [] },
-    { "model": "Samsung M51", "products": [] },
-    { "model": "Samsung M52 5G", "products": [] },
-    { "model": "Samsung M53", "products": [] },
-    { "model": "Samsung M54", "products": [] },
-    { "model": "Samsung M55", "products": [] },
-    { "model": "Samsung M56", "products": [] },
-    { "model": "Samsung M62", "products": [] },
-
-    { "model": "Samsung Note 20", "products": [] },
-    { "model": "Samsung Note 20 Ultra", "products": [] },
-
-    { "model": "Samsung S20", "products": [] },
-    { "model": "Samsung S20 FE", "products": [] },
-    { "model": "Samsung S20+", "products": [] },
-    { "model": "Samsung S20 Ultra", "products": [] },
-    { "model": "Samsung S21", "products": [] },
-    { "model": "Samsung S21 FE", "products": [] },
-    { "model": "Samsung S21+", "products": [] },
-    { "model": "Samsung S21 Ultra", "products": [] },
-    { "model": "Samsung S22", "products": [] },
-    { "model": "Samsung S22+", "products": [] },
-    { "model": "Samsung S22 Ultra", "products": [] },
-    { "model": "Samsung S23", "products": [] },
-    { "model": "Samsung S23 FE", "products": [] },
-    { "model": "Samsung S23+", "products": [] },
-    { "model": "Samsung S23 Ultra", "products": [] },
-    { "model": "Samsung S24", "products": [] },
-    { "model": "Samsung S24 FE", "products": [] },
-    { "model": "Samsung S24+", "products": [] },
-    { "model": "Samsung S24 Ultra", "products": [] },
-    { "model": "Samsung S25", "products": [] },
-    { "model": "Samsung S25+", "products": [] },
-    { "model": "Samsung S25 Ultra", "products": [] },
-    { "model": "Samsung S25 Edge", "products": [] },
-
-    { "model": "Samsung Z Flip 3", "products": [] },
-    { "model": "Samsung Z Flip 4", "products": [] },
-    { "model": "Samsung Z Flip 5", "products": [] },
-    { "model": "Samsung Z Flip 6", "products": [] },
-    { "model": "Samsung Z Fold 3", "products": [] },
-    { "model": "Samsung Z Fold 4", "products": [] },
-    { "model": "Samsung Z Fold 5", "products": [] },
-    { "model": "Samsung Z Fold 6", "products": [] }
+    {
+      "model": "Samsung A06",
+      "products": []
+    },
+    {
+      "model": "Samsung A12",
+      "products": []
+    },
+    {
+      "model": "Samsung A13 4G",
+      "products": []
+    },
+    {
+      "model": "Samsung A13 5G",
+      "products": []
+    },
+    {
+      "model": "Samsung A14",
+      "products": []
+    },
+    {
+      "model": "Samsung A15",
+      "products": []
+    },
+    {
+      "model": "Samsung A16",
+      "products": []
+    },
+    {
+      "model": "Samsung A22 4G",
+      "products": []
+    },
+    {
+      "model": "Samsung A22 5G",
+      "products": []
+    },
+    {
+      "model": "Samsung A23",
+      "products": []
+    },
+    {
+      "model": "Samsung A25",
+      "products": []
+    },
+    {
+      "model": "Samsung A26",
+      "products": []
+    },
+    {
+      "model": "Samsung A31",
+      "products": []
+    },
+    {
+      "model": "Samsung A32 4G",
+      "products": []
+    },
+    {
+      "model": "Samsung A32 5G",
+      "products": []
+    },
+    {
+      "model": "Samsung A33",
+      "products": []
+    },
+    {
+      "model": "Samsung A34",
+      "products": []
+    },
+    {
+      "model": "Samsung A35",
+      "products": []
+    },
+    {
+      "model": "Samsung A36",
+      "products": []
+    },
+    {
+      "model": "Samsung A50",
+      "products": []
+    },
+    {
+      "model": "Samsung A51",
+      "products": []
+    },
+    {
+      "model": "Samsung A52",
+      "products": []
+    },
+    {
+      "model": "Samsung A52S",
+      "products": []
+    },
+    {
+      "model": "Samsung A53",
+      "products": []
+    },
+    {
+      "model": "Samsung A54",
+      "products": []
+    },
+    {
+      "model": "Samsung A55",
+      "products": []
+    },
+    {
+      "model": "Samsung A56",
+      "products": []
+    },
+    {
+      "model": "Samsung A72",
+      "products": []
+    },
+    {
+      "model": "Samsung A73",
+      "products": []
+    },
+    {
+      "model": "Samsung F04",
+      "products": []
+    },
+    {
+      "model": "Samsung F05",
+      "products": []
+    },
+    {
+      "model": "Samsung F06",
+      "products": []
+    },
+    {
+      "model": "Samsung F12",
+      "products": []
+    },
+    {
+      "model": "Samsung F13",
+      "products": []
+    },
+    {
+      "model": "Samsung F14 4G",
+      "products": []
+    },
+    {
+      "model": "Samsung F14 5G",
+      "products": []
+    },
+    {
+      "model": "Samsung F15",
+      "products": []
+    },
+    {
+      "model": "Samsung F22",
+      "products": []
+    },
+    {
+      "model": "Samsung F23",
+      "products": []
+    },
+    {
+      "model": "Samsung F34",
+      "products": []
+    },
+    {
+      "model": "Samsung F41",
+      "products": []
+    },
+    {
+      "model": "Samsung F42",
+      "products": []
+    },
+    {
+      "model": "Samsung F54",
+      "products": []
+    },
+    {
+      "model": "Samsung F55",
+      "products": []
+    },
+    {
+      "model": "Samsung F62",
+      "products": []
+    },
+    {
+      "model": "Samsung M02S",
+      "products": []
+    },
+    {
+      "model": "Samsung M04",
+      "products": []
+    },
+    {
+      "model": "Samsung M06",
+      "products": []
+    },
+    {
+      "model": "Samsung M12",
+      "products": []
+    },
+    {
+      "model": "Samsung M13 4G",
+      "products": []
+    },
+    {
+      "model": "Samsung M13 5G",
+      "products": []
+    },
+    {
+      "model": "Samsung M14 4G",
+      "products": []
+    },
+    {
+      "model": "Samsung M14 5G",
+      "products": []
+    },
+    {
+      "model": "Samsung M15",
+      "products": []
+    },
+    {
+      "model": "Samsung M21 2021",
+      "products": []
+    },
+    {
+      "model": "Samsung M23",
+      "products": []
+    },
+    {
+      "model": "Samsung M31",
+      "products": []
+    },
+    {
+      "model": "Samsung M31 Prime",
+      "products": []
+    },
+    {
+      "model": "Samsung M31S",
+      "products": []
+    },
+    {
+      "model": "Samsung M32 4G",
+      "products": []
+    },
+    {
+      "model": "Samsung M32 5G",
+      "products": []
+    },
+    {
+      "model": "Samsung M33",
+      "products": []
+    },
+    {
+      "model": "Samsung M34",
+      "products": []
+    },
+    {
+      "model": "Samsung M35",
+      "products": []
+    },
+    {
+      "model": "Samsung M36",
+      "products": []
+    },
+    {
+      "model": "Samsung M51",
+      "products": []
+    },
+    {
+      "model": "Samsung M52 5G",
+      "products": []
+    },
+    {
+      "model": "Samsung M53",
+      "products": []
+    },
+    {
+      "model": "Samsung M54",
+      "products": []
+    },
+    {
+      "model": "Samsung M55",
+      "products": []
+    },
+    {
+      "model": "Samsung M56",
+      "products": []
+    },
+    {
+      "model": "Samsung M62",
+      "products": []
+    },
+    {
+      "model": "Samsung Note 20",
+      "products": []
+    },
+    {
+      "model": "Samsung Note 20 Ultra",
+      "products": []
+    },
+    {
+      "model": "Samsung S20",
+      "products": []
+    },
+    {
+      "model": "Samsung S20 FE",
+      "products": []
+    },
+    {
+      "model": "Samsung S20+",
+      "products": []
+    },
+    {
+      "model": "Samsung S20 Ultra",
+      "products": []
+    },
+    {
+      "model": "Samsung S21",
+      "products": []
+    },
+    {
+      "model": "Samsung S21 FE",
+      "products": []
+    },
+    {
+      "model": "Samsung S21+",
+      "products": []
+    },
+    {
+      "model": "Samsung S21 Ultra",
+      "products": []
+    },
+    {
+      "model": "Samsung S22",
+      "products": []
+    },
+    {
+      "model": "Samsung S22+",
+      "products": []
+    },
+    {
+      "model": "Samsung S22 Ultra",
+      "products": []
+    },
+    {
+      "model": "Samsung S23",
+      "products": []
+    },
+    {
+      "model": "Samsung S23 FE",
+      "products": []
+    },
+    {
+      "model": "Samsung S23+",
+      "products": []
+    },
+    {
+      "model": "Samsung S23 Ultra",
+      "products": []
+    },
+    {
+      "model": "Samsung S24",
+      "products": []
+    },
+    {
+      "model": "Samsung S24 FE",
+      "products": []
+    },
+    {
+      "model": "Samsung S24+",
+      "products": []
+    },
+    {
+      "model": "Samsung S24 Ultra",
+      "products": []
+    },
+    {
+      "model": "Samsung S25",
+      "products": []
+    },
+    {
+      "model": "Samsung S25+",
+      "products": []
+    },
+    {
+      "model": "Samsung S25 Ultra",
+      "products": []
+    },
+    {
+      "model": "Samsung S25 Edge",
+      "products": []
+    },
+    {
+      "model": "Samsung Z Flip 3",
+      "products": []
+    },
+    {
+      "model": "Samsung Z Flip 4",
+      "products": []
+    },
+    {
+      "model": "Samsung Z Flip 5",
+      "products": []
+    },
+    {
+      "model": "Samsung Z Flip 6",
+      "products": []
+    },
+    {
+      "model": "Samsung Z Fold 3",
+      "products": []
+    },
+    {
+      "model": "Samsung Z Fold 4",
+      "products": []
+    },
+    {
+      "model": "Samsung Z Fold 5",
+      "products": []
+    },
+    {
+      "model": "Samsung Z Fold 6",
+      "products": []
+    }
   ],
   "Google": [
-    { "model": "Google Pixel 6", "products": [] },
-    { "model": "Google Pixel 6A", "products": [] },
-    { "model": "Google Pixel 6 Pro", "products": [] },
-    { "model": "Google Pixel 7", "products": [] },
-    { "model": "Google Pixel 7A", "products": [] },
-    { "model": "Google Pixel 7 Pro", "products": [] },
-    { "model": "Google Pixel 8", "products": [] },
-    { "model": "Google Pixel 8A", "products": [] },
-    { "model": "Google Pixel 8 Pro", "products": [] },
-    { "model": "Google Pixel 9", "products": [] },
-    { "model": "Google Pixel 9 Pro", "products": [] },
-    { "model": "Google Pixel 9 Pro XL", "products": [] }
+    {
+      "model": "Google Pixel 6",
+      "products": [
+        {
+          "smallTitle": "Google Pixel 6",
+          "id": 5008887,
+          "title": "Custom Google Pixel 6 Silicone Case",
+          "model": "Google Pixel 6",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-59-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Google Pixel 6",
+          "id": 5210246,
+          "title": "Custom Google Pixel 6 Clear Case",
+          "model": "Google Pixel 6",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-43-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Google Pixel 6A",
+      "products": [
+        {
+          "smallTitle": "Google Pixel 6A",
+          "id": 4712796,
+          "title": "Custom Google Pixel 6A Glass Case",
+          "model": "Google Pixel 6A",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/08/Google-Pixel-6A-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Google Pixel 6A",
+          "id": 5008894,
+          "title": "Custom Google Pixel 6A Silicone Case",
+          "model": "Google Pixel 6A",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-23-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Google Pixel 6A",
+          "id": 5210258,
+          "title": "Custom Google Pixel 6A Clear Case",
+          "model": "Google Pixel 6A",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Google-Pixel-6A-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Google Pixel 6 Pro",
+      "products": [
+        {
+          "smallTitle": "Google Pixel 6 Pro",
+          "id": 5008892,
+          "title": "Custom Google Pixel 6 Pro Silicone Case",
+          "model": "Google Pixel 6 Pro",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-1-1-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Google Pixel 7",
+      "products": [
+        {
+          "smallTitle": "Google Pixel 7",
+          "id": 4712802,
+          "title": "Custom Google Pixel 7 Glass Case",
+          "model": "Google Pixel 7",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Glass-Case-Custom-Thumbnail-Final-1-5-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Google Pixel 7",
+          "id": 5008910,
+          "title": "Custom Google Pixel 7 Silicone Case",
+          "model": "Google Pixel 7",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-23-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Google Pixel 7",
+          "id": 5210270,
+          "title": "Custom Google Pixel 7 Clear Case",
+          "model": "Google Pixel 7",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-45-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Google Pixel 7A",
+      "products": [
+        {
+          "smallTitle": "Google Pixel 7A",
+          "id": 4812934,
+          "title": "Custom Google Pixel 7A Glass Case",
+          "model": "Google Pixel 7A",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Glass-Case-Custom-Thumbnail-Final-1-5-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Google Pixel 7A",
+          "id": 5008932,
+          "title": "Custom Google Pixel 7A Silicone Case",
+          "model": "Google Pixel 7A",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-23-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Google Pixel 7A",
+          "id": 5210307,
+          "title": "Custom Google Pixel 7A Clear Case",
+          "model": "Google Pixel 7A",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-45-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Google Pixel 7 Pro",
+      "products": [
+        {
+          "smallTitle": "Google Pixel 7 Pro",
+          "id": 4712804,
+          "title": "Custom Google Pixel 7 Pro Glass Case",
+          "model": "Google Pixel 7 Pro",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/03/Glass-Case-Custom-Thumbnail-Final-6-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Google Pixel 7 Pro",
+          "id": 5008927,
+          "title": "Custom Google Pixel 7 Pro Silicone Case",
+          "model": "Google Pixel 7 Pro",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-1-2-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Google Pixel 7 Pro",
+          "id": 5210284,
+          "title": "Custom Google Pixel 7 Pro Clear Case",
+          "model": "Google Pixel 7 Pro",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-46-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Google Pixel 8",
+      "products": [
+        {
+          "smallTitle": "Google Pixel 8",
+          "id": 4969826,
+          "title": "Custom Google Pixel 8 Glass Case",
+          "model": "Google Pixel 8",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Glass-Case-Custom-Thumbnail-Final-1-6-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Google Pixel 8",
+          "id": 5154169,
+          "title": "Custom Google Pixel 8 Silicone Case",
+          "model": "Google Pixel 8",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-23-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Google Pixel 8",
+          "id": 5634320,
+          "title": "Custom Google Pixel 8 Clear Case",
+          "model": "Google Pixel 8",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-45-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Google Pixel 8A",
+      "products": [
+        {
+          "smallTitle": "Google Pixel 8A",
+          "id": 5388530,
+          "title": "Custom Google Pixel 8A Silicone Case",
+          "model": "Google Pixel 8A",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Google Pixel 8A",
+          "id": 5956994,
+          "title": "Custom Google Pixel 8A Glass Case",
+          "model": "Google Pixel 8A",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Glass-Case-Custom-Thumbnail-Final-1-3-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Google Pixel 8A",
+          "id": 5658358,
+          "title": "Custom Google Pixel 8A Clear Case",
+          "model": "Google Pixel 8A",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/12/Clear-Case-Custom-Thumbnail-Final-47-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Google Pixel 8 Pro",
+      "products": [
+        {
+          "smallTitle": "Google Pixel 8 Pro",
+          "id": 4969844,
+          "title": "Custom Google Pixel 8 Pro Glass Case",
+          "model": "Google Pixel 8 Pro",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Glass-Case-Custom-Thumbnail-Final-1-4-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Google Pixel 8 Pro",
+          "id": 5135389,
+          "title": "Custom Google Pixel 8 Pro Silicone Case",
+          "model": "Google Pixel 8 Pro",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/02/Silicone-Case-Custom-Thumbnail-Final-95-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Google Pixel 9",
+      "products": [
+        {
+          "smallTitle": "Google Pixel 9",
+          "id": 5514825,
+          "title": "Custom Google Pixel 9 Glass Case",
+          "model": "Google Pixel 9",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Glass-Case-Custom-Thumbnail-Final-1-6-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Google Pixel 9",
+          "id": 5526043,
+          "title": "Custom Google Pixel 9 Clear Case",
+          "model": "Google Pixel 9",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Clear-Case-Custom-Thumbnail-Final-48-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Google Pixel 9",
+          "id": 5847819,
+          "title": "Custom Google Pixel 9 Silicone Case",
+          "model": "Google Pixel 9",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/02/Silicone-Case-Custom-Thumbnail-Final-2-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Google Pixel 9 Pro",
+      "products": [
+        {
+          "smallTitle": "Google Pixel 9 Pro",
+          "id": 5392150,
+          "title": "Custom Google Pixel 9 Pro Clear Case",
+          "model": "Google Pixel 9 Pro",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Clear-Case-Custom-Thumbnail-Final-49-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Google Pixel 9 Pro",
+          "id": 5514828,
+          "title": "Custom Google Pixel 9 Pro Glass Case",
+          "model": "Google Pixel 9 Pro",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Glass-Case-Custom-Thumbnail-Final-1-7-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Google Pixel 9 Pro",
+          "id": 5847781,
+          "title": "Custom Google Pixel 9 Pro Silicone Case",
+          "model": "Google Pixel 9 Pro",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/02/Silicone-Case-Custom-Thumbnail-Final-3-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Google Pixel 9 Pro XL",
+      "products": [
+        {
+          "smallTitle": "Google Pixel 9 Pro XL",
+          "id": 5514835,
+          "title": "Custom Google Pixel 9 Pro XL Glass Case",
+          "model": "Google Pixel 9 Pro XL",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Glass-Case-Custom-Thumbnail-Final-1-7-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Google Pixel 9 Pro XL",
+          "id": 5847710,
+          "title": "Custom Google Pixel 9 Pro XL Silicone Case",
+          "model": "Google Pixel 9 Pro XL",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/02/Silicone-Case-Custom-Thumbnail-Final-3-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Google Pixel 10",
+      "products": [
+        {
+          "smallTitle": "Google Pixel 10",
+          "id": 6179640,
+          "title": "Custom Google Pixel 10 Glass Case",
+          "model": "Google Pixel 10",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Google-Pixel-10-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
+    },
+    {
+      "model": "Google Pixel 9 Pro XL",
+      "products": [
+        {
+          "smallTitle": "Google Pixel 10 Pro",
+          "id": 6179642,
+          "title": "Custom Google Pixel 10 Pro Glass Case",
+          "model": "Google Pixel 10 Pro",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Google-Pixel-10-Pro-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
+    }
   ],
   "Vivo": [
-    { "model": "Vivo T1 4G (44W)", "products": [] },
-    { "model": "Vivo T1 5G", "products": [] },
-    { "model": "Vivo T1 Pro 5G", "products": [] },
-    { "model": "Vivo T1X 4G", "products": [] },
-    { "model": "Vivo T2 5G", "products": [] },
-    { "model": "Vivo T2X", "products": [] },
-    { "model": "Vivo T2 Pro 5G", "products": [] },
-    { "model": "Vivo T3 5G", "products": [] },
-    { "model": "Vivo T3 Lite", "products": [] },
-    { "model": "Vivo T3 Pro 5G", "products": [] },
-    { "model": "Vivo T3X", "products": [] },
-    { "model": "Vivo T3 Ultra", "products": [] },
-    { "model": "Vivo T4X", "products": [] },
-
-    { "model": "Vivo V20", "products": [] },
-    { "model": "Vivo V20 Pro", "products": [] },
-    { "model": "Vivo V20 SE", "products": [] },
-    { "model": "Vivo V21", "products": [] },
-    { "model": "Vivo V21E 4G", "products": [] },
-    { "model": "Vivo V21E 5G", "products": [] },
-    { "model": "Vivo V21S", "products": [] },
-    { "model": "Vivo V23", "products": [] },
-    { "model": "Vivo V23 Pro", "products": [] },
-    { "model": "Vivo V23E", "products": [] },
-    { "model": "Vivo V25 5G", "products": [] },
-    { "model": "Vivo V25 Pro 5G", "products": [] },
-    { "model": "Vivo V25E", "products": [] },
-    { "model": "Vivo V27", "products": [] },
-    { "model": "Vivo V27 Pro", "products": [] },
-    { "model": "Vivo V27E", "products": [] },
-    { "model": "Vivo V29", "products": [] },
-    { "model": "Vivo V29 Pro", "products": [] },
-    { "model": "Vivo V29E", "products": [] },
-    { "model": "Vivo V30 5G", "products": [] },
-    { "model": "Vivo V30 Pro 5G", "products": [] },
-    { "model": "Vivo V30E", "products": [] },
-    { "model": "Vivo V40", "products": [] },
-    { "model": "Vivo V40 Lite", "products": [] },
-    { "model": "Vivo V40E", "products": [] },
-    { "model": "Vivo V40 Pro", "products": [] },
-    { "model": "Vivo V50", "products": [] },
-    { "model": "Vivo V50E", "products": [] },
-    { "model": "Vivo V60", "products": [] },
-
-    { "model": "Vivo Y01", "products": [] },
-    { "model": "Vivo Y02 4G", "products": [] },
-    { "model": "Vivo Y02S", "products": [] },
-    { "model": "Vivo Y02T", "products": [] },
-    { "model": "Vivo Y03", "products": [] },
-    { "model": "Vivo Y11(2023)", "products": [] },
-    { "model": "Vivo Y12S", "products": [] },
-    { "model": "Vivo Y15S", "products": [] },
-    { "model": "Vivo Y16", "products": [] },
-    { "model": "Vivo Y17S", "products": [] },
-    { "model": "Vivo Y18", "products": [] },
-    { "model": "Vivo Y18E", "products": [] },
-    { "model": "Vivo Y19S", "products": [] },
-    { "model": "Vivo Y19S Pro", "products": [] },
-    { "model": "Vivo Y20", "products": [] },
-    { "model": "Vivo Y21 4G", "products": [] },
-    { "model": "Vivo Y21S", "products": [] },
-    { "model": "Vivo Y21T", "products": [] },
-    { "model": "Vivo Y22", "products": [] },
-    { "model": "Vivo Y22S", "products": [] },
-    { "model": "Vivo Y27 4G", "products": [] },
-    { "model": "Vivo Y27 5G", "products": [] },
-    { "model": "Vivo Y27S", "products": [] },
-    { "model": "Vivo Y28 5G", "products": [] },
-    { "model": "Vivo Y28S", "products": [] },
-    { "model": "Vivo Y28E", "products": [] },
-    { "model": "Vivo Y29 4G", "products": [] },
-    { "model": "Vivo Y29 5G", "products": [] },
-    { "model": "Vivo Y30 5G", "products": [] },
-    { "model": "Vivo Y31 4G(2020)", "products": [] },
-    { "model": "Vivo Y32", "products": [] },
-    { "model": "Vivo Y33E", "products": [] },
-    { "model": "Vivo Y33S 4G", "products": [] },
-    { "model": "Vivo Y33S 5G", "products": [] },
-    { "model": "Vivo Y33T", "products": [] },
-    { "model": "Vivo Y35 4G", "products": [] },
-    { "model": "Vivo Y35+", "products": [] },
-    { "model": "Vivo Y36", "products": [] },
-    { "model": "Vivo Y38", "products": [] },
-    { "model": "Vivo Y39", "products": [] },
-    { "model": "Vivo Y51A", "products": [] },
-    { "model": "Vivo Y52 5G", "products": [] },
-    { "model": "Vivo Y52T", "products": [] },
-    { "model": "Vivo Y55 5G", "products": [] },
-    { "model": "Vivo Y56 5G", "products": [] },
-    { "model": "Vivo Y58 5G", "products": [] },
-    { "model": "Vivo Y70", "products": [] },
-    { "model": "Vivo Y71T", "products": [] },
-    { "model": "Vivo Y73 4G", "products": [] },
-    { "model": "Vivo Y75 4G", "products": [] },
-    { "model": "Vivo Y75 5G", "products": [] },
-    { "model": "Vivo Y75S", "products": [] },
-    { "model": "Vivo Y77", "products": [] },
-    { "model": "Vivo Y78 5G", "products": [] },
-    { "model": "Vivo Y100 5G", "products": [] },
-    { "model": "Vivo Y100A", "products": [] },
-    { "model": "Vivo Y200", "products": [] },
-    { "model": "Vivo Y200 Pro", "products": [] },
-    { "model": "Vivo Y200E 5G", "products": [] },
-    { "model": "Vivo Y200T", "products": [] },
-    { "model": "Vivo Y300", "products": [] },
-    { "model": "Vivo Y300+", "products": [] },
-    { "model": "Vivo Y400", "products": [] },
-    { "model": "Vivo Y400 Pro", "products": [] },
-
-    { "model": "Vivo X60", "products": [] },
-    { "model": "Vivo X60 Pro", "products": [] },
-    { "model": "Vivo X60 Pro+ 5G", "products": [] },
-    { "model": "Vivo X60T", "products": [] },
-    { "model": "Vivo X70", "products": [] },
-    { "model": "Vivo X70 Pro", "products": [] },
-    { "model": "Vivo X70 Pro+", "products": [] },
-    { "model": "Vivo X80 5G", "products": [] },
-    { "model": "Vivo X80 Lite", "products": [] },
-    { "model": "Vivo X80 Pro 5G", "products": [] },
-    { "model": "Vivo X90", "products": [] },
-    { "model": "Vivo X90 Pro", "products": [] },
-    { "model": "Vivo X100 5G", "products": [] },
-    { "model": "Vivo X100 Pro 5G", "products": [] },
-    { "model": "Vivo X200", "products": [] },
-    { "model": "Vivo X200 Pro", "products": [] },
-    { "model": "Vivo X200 FE", "products": [] }
+    {
+      "model": "Vivo T1 4G (44W)",
+      "products": []
+    },
+    {
+      "model": "Vivo T1 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo T1 Pro 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo T1X 4G",
+      "products": []
+    },
+    {
+      "model": "Vivo T2 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo T2X",
+      "products": []
+    },
+    {
+      "model": "Vivo T2 Pro 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo T3 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo T3 Lite",
+      "products": []
+    },
+    {
+      "model": "Vivo T3 Pro 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo T3X",
+      "products": []
+    },
+    {
+      "model": "Vivo T3 Ultra",
+      "products": []
+    },
+    {
+      "model": "Vivo T4X",
+      "products": []
+    },
+    {
+      "model": "Vivo V20",
+      "products": []
+    },
+    {
+      "model": "Vivo V20 Pro",
+      "products": []
+    },
+    {
+      "model": "Vivo V20 SE",
+      "products": []
+    },
+    {
+      "model": "Vivo V21",
+      "products": []
+    },
+    {
+      "model": "Vivo V21E 4G",
+      "products": []
+    },
+    {
+      "model": "Vivo V21E 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo V21S",
+      "products": []
+    },
+    {
+      "model": "Vivo V23",
+      "products": []
+    },
+    {
+      "model": "Vivo V23 Pro",
+      "products": []
+    },
+    {
+      "model": "Vivo V23E",
+      "products": []
+    },
+    {
+      "model": "Vivo V25 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo V25 Pro 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo V25E",
+      "products": []
+    },
+    {
+      "model": "Vivo V27",
+      "products": []
+    },
+    {
+      "model": "Vivo V27 Pro",
+      "products": []
+    },
+    {
+      "model": "Vivo V27E",
+      "products": []
+    },
+    {
+      "model": "Vivo V29",
+      "products": []
+    },
+    {
+      "model": "Vivo V29 Pro",
+      "products": []
+    },
+    {
+      "model": "Vivo V29E",
+      "products": []
+    },
+    {
+      "model": "Vivo V30 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo V30 Pro 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo V30E",
+      "products": []
+    },
+    {
+      "model": "Vivo V40",
+      "products": []
+    },
+    {
+      "model": "Vivo V40 Lite",
+      "products": []
+    },
+    {
+      "model": "Vivo V40E",
+      "products": []
+    },
+    {
+      "model": "Vivo V40 Pro",
+      "products": []
+    },
+    {
+      "model": "Vivo V50",
+      "products": []
+    },
+    {
+      "model": "Vivo V50E",
+      "products": []
+    },
+    {
+      "model": "Vivo V60",
+      "products": []
+    },
+    {
+      "model": "Vivo Y01",
+      "products": []
+    },
+    {
+      "model": "Vivo Y02 4G",
+      "products": []
+    },
+    {
+      "model": "Vivo Y02S",
+      "products": []
+    },
+    {
+      "model": "Vivo Y02T",
+      "products": []
+    },
+    {
+      "model": "Vivo Y03",
+      "products": []
+    },
+    {
+      "model": "Vivo Y11(2023)",
+      "products": []
+    },
+    {
+      "model": "Vivo Y12S",
+      "products": []
+    },
+    {
+      "model": "Vivo Y15S",
+      "products": []
+    },
+    {
+      "model": "Vivo Y16",
+      "products": []
+    },
+    {
+      "model": "Vivo Y17S",
+      "products": []
+    },
+    {
+      "model": "Vivo Y18",
+      "products": []
+    },
+    {
+      "model": "Vivo Y18E",
+      "products": []
+    },
+    {
+      "model": "Vivo Y19S",
+      "products": []
+    },
+    {
+      "model": "Vivo Y19S Pro",
+      "products": []
+    },
+    {
+      "model": "Vivo Y20",
+      "products": []
+    },
+    {
+      "model": "Vivo Y21 4G",
+      "products": []
+    },
+    {
+      "model": "Vivo Y21S",
+      "products": []
+    },
+    {
+      "model": "Vivo Y21T",
+      "products": []
+    },
+    {
+      "model": "Vivo Y22",
+      "products": []
+    },
+    {
+      "model": "Vivo Y22S",
+      "products": []
+    },
+    {
+      "model": "Vivo Y27 4G",
+      "products": []
+    },
+    {
+      "model": "Vivo Y27 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo Y27S",
+      "products": []
+    },
+    {
+      "model": "Vivo Y28 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo Y28S",
+      "products": []
+    },
+    {
+      "model": "Vivo Y28E",
+      "products": []
+    },
+    {
+      "model": "Vivo Y29 4G",
+      "products": []
+    },
+    {
+      "model": "Vivo Y29 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo Y30 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo Y31 4G(2020)",
+      "products": []
+    },
+    {
+      "model": "Vivo Y32",
+      "products": []
+    },
+    {
+      "model": "Vivo Y33E",
+      "products": []
+    },
+    {
+      "model": "Vivo Y33S 4G",
+      "products": []
+    },
+    {
+      "model": "Vivo Y33S 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo Y33T",
+      "products": []
+    },
+    {
+      "model": "Vivo Y35 4G",
+      "products": []
+    },
+    {
+      "model": "Vivo Y35+",
+      "products": []
+    },
+    {
+      "model": "Vivo Y36",
+      "products": []
+    },
+    {
+      "model": "Vivo Y38",
+      "products": []
+    },
+    {
+      "model": "Vivo Y39",
+      "products": []
+    },
+    {
+      "model": "Vivo Y51A",
+      "products": []
+    },
+    {
+      "model": "Vivo Y52 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo Y52T",
+      "products": []
+    },
+    {
+      "model": "Vivo Y55 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo Y56 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo Y58 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo Y70",
+      "products": []
+    },
+    {
+      "model": "Vivo Y71T",
+      "products": []
+    },
+    {
+      "model": "Vivo Y73 4G",
+      "products": []
+    },
+    {
+      "model": "Vivo Y75 4G",
+      "products": []
+    },
+    {
+      "model": "Vivo Y75 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo Y75S",
+      "products": []
+    },
+    {
+      "model": "Vivo Y77",
+      "products": []
+    },
+    {
+      "model": "Vivo Y78 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo Y100 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo Y100A",
+      "products": []
+    },
+    {
+      "model": "Vivo Y200",
+      "products": []
+    },
+    {
+      "model": "Vivo Y200 Pro",
+      "products": []
+    },
+    {
+      "model": "Vivo Y200E 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo Y200T",
+      "products": []
+    },
+    {
+      "model": "Vivo Y300",
+      "products": []
+    },
+    {
+      "model": "Vivo Y300+",
+      "products": []
+    },
+    {
+      "model": "Vivo Y400",
+      "products": []
+    },
+    {
+      "model": "Vivo Y400 Pro",
+      "products": []
+    },
+    {
+      "model": "Vivo X60",
+      "products": []
+    },
+    {
+      "model": "Vivo X60 Pro",
+      "products": []
+    },
+    {
+      "model": "Vivo X60 Pro+ 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo X60T",
+      "products": []
+    },
+    {
+      "model": "Vivo X70",
+      "products": []
+    },
+    {
+      "model": "Vivo X70 Pro",
+      "products": []
+    },
+    {
+      "model": "Vivo X70 Pro+",
+      "products": []
+    },
+    {
+      "model": "Vivo X80 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo X80 Lite",
+      "products": []
+    },
+    {
+      "model": "Vivo X80 Pro 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo X90",
+      "products": []
+    },
+    {
+      "model": "Vivo X90 Pro",
+      "products": []
+    },
+    {
+      "model": "Vivo X100 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo X100 Pro 5G",
+      "products": []
+    },
+    {
+      "model": "Vivo X200",
+      "products": []
+    },
+    {
+      "model": "Vivo X200 Pro",
+      "products": []
+    },
+    {
+      "model": "Vivo X200 FE",
+      "products": []
+    }
   ],
   "Oppo": [
-    { "model": "Oppo A1 Pro", "products": [] },
-    { "model": "Oppo A3X 5G", "products": [] },
-    { "model": "Oppo A3 Pro", "products": [] },
-    { "model": "Oppo A5 5G", "products": [] },
-    { "model": "Oppo A5 Pro", "products": [] },
-    { "model": "Oppo A16", "products": [] },
-    { "model": "Oppo A16K", "products": [] },
-    { "model": "Oppo A17", "products": [] },
-    { "model": "Oppo A17K", "products": [] },
-    { "model": "Oppo A18", "products": [] },
-    { "model": "Oppo A36", "products": [] },
-    { "model": "Oppo A38", "products": [] },
-    { "model": "Oppo A53 4G", "products": [] },
-    { "model": "Oppo A53S 4G", "products": [] },
-    { "model": "Oppo A53S 5G", "products": [] },
-    { "model": "Oppo A54 4G", "products": [] },
-    { "model": "Oppo A55 4G", "products": [] },
-    { "model": "Oppo A55 5G", "products": [] },
-    { "model": "Oppo A57 4G", "products": [] },
-    { "model": "Oppo A57 5G", "products": [] },
-    { "model": "Oppo A58", "products": [] },
-    { "model": "Oppo A58X", "products": [] },
-    { "model": "Oppo A59", "products": [] },
-    { "model": "Oppo A74 4G", "products": [] },
-    { "model": "Oppo A74 5G", "products": [] },
-    { "model": "Oppo A76", "products": [] },
-    { "model": "Oppo A77 4G", "products": [] },
-    { "model": "Oppo A77 5G", "products": [] },
-    { "model": "Oppo A77S", "products": [] },
-    { "model": "Oppo A78 4G", "products": [] },
-    { "model": "Oppo A78 5G", "products": [] },
-    { "model": "Oppo A79", "products": [] },
-    { "model": "Oppo A94 4G", "products": [] },
-    { "model": "Oppo A95 5G", "products": [] },
-    { "model": "Oppo A96", "products": [] },
-    { "model": "Oppo A98", "products": [] },
-
-    { "model": "Oppo F19", "products": [] },
-    { "model": "Oppo F19 Pro", "products": [] },
-    { "model": "Oppo F19 Pro+", "products": [] },
-    { "model": "Oppo F21 Pro 4G", "products": [] },
-    { "model": "Oppo F21 Pro 5G", "products": [] },
-    { "model": "Oppo F21S Pro 4G", "products": [] },
-    { "model": "Oppo F21S Pro 5G", "products": [] },
-    { "model": "Oppo F23", "products": [] },
-    { "model": "Oppo F25 Pro 5G", "products": [] },
-    { "model": "Oppo F27", "products": [] },
-    { "model": "Oppo F27 Pro", "products": [] },
-    { "model": "Oppo F27 Pro+", "products": [] },
-    { "model": "Oppo F29", "products": [] },
-    { "model": "Oppo F29 Pro", "products": [] },
-    { "model": "Oppo F31", "products": [] },
-    { "model": "Oppo F31 Pro", "products": [] },
-    { "model": "Oppo F31 Pro+", "products": [] },
-
-    { "model": "Oppo Find X8", "products": [] },
-    { "model": "Oppo Find X8 Pro", "products": [] },
-
-    { "model": "Oppo K10 4G", "products": [] },
-    { "model": "Oppo K10 5G", "products": [] },
-    { "model": "Oppo K12", "products": [] },
-    { "model": "Oppo K12X", "products": [] },
-    { "model": "Oppo K13", "products": [] },
-
-    { "model": "Oppo Reno 6 4G", "products": [] },
-    { "model": "Oppo Reno 6 5G", "products": [] },
-    { "model": "Oppo Reno 6 Pro", "products": [] },
-    { "model": "Oppo Reno 7 4G", "products": [] },
-    { "model": "Oppo Reno 7 5G", "products": [] },
-    { "model": "Oppo Reno 7 Lite", "products": [] },
-    { "model": "Oppo Reno 7 Pro 5G", "products": [] },
-    { "model": "Oppo Reno 7Z", "products": [] },
-    { "model": "Oppo Reno 8 4G", "products": [] },
-    { "model": "Oppo Reno 8 5G", "products": [] },
-    { "model": "Oppo Reno 8 Lite", "products": [] },
-    { "model": "Oppo Reno 8 Pro", "products": [] },
-    { "model": "Oppo Reno 8T 4G", "products": [] },
-    { "model": "Oppo Reno 8T 5G", "products": [] },
-    { "model": "Oppo Reno 8Z", "products": [] },
-    { "model": "Oppo Reno 9", "products": [] },
-    { "model": "Oppo Reno 9 Pro", "products": [] },
-    { "model": "Oppo Reno 9 Pro+", "products": [] },
-    { "model": "Oppo Reno 10 5G", "products": [] },
-    { "model": "Oppo Reno 10 Pro 5G", "products": [] },
-    { "model": "Oppo Reno 10 Pro+ 5G", "products": [] },
-    { "model": "Oppo Reno 11 5G", "products": [] },
-    { "model": "Oppo Reno 11 Pro 5G", "products": [] },
-    { "model": "Oppo Reno 11F", "products": [] },
-    { "model": "Oppo Reno 12", "products": [] },
-    { "model": "Oppo Reno 12 Pro", "products": [] },
-    { "model": "Oppo Reno 13", "products": [] },
-    { "model": "Oppo Reno 13 Pro", "products": [] },
-    { "model": "Oppo Reno 14 Pro", "products": [] }
+    {
+      "model": "Oppo A1 Pro",
+      "products": []
+    },
+    {
+      "model": "Oppo A3X 5G",
+      "products": []
+    },
+    {
+      "model": "Oppo A3 Pro",
+      "products": []
+    },
+    {
+      "model": "Oppo A5 5G",
+      "products": []
+    },
+    {
+      "model": "Oppo A5 Pro",
+      "products": []
+    },
+    {
+      "model": "Oppo A16",
+      "products": []
+    },
+    {
+      "model": "Oppo A16K",
+      "products": []
+    },
+    {
+      "model": "Oppo A17",
+      "products": []
+    },
+    {
+      "model": "Oppo A17K",
+      "products": []
+    },
+    {
+      "model": "Oppo A18",
+      "products": []
+    },
+    {
+      "model": "Oppo A36",
+      "products": []
+    },
+    {
+      "model": "Oppo A38",
+      "products": []
+    },
+    {
+      "model": "Oppo A53 4G",
+      "products": []
+    },
+    {
+      "model": "Oppo A53S 4G",
+      "products": []
+    },
+    {
+      "model": "Oppo A53S 5G",
+      "products": []
+    },
+    {
+      "model": "Oppo A54 4G",
+      "products": []
+    },
+    {
+      "model": "Oppo A55 4G",
+      "products": []
+    },
+    {
+      "model": "Oppo A55 5G",
+      "products": []
+    },
+    {
+      "model": "Oppo A57 4G",
+      "products": []
+    },
+    {
+      "model": "Oppo A57 5G",
+      "products": []
+    },
+    {
+      "model": "Oppo A58",
+      "products": []
+    },
+    {
+      "model": "Oppo A58X",
+      "products": []
+    },
+    {
+      "model": "Oppo A59",
+      "products": []
+    },
+    {
+      "model": "Oppo A74 4G",
+      "products": []
+    },
+    {
+      "model": "Oppo A74 5G",
+      "products": []
+    },
+    {
+      "model": "Oppo A76",
+      "products": []
+    },
+    {
+      "model": "Oppo A77 4G",
+      "products": []
+    },
+    {
+      "model": "Oppo A77 5G",
+      "products": []
+    },
+    {
+      "model": "Oppo A77S",
+      "products": []
+    },
+    {
+      "model": "Oppo A78 4G",
+      "products": []
+    },
+    {
+      "model": "Oppo A78 5G",
+      "products": []
+    },
+    {
+      "model": "Oppo A79",
+      "products": []
+    },
+    {
+      "model": "Oppo A94 4G",
+      "products": []
+    },
+    {
+      "model": "Oppo A95 5G",
+      "products": []
+    },
+    {
+      "model": "Oppo A96",
+      "products": []
+    },
+    {
+      "model": "Oppo A98",
+      "products": []
+    },
+    {
+      "model": "Oppo F19",
+      "products": []
+    },
+    {
+      "model": "Oppo F19 Pro",
+      "products": []
+    },
+    {
+      "model": "Oppo F19 Pro+",
+      "products": []
+    },
+    {
+      "model": "Oppo F21 Pro 4G",
+      "products": []
+    },
+    {
+      "model": "Oppo F21 Pro 5G",
+      "products": []
+    },
+    {
+      "model": "Oppo F21S Pro 4G",
+      "products": []
+    },
+    {
+      "model": "Oppo F21S Pro 5G",
+      "products": []
+    },
+    {
+      "model": "Oppo F23",
+      "products": []
+    },
+    {
+      "model": "Oppo F25 Pro 5G",
+      "products": []
+    },
+    {
+      "model": "Oppo F27",
+      "products": []
+    },
+    {
+      "model": "Oppo F27 Pro",
+      "products": []
+    },
+    {
+      "model": "Oppo F27 Pro+",
+      "products": []
+    },
+    {
+      "model": "Oppo F29",
+      "products": []
+    },
+    {
+      "model": "Oppo F29 Pro",
+      "products": []
+    },
+    {
+      "model": "Oppo F31",
+      "products": []
+    },
+    {
+      "model": "Oppo F31 Pro",
+      "products": []
+    },
+    {
+      "model": "Oppo F31 Pro+",
+      "products": []
+    },
+    {
+      "model": "Oppo Find X8",
+      "products": []
+    },
+    {
+      "model": "Oppo Find X8 Pro",
+      "products": []
+    },
+    {
+      "model": "Oppo K10 4G",
+      "products": []
+    },
+    {
+      "model": "Oppo K10 5G",
+      "products": []
+    },
+    {
+      "model": "Oppo K12",
+      "products": []
+    },
+    {
+      "model": "Oppo K12X",
+      "products": []
+    },
+    {
+      "model": "Oppo K13",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 6 4G",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 6 5G",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 6 Pro",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 7 4G",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 7 5G",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 7 Lite",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 7 Pro 5G",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 7Z",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 8 4G",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 8 5G",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 8 Lite",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 8 Pro",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 8T 4G",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 8T 5G",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 8Z",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 9",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 9 Pro",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 9 Pro+",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 10 5G",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 10 Pro 5G",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 10 Pro+ 5G",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 11 5G",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 11 Pro 5G",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 11F",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 12",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 12 Pro",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 13",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 13 Pro",
+      "products": []
+    },
+    {
+      "model": "Oppo Reno 14 Pro",
+      "products": []
+    }
   ],
   "Realme": [
-    { "model": "Realme 5 Pro", "products": [] },
-    { "model": "Realme 6", "products": [] },
-    { "model": "Realme 6 Pro", "products": [] },
-    { "model": "Realme 7 4G", "products": [] },
-    { "model": "Realme 7 Pro", "products": [] },
-    { "model": "Realme 8 4G", "products": [] },
-    { "model": "Realme 8 5G", "products": [] },
-    { "model": "Realme 8 Pro", "products": [] },
-    { "model": "Realme 8i", "products": [] },
-    { "model": "Realme 8S", "products": [] },
-
-    { "model": "Realme 9 4G", "products": [] },
-    { "model": "Realme 9 5G", "products": [] },
-    { "model": "Realme 9 Pro 5G", "products": [] },
-    { "model": "Realme 9 Pro+ 5G", "products": [] },
-    { "model": "Realme 9 Speed", "products": [] },
-    { "model": "Realme 9i 4G", "products": [] },
-    { "model": "Realme 9i 5G", "products": [] },
-
-    { "model": "Realme 10 4G", "products": [] },
-    { "model": "Realme 10 5G", "products": [] },
-    { "model": "Realme 10 Pro 5G", "products": [] },
-    { "model": "Realme 10 Pro+ 5G", "products": [] },
-
-    { "model": "Realme 11 4G", "products": [] },
-    { "model": "Realme 11 5G", "products": [] },
-    { "model": "Realme 11 Pro", "products": [] },
-    { "model": "Realme 11 Pro+", "products": [] },
-    { "model": "Realme 11X 5G", "products": [] },
-
-    { "model": "Realme 12 4G", "products": [] },
-    { "model": "Realme 12 5G", "products": [] },
-    { "model": "Realme 12 Plus 5G", "products": [] },
-    { "model": "Realme 12 Pro 5G", "products": [] },
-    { "model": "Realme 12 Pro+ 5G", "products": [] },
-    { "model": "Realme 12X 5G", "products": [] },
-
-    { "model": "Realme 13 4G", "products": [] },
-    { "model": "Realme 13 5G", "products": [] },
-    { "model": "Realme 13 Pro", "products": [] },
-    { "model": "Realme 13+", "products": [] },
-    { "model": "Realme 13 Pro+", "products": [] },
-
-    { "model": "Realme 14", "products": [] },
-    { "model": "Realme 14X", "products": [] },
-    { "model": "Realme 14T", "products": [] },
-    { "model": "Realme 14 Pro", "products": [] },
-    { "model": "Realme 14 Pro+", "products": [] },
-    { "model": "Realme 15", "products": [] },
-    { "model": "Realme 15 Pro", "products": [] },
-
-    { "model": "Realme C11(2021)", "products": [] },
-    { "model": "Realme C15", "products": [] },
-    { "model": "Realme C17", "products": [] },
-    { "model": "Realme C20", "products": [] },
-    { "model": "Realme C21", "products": [] },
-    { "model": "Realme C21Y", "products": [] },
-    { "model": "Realme C25", "products": [] },
-    { "model": "Realme C25Y", "products": [] },
-    { "model": "Realme C30", "products": [] },
-    { "model": "Realme C30S", "products": [] },
-    { "model": "Realme C31", "products": [] },
-    { "model": "Realme C33", "products": [] },
-    { "model": "Realme C35", "products": [] },
-    { "model": "Realme C51", "products": [] },
-    { "model": "Realme C53", "products": [] },
-    { "model": "Realme C55", "products": [] },
-    { "model": "Realme C61", "products": [] },
-    { "model": "Realme C63 4G", "products": [] },
-    { "model": "Realme C63 5G", "products": [] },
-    { "model": "Realme C65 5G", "products": [] },
-    { "model": "Realme C67 5G", "products": [] },
-
-    { "model": "Realme GT 5G", "products": [] },
-    { "model": "Realme GT 2", "products": [] },
-    { "model": "Realme GT 2 Pro", "products": [] },
-    { "model": "Realme GT 6", "products": [] },
-    { "model": "Realme GT 6T", "products": [] },
-    { "model": "Realme GT 7 Pro", "products": [] },
-    { "model": "Realme GT Master", "products": [] },
-    { "model": "Realme GT Neo 2", "products": [] },
-    { "model": "Realme GT Neo 2T", "products": [] },
-    { "model": "Realme GT Neo 3", "products": [] },
-    { "model": "Realme GT Neo 3T", "products": [] },
-    { "model": "Realme GT Neo 6", "products": [] },
-    { "model": "Realme GT Neo 6 SE", "products": [] },
-    { "model": "Realme GT Neo Flash", "products": [] },
-
-    { "model": "Realme Narzo 20 Pro", "products": [] },
-    { "model": "Realme Narzo 30 5G", "products": [] },
-    { "model": "Realme Narzo 30A", "products": [] },
-    { "model": "Realme Narzo 50 5G", "products": [] },
-    { "model": "Realme Narzo 50 Pro", "products": [] },
-    { "model": "Realme Narzo 50A", "products": [] },
-    { "model": "Realme Narzo 50i Prime", "products": [] },
-    { "model": "Realme Narzo 60", "products": [] },
-    { "model": "Realme Narzo 60 Pro", "products": [] },
-    { "model": "Realme Narzo 60X", "products": [] },
-    { "model": "Realme Narzo 70", "products": [] },
-    { "model": "Realme Narzo 70 Pro", "products": [] },
-    { "model": "Realme Narzo 70X", "products": [] },
-    { "model": "Realme Narzo 80 Lite 5G", "products": [] },
-    { "model": "Realme Narzo N53", "products": [] },
-    { "model": "Realme Narzo N55", "products": [] },
-    { "model": "Realme Narzo N63", "products": [] },
-
-    { "model": "Realme P1", "products": [] },
-    { "model": "Realme P1 Pro", "products": [] },
-    { "model": "Realme P1 Speed", "products": [] },
-    { "model": "Realme P2 Pro", "products": [] },
-    { "model": "Realme P3", "products": [] },
-    { "model": "Realme P3 Pro", "products": [] },
-    { "model": "Realme P3 Ultra", "products": [] },
-    { "model": "Realme P4", "products": [] },
-    { "model": "Realme P4 Pro", "products": [] },
-
-    { "model": "Realme Q3 5G", "products": [] },
-    { "model": "Realme Q3 Pro 5G", "products": [] },
-    { "model": "Realme Q3i 5G", "products": [] },
-    { "model": "Realme Q5", "products": [] },
-    { "model": "Realme Q5 Pro", "products": [] },
-
-    { "model": "Realme V13 5G", "products": [] },
-    { "model": "Realme V23 5G", "products": [] },
-    { "model": "Realme V25", "products": [] },
-    { "model": "Realme V60", "products": [] },
-
-    { "model": "Realme X50 Pro", "products": [] },
-    { "model": "Realme X7", "products": [] },
-    { "model": "Realme X7 Max 5G", "products": [] },
-    { "model": "Realme X7 Pro", "products": [] },
-    { "model": "Realme XT", "products": [] }
+    {
+      "model": "Realme 5 Pro",
+      "products": []
+    },
+    {
+      "model": "Realme 6",
+      "products": []
+    },
+    {
+      "model": "Realme 6 Pro",
+      "products": []
+    },
+    {
+      "model": "Realme 7 4G",
+      "products": []
+    },
+    {
+      "model": "Realme 7 Pro",
+      "products": []
+    },
+    {
+      "model": "Realme 8 4G",
+      "products": []
+    },
+    {
+      "model": "Realme 8 5G",
+      "products": []
+    },
+    {
+      "model": "Realme 8 Pro",
+      "products": []
+    },
+    {
+      "model": "Realme 8i",
+      "products": []
+    },
+    {
+      "model": "Realme 8S",
+      "products": []
+    },
+    {
+      "model": "Realme 9 4G",
+      "products": []
+    },
+    {
+      "model": "Realme 9 5G",
+      "products": []
+    },
+    {
+      "model": "Realme 9 Pro 5G",
+      "products": []
+    },
+    {
+      "model": "Realme 9 Pro+ 5G",
+      "products": []
+    },
+    {
+      "model": "Realme 9 Speed",
+      "products": []
+    },
+    {
+      "model": "Realme 9i 4G",
+      "products": []
+    },
+    {
+      "model": "Realme 9i 5G",
+      "products": []
+    },
+    {
+      "model": "Realme 10 4G",
+      "products": []
+    },
+    {
+      "model": "Realme 10 5G",
+      "products": []
+    },
+    {
+      "model": "Realme 10 Pro 5G",
+      "products": []
+    },
+    {
+      "model": "Realme 10 Pro+ 5G",
+      "products": []
+    },
+    {
+      "model": "Realme 11 4G",
+      "products": []
+    },
+    {
+      "model": "Realme 11 5G",
+      "products": []
+    },
+    {
+      "model": "Realme 11 Pro",
+      "products": []
+    },
+    {
+      "model": "Realme 11 Pro+",
+      "products": []
+    },
+    {
+      "model": "Realme 11X 5G",
+      "products": []
+    },
+    {
+      "model": "Realme 12 4G",
+      "products": []
+    },
+    {
+      "model": "Realme 12 5G",
+      "products": []
+    },
+    {
+      "model": "Realme 12 Plus 5G",
+      "products": []
+    },
+    {
+      "model": "Realme 12 Pro 5G",
+      "products": []
+    },
+    {
+      "model": "Realme 12 Pro+ 5G",
+      "products": []
+    },
+    {
+      "model": "Realme 12X 5G",
+      "products": []
+    },
+    {
+      "model": "Realme 13 4G",
+      "products": []
+    },
+    {
+      "model": "Realme 13 5G",
+      "products": []
+    },
+    {
+      "model": "Realme 13 Pro",
+      "products": []
+    },
+    {
+      "model": "Realme 13+",
+      "products": []
+    },
+    {
+      "model": "Realme 13 Pro+",
+      "products": []
+    },
+    {
+      "model": "Realme 14",
+      "products": []
+    },
+    {
+      "model": "Realme 14X",
+      "products": []
+    },
+    {
+      "model": "Realme 14T",
+      "products": []
+    },
+    {
+      "model": "Realme 14 Pro",
+      "products": []
+    },
+    {
+      "model": "Realme 14 Pro+",
+      "products": []
+    },
+    {
+      "model": "Realme 15",
+      "products": []
+    },
+    {
+      "model": "Realme 15 Pro",
+      "products": []
+    },
+    {
+      "model": "Realme C11(2021)",
+      "products": []
+    },
+    {
+      "model": "Realme C15",
+      "products": []
+    },
+    {
+      "model": "Realme C17",
+      "products": []
+    },
+    {
+      "model": "Realme C20",
+      "products": []
+    },
+    {
+      "model": "Realme C21",
+      "products": []
+    },
+    {
+      "model": "Realme C21Y",
+      "products": []
+    },
+    {
+      "model": "Realme C25",
+      "products": []
+    },
+    {
+      "model": "Realme C25Y",
+      "products": []
+    },
+    {
+      "model": "Realme C30",
+      "products": []
+    },
+    {
+      "model": "Realme C30S",
+      "products": []
+    },
+    {
+      "model": "Realme C31",
+      "products": []
+    },
+    {
+      "model": "Realme C33",
+      "products": []
+    },
+    {
+      "model": "Realme C35",
+      "products": []
+    },
+    {
+      "model": "Realme C51",
+      "products": []
+    },
+    {
+      "model": "Realme C53",
+      "products": []
+    },
+    {
+      "model": "Realme C55",
+      "products": []
+    },
+    {
+      "model": "Realme C61",
+      "products": []
+    },
+    {
+      "model": "Realme C63 4G",
+      "products": []
+    },
+    {
+      "model": "Realme C63 5G",
+      "products": []
+    },
+    {
+      "model": "Realme C65 5G",
+      "products": []
+    },
+    {
+      "model": "Realme C67 5G",
+      "products": []
+    },
+    {
+      "model": "Realme GT 5G",
+      "products": []
+    },
+    {
+      "model": "Realme GT 2",
+      "products": []
+    },
+    {
+      "model": "Realme GT 2 Pro",
+      "products": []
+    },
+    {
+      "model": "Realme GT 6",
+      "products": []
+    },
+    {
+      "model": "Realme GT 6T",
+      "products": []
+    },
+    {
+      "model": "Realme GT 7 Pro",
+      "products": []
+    },
+    {
+      "model": "Realme GT Master",
+      "products": []
+    },
+    {
+      "model": "Realme GT Neo 2",
+      "products": []
+    },
+    {
+      "model": "Realme GT Neo 2T",
+      "products": []
+    },
+    {
+      "model": "Realme GT Neo 3",
+      "products": []
+    },
+    {
+      "model": "Realme GT Neo 3T",
+      "products": []
+    },
+    {
+      "model": "Realme GT Neo 6",
+      "products": []
+    },
+    {
+      "model": "Realme GT Neo 6 SE",
+      "products": []
+    },
+    {
+      "model": "Realme GT Neo Flash",
+      "products": []
+    },
+    {
+      "model": "Realme Narzo 20 Pro",
+      "products": []
+    },
+    {
+      "model": "Realme Narzo 30 5G",
+      "products": []
+    },
+    {
+      "model": "Realme Narzo 30A",
+      "products": []
+    },
+    {
+      "model": "Realme Narzo 50 5G",
+      "products": []
+    },
+    {
+      "model": "Realme Narzo 50 Pro",
+      "products": []
+    },
+    {
+      "model": "Realme Narzo 50A",
+      "products": []
+    },
+    {
+      "model": "Realme Narzo 50i Prime",
+      "products": []
+    },
+    {
+      "model": "Realme Narzo 60",
+      "products": []
+    },
+    {
+      "model": "Realme Narzo 60 Pro",
+      "products": []
+    },
+    {
+      "model": "Realme Narzo 60X",
+      "products": []
+    },
+    {
+      "model": "Realme Narzo 70",
+      "products": []
+    },
+    {
+      "model": "Realme Narzo 70 Pro",
+      "products": []
+    },
+    {
+      "model": "Realme Narzo 70X",
+      "products": []
+    },
+    {
+      "model": "Realme Narzo 80 Lite 5G",
+      "products": []
+    },
+    {
+      "model": "Realme Narzo N53",
+      "products": []
+    },
+    {
+      "model": "Realme Narzo N55",
+      "products": []
+    },
+    {
+      "model": "Realme Narzo N63",
+      "products": []
+    },
+    {
+      "model": "Realme P1",
+      "products": []
+    },
+    {
+      "model": "Realme P1 Pro",
+      "products": []
+    },
+    {
+      "model": "Realme P1 Speed",
+      "products": []
+    },
+    {
+      "model": "Realme P2 Pro",
+      "products": []
+    },
+    {
+      "model": "Realme P3",
+      "products": []
+    },
+    {
+      "model": "Realme P3 Pro",
+      "products": []
+    },
+    {
+      "model": "Realme P3 Ultra",
+      "products": []
+    },
+    {
+      "model": "Realme P4",
+      "products": []
+    },
+    {
+      "model": "Realme P4 Pro",
+      "products": []
+    },
+    {
+      "model": "Realme Q3 5G",
+      "products": []
+    },
+    {
+      "model": "Realme Q3 Pro 5G",
+      "products": []
+    },
+    {
+      "model": "Realme Q3i 5G",
+      "products": []
+    },
+    {
+      "model": "Realme Q5",
+      "products": []
+    },
+    {
+      "model": "Realme Q5 Pro",
+      "products": []
+    },
+    {
+      "model": "Realme V13 5G",
+      "products": []
+    },
+    {
+      "model": "Realme V23 5G",
+      "products": []
+    },
+    {
+      "model": "Realme V25",
+      "products": []
+    },
+    {
+      "model": "Realme V60",
+      "products": []
+    },
+    {
+      "model": "Realme X50 Pro",
+      "products": []
+    },
+    {
+      "model": "Realme X7",
+      "products": []
+    },
+    {
+      "model": "Realme X7 Max 5G",
+      "products": []
+    },
+    {
+      "model": "Realme X7 Pro",
+      "products": []
+    },
+    {
+      "model": "Realme XT",
+      "products": []
+    }
   ],
   "iQOO": [
-    { "model": "iQOO 3", "products": [] },
-    { "model": "iQOO 7", "products": [] },
-    { "model": "iQOO 7 Legend", "products": [] },
-    { "model": "iQOO 8", "products": [] },
-    { "model": "iQOO 9", "products": [] },
-    { "model": "iQOO 9 Pro", "products": [] },
-    { "model": "iQOO 9 SE", "products": [] },
-    { "model": "iQOO 9T", "products": [] },
-    { "model": "iQOO 10", "products": [] },
-    { "model": "iQOO 11", "products": [] },
-    { "model": "iQOO 12", "products": [] },
-    { "model": "iQOO 12 Pro", "products": [] },
-    { "model": "iQOO 13", "products": [] },
-
-    { "model": "iQOO Neo 5", "products": [] },
-    { "model": "iQOO Neo 5S", "products": [] },
-    { "model": "iQOO Neo 6", "products": [] },
-    { "model": "iQOO Neo 6 SE", "products": [] },
-    { "model": "iQOO Neo 7", "products": [] },
-    { "model": "iQOO Neo 7 Pro", "products": [] },
-    { "model": "iQOO Neo 7 Racing", "products": [] },
-    { "model": "iQOO Neo 7 SE", "products": [] },
-    { "model": "iQOO Neo 9", "products": [] },
-    { "model": "iQOO Neo 9 Pro", "products": [] },
-    { "model": "iQOO Neo 10", "products": [] },
-    { "model": "iQOO Neo 10R", "products": [] },
-
-    { "model": "iQOO U5E", "products": [] },
-
-    { "model": "iQOO Z3", "products": [] },
-    { "model": "iQOO Z5", "products": [] },
-    { "model": "iQOO Z6", "products": [] },
-    { "model": "iQOO Z6 Lite", "products": [] },
-    { "model": "iQOO Z6 Pro", "products": [] },
-    { "model": "iQOO Z7", "products": [] },
-    { "model": "iQOO Z7 Pro", "products": [] },
-    { "model": "iQOO Z7S", "products": [] },
-    { "model": "iQOO Z9", "products": [] },
-    { "model": "iQOO Z9 Lite", "products": [] },
-    { "model": "iQOO Z9S", "products": [] },
-    { "model": "iQOO Z9S Pro", "products": [] },
-    { "model": "iQOO Z9X", "products": [] },
-    { "model": "iQOO Z10X", "products": [] },
-    { "model": "iQOO Z10 Turbo", "products": [] }
+    {
+      "model": "iQOO 3",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO 3",
+          "id": 4584341,
+          "title": "Custom Vivo iQOO 3 Glass Case",
+          "model": "Vivo iQOO 3",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/09/Glass-Case-Custom-Thumbnail-Final-10-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Vivo iQOO 3",
+          "id": 5389635,
+          "title": "Custom Vivo iQOO 3 Silicone Case",
+          "model": "Vivo iQOO 3",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-12-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iQOO 7",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO 7",
+          "id": 4800247,
+          "title": "Custom Vivo iQOO 7 Glass Case",
+          "model": "Vivo iQOO 7",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/05/Glass-Case-Custom-Thumbnail-Final-11-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Vivo iQOO 7",
+          "id": 5035740,
+          "title": "Custom Vivo iQOO 7 Silicone Case",
+          "model": "Vivo iQOO 7",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-13-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iQOO 7 Legend",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO 7 Legend",
+          "id": 5133750,
+          "title": "Custom Vivo iQOO 7 Legend Glass Case",
+          "model": "Vivo iQOO 7 Legend",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/02/Glass-Case-Custom-Thumbnail-Final-12-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Vivo iQOO 7 Legend",
+          "id": 6121829,
+          "title": "Custom Vivo iQOO 7 Legend Silicone Case",
+          "model": "Vivo iQOO 7 Legend",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Vivo-iQOO-7-Legend-Thumbnail-Final-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iQOO 8",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO 8",
+          "id": 4640127,
+          "title": "Custom Vivo iQOO 8 Glass Case",
+          "model": "Vivo iQOO 8",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/12/Glass-Case-Custom-Thumbnail-Final-13-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
+    },
+    {
+      "model": "iQOO 9",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO 9",
+          "id": 4584349,
+          "title": "Custom Vivo iQOO 9 Glass Case",
+          "model": "Vivo iQOO 9",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/12/Glass-Case-Custom-Thumbnail-Final-13-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
+    },
+    {
+      "model": "iQOO 9 Pro",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO 9 Pro",
+          "id": 4600812,
+          "title": "Custom Vivo iQOO 9 Pro Glass Case",
+          "model": "Vivo iQOO 9 Pro",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/11/Glass-Case-Custom-Thumbnail-Final-2025-06-20T143056.877-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
+    },
+    {
+      "model": "iQOO 9 SE",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO 9 SE",
+          "id": 4584352,
+          "title": "Custom Vivo iQOO 9 SE Glass Case",
+          "model": "Vivo iQOO 9 SE",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/09/Glass-Case-Custom-Thumbnail-Final-14-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Vivo iQOO 9 SE",
+          "id": 5033153,
+          "title": "Custom Vivo iQOO 9 SE Silicone Case",
+          "model": "Vivo iQOO 9 SE",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-16-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iQOO 9T",
+      "products": []
+    },
+    {
+      "model": "iQOO 10",
+      "products": []
+    },
+    {
+      "model": "iQOO 11",
+      "products": []
+    },
+    {
+      "model": "iQOO 12",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO 12",
+          "id": 5133743,
+          "title": "Custom Vivo iQOO 12 Glass Case",
+          "model": "Vivo iQOO 12",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/02/Glass-Case-Custom-Thumbnail-Final-15-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Vivo iQOO 12",
+          "id": 5131279,
+          "title": "Custom Vivo iQOO 12 Silicone Case",
+          "model": "Vivo iQOO 12",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/01/Silicone-Case-Custom-Thumbnail-Final-17-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iQOO 12 Pro",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO 12 Pro",
+          "id": 5235712,
+          "title": "Custom Vivo iQOO 12 Pro Glass Case",
+          "model": "Vivo iQOO 12 Pro",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/02/Glass-Case-Custom-Thumbnail-Final-15-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
+    },
+    {
+      "model": "iQOO 13",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO 13",
+          "id": 5734931,
+          "title": "Custom Vivo iQOO 13 Glass Case",
+          "model": "Vivo iQOO 13",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/01/Glass-Case-Custom-Thumbnail-Final-16-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Vivo iQOO 13",
+          "id": 6121834,
+          "title": "Custom Vivo iQOO 13 Silicone Case",
+          "model": "Vivo iQOO 13",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-31-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iQOO Neo 5",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO Neo 5",
+          "id": 4801107,
+          "title": "Custom Vivo iQOO Neo 5 Glass Case",
+          "model": "Vivo iQOO Neo 5",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/05/Glass-Case-Custom-Thumbnail-Final-11-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
+    },
+    {
+      "model": "iQOO Neo 5S",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO Neo 5S",
+          "id": 4584356,
+          "title": "Custom Vivo iQOO Neo 5S Glass Case",
+          "model": "Vivo iQOO Neo 5S",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/09/Glass-Case-Custom-Thumbnail-Final-17-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
+    },
+    {
+      "model": "iQOO Neo 6",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO Neo 6",
+          "id": 4584357,
+          "title": "Custom Vivo iQOO Neo 6 Glass Case",
+          "model": "Vivo iQOO Neo 6",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/09/Glass-Case-Custom-Thumbnail-Final-18-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Vivo iQOO Neo 6",
+          "id": 5033184,
+          "title": "Custom Vivo iQoo Neo 6 Silicone Case",
+          "model": "Vivo iQOO Neo 6",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-19-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iQOO Neo 6 SE",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO Neo 6 SE",
+          "id": 4926711,
+          "title": "Custom Vivo iQOO Neo 6 SE Glass Case",
+          "model": "Vivo iQOO Neo 6 SE",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/09/Glass-Case-Custom-Thumbnail-Final-2025-06-28T113108.175-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Vivo iQOO Neo 6 SE",
+          "id": 6121832,
+          "title": "Custom Vivo iQOO Neo 6 SE Silicone Case",
+          "model": "Vivo iQOO Neo 6 SE",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-30-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iQOO Neo 7",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO Neo 7",
+          "id": 4792402,
+          "title": "Custom Vivo iQOO Neo 7 Glass Case",
+          "model": "Vivo iQOO Neo 7",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/04/Glass-Case-Custom-Thumbnail-Final-19-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Vivo iQOO Neo 7",
+          "id": 6122118,
+          "title": "Custom Vivo iQOO Neo 7 Silicone Case",
+          "model": "Vivo iQOO Neo 7",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-13-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iQOO Neo 7 Pro",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO Neo 7 Pro",
+          "id": 4872297,
+          "title": "Custom Vivo iQOO Neo 7 Pro Glass Case",
+          "model": "Vivo iQOO Neo 7 Pro",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/04/Glass-Case-Custom-Thumbnail-Final-19-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Vivo iQOO Neo 7 Pro",
+          "id": 5047148,
+          "title": "Custom Vivo iQOO Neo 7 Pro Silicone Case",
+          "model": "Vivo iQOO Neo 7 Pro",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/06/Vivo-iQOO-Neo-7-Pro-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iQOO Neo 7 Racing",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO Neo 7 Racing",
+          "id": 4880921,
+          "title": "Custom Vivo iQOO Neo 7 Racing Glass Case",
+          "model": "Vivo iQOO Neo 7 Racing",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/04/Glass-Case-Custom-Thumbnail-Final-19-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Vivo iQOO Neo 7 Racing",
+          "id": 6151206,
+          "title": "Custom Vivo iQOO Neo 7 Racing Silicone Case",
+          "model": "Vivo iQOO Neo 7 Racing",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-13-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iQOO Neo 7 SE",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO Neo 7 SE",
+          "id": 4880926,
+          "title": "Custom Vivo iQOO Neo 7 SE Glass Case",
+          "model": "Vivo iQOO Neo 7 SE",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/04/Glass-Case-Custom-Thumbnail-Final-19-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Vivo iQOO Neo 7 SE",
+          "id": 5047152,
+          "title": "Custom Vivo iQOO Neo 7 SE Silicone Case",
+          "model": "Vivo iQOO Neo 7 SE",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/06/Vivo-iQOO-Neo-7-SE-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iQOO Neo 9",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO Neo 9",
+          "id": 6152176,
+          "title": "Custom Vivo iQOO Neo 9 Glass Case",
+          "model": "Vivo iQOO Neo 9",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Glass-Case-Custom-Thumbnail-Final-1-9-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Vivo iQOO Neo 9",
+          "id": 5389561,
+          "title": "Custom Vivo iQOO Neo 9 Silicone Case",
+          "model": "Vivo iQOO Neo 9",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-20-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iQOO Neo 9 Pro",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO Neo 9 Pro",
+          "id": 5182861,
+          "title": "Custom Vivo iQOO Neo 9 Pro Glass Case",
+          "model": "Vivo iQOO Neo 9 Pro",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Glass-Case-Custom-Thumbnail-Final-20-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Vivo iQOO Neo 9 Pro",
+          "id": 5389273,
+          "title": "Custom Vivo iQOO Neo 9 Pro Silicone Case",
+          "model": "Vivo iQOO Neo 9 Pro",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-20-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iQOO Neo 10",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO Neo 10",
+          "id": 6098404,
+          "title": "Custom Vivo iQOO Neo 10 Glass Case",
+          "model": "Vivo iQOO Neo 10",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/08/Glass-Vivo-iQOO-Neo-10-Thumbnail-Compress-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
+    },
+    {
+      "model": "iQOO Neo 10R",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO Neo 10R",
+          "id": 6098410,
+          "title": "Custom Vivo iQOO Neo 10R Glass Case",
+          "model": "Vivo iQOO Neo 10R",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/08/Glass-Vivo-iQOO-Neo-10R-Thumbnail-Compress-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Vivo iQOO Neo 10R",
+          "id": 6121507,
+          "title": "Custom Vivo iQOO Neo 10R Silicone Case",
+          "model": "Vivo iQOO Neo 10R",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iQOO U5E",
+      "products": []
+    },
+    {
+      "model": "iQOO Z3",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO Z3",
+          "id": 4805059,
+          "title": "Custom Vivo iQOO Z3 Glass Case",
+          "model": "Vivo iQOO Z3",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/05/Glass-Case-Custom-Thumbnail-Final-21-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Vivo iQOO Z3",
+          "id": 5377542,
+          "title": "Custom Vivo iQOO Z3 Clear Case",
+          "model": "Vivo iQOO Z3",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Clear-Case-Custom-Thumbnail-Final-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Vivo iQOO Z3",
+          "id": 6121840,
+          "title": "Custom Vivo iQOO Z3 Silicone Case",
+          "model": "Vivo iQOO Z3",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-32-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iQOO Z5",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO Z5",
+          "id": 4871843,
+          "title": "Custom Vivo iQOO Z5 Glass Case",
+          "model": "Vivo iQOO Z5",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/07/Glass-Case-Custom-Thumbnail-Final-22-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Vivo iQOO Z5",
+          "id": 5389259,
+          "title": "Custom Vivo iQOO Z5 Silicone Case",
+          "model": "Vivo iQOO Z5",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Vivo-iQOO-Z5-2-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iQOO Z6",
+      "products": []
+    },
+    {
+      "model": "iQOO Z6 Lite",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO Z6 Lite",
+          "id": 4871842,
+          "title": "Custom Vivo iQOO Z6 Lite Glass Case",
+          "model": "Vivo iQOO Z6 Lite",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/07/Glass-Case-Custom-Thumbnail-Final-23-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Vivo iQOO Z6 Lite",
+          "id": 5389246,
+          "title": "Custom Vivo iQOO Z6 Lite Silicone Case",
+          "model": "Vivo iQOO Z6 Lite",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-22-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Vivo iQOO Z6 Lite",
+          "id": 5315369,
+          "title": "Custom Vivo iQOO Z6 Lite Clear Case",
+          "model": "Vivo iQOO Z6 Lite",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/07/Vivo-iQOO-Z6-Lite-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iQOO Z6 Pro",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO Z6 Pro",
+          "id": 4584359,
+          "title": "Custom Vivo iQOO Z6 Pro Glass Case",
+          "model": "Vivo iQOO Z6 Pro",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2022/09/Glass-Case-Custom-Thumbnail-Final-24-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Vivo iQOO Z6 Pro",
+          "id": 5033199,
+          "title": "Custom Vivo iQOO Z6 Pro Silicone Case",
+          "model": "Vivo iQOO Z6 Pro",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-22-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iQOO Z7",
+      "products": []
+    },
+    {
+      "model": "iQOO Z7 Pro",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO Z7 Pro",
+          "id": 5196255,
+          "title": "Custom Vivo iQOO Z7 Pro Silicone Case",
+          "model": "Vivo iQOO Z7 Pro",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Silicone-Case-Custom-Thumbnail-Final-23-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Vivo iQOO Z7 Pro",
+          "id": 5228147,
+          "title": "Custom Vivo iQOO Z7 Pro Clear Case",
+          "model": "Vivo iQOO Z7 Pro",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-3-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Vivo iQOO Z7 Pro",
+          "id": 6152183,
+          "title": "Custom Vivo iQOO Z7 Pro Glass Case",
+          "model": "Vivo iQOO Z7 Pro",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Glass-Case-Custom-Thumbnail-Final-1-10-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
+    },
+    {
+      "model": "iQOO Z7S",
+      "products": []
+    },
+    {
+      "model": "iQOO Z9",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO Z9",
+          "id": 6014938,
+          "title": "Custom Vivo iQOO Z9 Glass Case",
+          "model": "Vivo iQOO Z9",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/06/Glass-Case-Custom-Thumbnail-Final-2025-06-20T153641.402-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
+    },
+    {
+      "model": "iQOO Z9 Lite",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO Z9 Lite",
+          "id": 5687472,
+          "title": "Custom Vivo iQOO Z9 Lite Silicone Case",
+          "model": "Vivo iQOO Z9 Lite",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/12/Vivo-iQOO-Z9-Lite-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iQOO Z9S",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO Z9S",
+          "id": 5734944,
+          "title": "Custom Vivo iQOO Z9S Silicone Case",
+          "model": "Vivo iQOO Z9S",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/01/Silicone-Case-Custom-Thumbnail-Final-96-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Vivo iQOO Z9S",
+          "id": 6116308,
+          "title": "Custom Vivo iQOO Z9S Clear Case",
+          "model": "Vivo iQOO Z9S",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/12/Clear-Case-Custom-Thumbnail-Final-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Vivo iQOO Z9S",
+          "id": 6177313,
+          "title": "Custom Vivo iQOO Z9S Glass Case",
+          "model": "Vivo iQOO Z9S",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Glass-Case-Custom-Thumbnail-Final-1-14-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
+    },
+    {
+      "model": "iQOO Z9S Pro",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO Z9S Pro",
+          "id": 5646013,
+          "title": "Custom Vivo iQOO Z9S Pro Glass Case",
+          "model": "Vivo iQOO Z9S Pro",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/11/Glass-Case-Custom-Thumbnail-Final-25-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Vivo iQOO Z9S Pro",
+          "id": 5540106,
+          "title": "Custom Vivo iQOO Z9S Pro Clear Case",
+          "model": "Vivo iQOO Z9S Pro",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Clear-Case-Custom-Thumbnail-Final-1-1-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Vivo iQOO Z9S Pro",
+          "id": 5734956,
+          "title": "Custom Vivo iQOO Z9S Pro Silicone Case",
+          "model": "Vivo iQOO Z9S Pro",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/01/Vivo-iQOO-Z9S-Pro-2-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iQOO Z9X",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO Z9X",
+          "id": 5305250,
+          "title": "Custom Vivo iQOO Z9X Glass Case",
+          "model": "Vivo iQOO Z9X",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/06/Glass-Case-Custom-Thumbnail-Final-2025-06-20T153641.402-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Vivo iQOO Z9X",
+          "id": 5388605,
+          "title": "Custom Vivo iQOO Z9X Silicone Case",
+          "model": "Vivo iQOO Z9X",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-24-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Vivo iQOO Z9X",
+          "id": 5309746,
+          "title": "Custom Vivo iQOO Z9X Clear Case",
+          "model": "Vivo iQOO Z9X",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/07/Clear-Case-Custom-Thumbnail-Final-2-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iQOO Z10X",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO Z10X",
+          "id": 5227678,
+          "title": "Custom Vivo iQOO Z10X Clear Case",
+          "model": "Vivo iQOO Z10X",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-38-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Vivo iQOO Z10X",
+          "id": 6152186,
+          "title": "Custom Vivo iQOO Z10X Glass Case",
+          "model": "Vivo iQOO Z10X",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Glass-Case-Custom-Thumbnail-Final-1-11-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Vivo iQOO Z10X",
+          "id": 6121862,
+          "title": "Custom Vivo iQOO Z10X Silicone Case",
+          "model": "Vivo iQOO Z10X",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-36-510x510.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "iQOO Z10 Turbo",
+      "products": [
+        {
+          "smallTitle": "Vivo iQOO Z10 Turbo",
+          "id": 6098415,
+          "title": "Custom Vivo iQOO Z10 Turbo Glass Case",
+          "model": "Vivo iQOO Z10 Turbo",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/08/Glass-Vivo-iQOO-Z10-Turbo-Thumbnail-Compress-510x510.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
+    }
   ],
   "Motorola": [
-    { "model": "Motorola Edge 30", "products": [] },
-    { "model": "Motorola Edge 30 Fusion", "products": [] },
-    { "model": "Motorola Edge 30 Pro", "products": [] },
-    { "model": "Motorola Edge 30 Ultra", "products": [] },
-    { "model": "Motorola Edge 40", "products": [] },
-    { "model": "Motorola Edge 40 Neo", "products": [] },
-    { "model": "Motorola Edge 50", "products": [] },
-    { "model": "Motorola Edge 50 Fusion", "products": [] },
-    { "model": "Motorola Edge 50 Pro", "products": [] },
-    { "model": "Motorola Edge 50 Ultra", "products": [] },
-    { "model": "Motorola Edge 50 Neo", "products": [] },
-    { "model": "Motorola Edge 60", "products": [] },
-    { "model": "Motorola Edge 60 Pro", "products": [] },
-    { "model": "Motorola Edge 60 Fusion", "products": [] },
-    { "model": "Motorola Edge 60 Stylus", "products": [] },
-
-    { "model": "Motorola Moto E40", "products": [] },
-
-    { "model": "Motorola Moto G04", "products": [] },
-    { "model": "Motorola Moto G04S", "products": [] },
-    { "model": "Motorola Moto G24", "products": [] },
-    { "model": "Motorola Moto G24 Power", "products": [] },
-    { "model": "Motorola Moto G31", "products": [] },
-    { "model": "Motorola Moto G32", "products": [] },
-    { "model": "Motorola Moto G34", "products": [] },
-    { "model": "Motorola Moto G35", "products": [] },
-    { "model": "Motorola Moto G40 Fusion", "products": [] },
-    { "model": "Motorola Moto G45", "products": [] },
-    { "model": "Motorola Moto G52", "products": [] },
-    { "model": "Motorola Moto G54", "products": [] },
-    { "model": "Motorola Moto G55", "products": [] },
-    { "model": "Motorola Moto G62", "products": [] },
-    { "model": "Motorola Moto G64", "products": [] },
-    { "model": "Motorola Moto G75", "products": [] },
-    { "model": "Motorola Moto G82", "products": [] },
-    { "model": "Motorola Moto G84", "products": [] },
-    { "model": "Motorola Moto G85", "products": [] }
+    {
+      "model": "Motorola Edge 30",
+      "products": []
+    },
+    {
+      "model": "Motorola Edge 30 Fusion",
+      "products": []
+    },
+    {
+      "model": "Motorola Edge 30 Pro",
+      "products": []
+    },
+    {
+      "model": "Motorola Edge 30 Ultra",
+      "products": []
+    },
+    {
+      "model": "Motorola Edge 40",
+      "products": []
+    },
+    {
+      "model": "Motorola Edge 40 Neo",
+      "products": []
+    },
+    {
+      "model": "Motorola Edge 50",
+      "products": []
+    },
+    {
+      "model": "Motorola Edge 50 Fusion",
+      "products": []
+    },
+    {
+      "model": "Motorola Edge 50 Pro",
+      "products": []
+    },
+    {
+      "model": "Motorola Edge 50 Ultra",
+      "products": []
+    },
+    {
+      "model": "Motorola Edge 50 Neo",
+      "products": []
+    },
+    {
+      "model": "Motorola Edge 60",
+      "products": []
+    },
+    {
+      "model": "Motorola Edge 60 Pro",
+      "products": []
+    },
+    {
+      "model": "Motorola Edge 60 Fusion",
+      "products": []
+    },
+    {
+      "model": "Motorola Edge 60 Stylus",
+      "products": []
+    },
+    {
+      "model": "Motorola Moto E40",
+      "products": []
+    },
+    {
+      "model": "Motorola Moto G04",
+      "products": []
+    },
+    {
+      "model": "Motorola Moto G04S",
+      "products": []
+    },
+    {
+      "model": "Motorola Moto G24",
+      "products": []
+    },
+    {
+      "model": "Motorola Moto G24 Power",
+      "products": []
+    },
+    {
+      "model": "Motorola Moto G31",
+      "products": []
+    },
+    {
+      "model": "Motorola Moto G32",
+      "products": []
+    },
+    {
+      "model": "Motorola Moto G34",
+      "products": []
+    },
+    {
+      "model": "Motorola Moto G35",
+      "products": []
+    },
+    {
+      "model": "Motorola Moto G40 Fusion",
+      "products": []
+    },
+    {
+      "model": "Motorola Moto G45",
+      "products": []
+    },
+    {
+      "model": "Motorola Moto G52",
+      "products": []
+    },
+    {
+      "model": "Motorola Moto G54",
+      "products": []
+    },
+    {
+      "model": "Motorola Moto G55",
+      "products": []
+    },
+    {
+      "model": "Motorola Moto G62",
+      "products": []
+    },
+    {
+      "model": "Motorola Moto G64",
+      "products": []
+    },
+    {
+      "model": "Motorola Moto G75",
+      "products": []
+    },
+    {
+      "model": "Motorola Moto G82",
+      "products": []
+    },
+    {
+      "model": "Motorola Moto G84",
+      "products": []
+    },
+    {
+      "model": "Motorola Moto G85",
+      "products": []
+    }
   ]
 }
