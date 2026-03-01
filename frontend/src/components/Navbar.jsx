@@ -1,7 +1,7 @@
 import { useState, useEffect, useContext } from "react";
 import { Search, User, ShoppingCart, Menu, X, ArrowRight } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
-import { NavLink } from "react-router-dom";
+import { NavLink, useNavigate } from "react-router-dom";
 import { productContext } from "../Store/StoreContext";
 
 export default function Navbar() {
@@ -10,6 +10,8 @@ export default function Navbar() {
   const [searchActive, setSearchActive] = useState(false);
   const { setSidebar, product } = useContext(productContext);
   const cartCount = product?.length ?? 0;
+
+  const navigate = useNavigate();
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 50);
@@ -20,9 +22,8 @@ export default function Navbar() {
   const navItems = [
     "Custom Phone Cases",
     "Premium Glass Case",
-    "Personalized Name Cases",
     "Couple Mobile Cases",
-    "Magsafe iPhone",
+    "Magsafe iPhone Cases",
   ];
 
   const blue3DLogo = {
@@ -201,7 +202,13 @@ export default function Navbar() {
                 />
               </div>
 
-              <button className="w-full bg-blue-500 hover:bg-blue-600 text-white py-4 rounded-3xl font-semibold text-lg transition-all shadow-lg">
+              <button
+                className="w-full bg-blue-500 hover:bg-blue-600 text-white py-4 rounded-3xl font-semibold text-lg transition-all shadow-lg"
+                onClick={() => {
+                  navigate("custom-phone-cases");
+                  setSearchActive(false);
+                }}
+              >
                 Search
               </button>
             </div>

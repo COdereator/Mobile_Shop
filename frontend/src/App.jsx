@@ -12,6 +12,7 @@ import Sidebar from "./components/SideBar";
 import CoupleMobileCases from "./pages/CoupleMobileCases";
 import ProductDetails from "./pages/ProductDetails";
 import MagSafePhone from "./pages/MagSafePhone";
+import GlassCase from "./pages/GlassCase";
 
 const App = () => {
   return (
@@ -27,7 +28,8 @@ const App = () => {
           element={<CustomePhonePage />}
         />
         <Route path="/couple-mobile-cases" element={<CoupleMobileCases />} />
-        <Route path="/magsafe-iphone" element={<MagSafePhone />} />
+        <Route path="/premium-glass-case" element={<GlassCase />} />
+        <Route path="/magsafe-iphone-cases" element={<MagSafePhone />} />
         <Route path="/products/:id" element={<ProductDetails />} />
         <Route path="/cart" element={<CartPage />} />
         <Route path="/checkout" element={<CheckoutPage />} />
