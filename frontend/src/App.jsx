@@ -13,6 +13,7 @@ import CoupleMobileCases from "./pages/CoupleMobileCases";
 import ProductDetails from "./pages/ProductDetails";
 import MagSafePhone from "./pages/MagSafePhone";
 import GlassCase from "./pages/GlassCase";
+import Dashboard from "./admin/Dashboard";
 
 const App = () => {
   return (
@@ -33,6 +34,7 @@ const App = () => {
         <Route path="/products/:id" element={<ProductDetails />} />
         <Route path="/cart" element={<CartPage />} />
         <Route path="/checkout" element={<CheckoutPage />} />
+        <Route path="/admin" element={<Dashboard />} />
       </Routes>
       <Footer />
     </>
