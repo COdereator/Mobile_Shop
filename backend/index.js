@@ -2,39 +2,25 @@ const express = require("express");
 const multer = require("multer");
 const adminRouter = require("./router/adminRouter");
 const orderRouter = require("./router/orderRouter");
+const { CloudinaryStorage } = require("multer-storage-cloudinary");
+const cloudinary = require("./config/cloudinary");
+const cors = require('cors')
 
 const app = express();
 
+app.use(cors())
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-const randomString = (length) => {
-  const characters = "abcdefghijklmnopqrstuvwxyz";
-  let result = "";
-  for (let i = 0; i < length; i++) {
-    result += characters.charAt(Math.floor(Math.random() * characters.length));
-  }
-  return result;
-};
-
-const storage = multer.diskStorage({
-  destination: (req, file, cb) => {
-    cb(null, "uploads/");
-  },
-  filename: (req, file, cb) => {
-    cb(null, randomString(10) + "-" + file.originalname);
+const storage = new CloudinaryStorage({
+  cloudinary: cloudinary,
+  params: {
+    folder: "backgrounds",
+    allowed_formats: ["jpg", "png", "jpeg", "webp"],
   },
 });
 
-const fileFilter = (req, file, cb) => {
-  if (file.mimetype === "image/jpeg" || file.mimetype === "image/png") {
-    cb(null, true);
-  } else {
-    cb(new Error("Only JPEG and PNG files are allowed"), false);
-  }
-};
-
-app.use(multer({ storage, fileFilter }).single("file"));
+app.use(multer({ storage }).single("background"));
 
 app.get("/", (req, res) => {
   res.send("Hello World");

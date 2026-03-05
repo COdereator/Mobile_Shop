@@ -5344,31 +5344,223 @@
   "Samsung": [
     {
       "model": "Samsung A06",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5394168,
+          "title": "Custom Samsung A06 Clear Case",
+          "model": "Samsung A06",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Clear-Case-Custom-Thumbnail-Final-38-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Samsung A12",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5228117,
+          "title": "Custom Samsung A12 Glass Case",
+          "model": "Samsung A12",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Glass-Case-Custom-Thumbnail-Final-1-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5633935,
+          "title": "Custom Samsung A12 Silicone Case",
+          "model": "Samsung A12",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/10/Silicone-Case-Custom-Thumbnail-Final-16-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6181671,
+          "title": "Custom Samsung A12 Clear Case",
+          "model": "Samsung A12",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Clear-Case-Custom-Thumbnail-Final-11-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Samsung A13 4G",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5232850,
+          "title": "Custom Samsung A13 4G Clear Case",
+          "model": "Samsung A13 4G",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-39-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6122148,
+          "title": "Custom Samsung A13 4G Silicone Case",
+          "model": "Samsung A13 4G",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-2-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6152163,
+          "title": "Custom Samsung A13 4G Glass Case",
+          "model": "Samsung A13 4G",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/12/Glass-Case-Custom-Thumbnail-Final-1-6-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
     },
     {
       "model": "Samsung A13 5G",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5233540,
+          "title": "Custom Samsung A13 5G Clear Case",
+          "model": "Samsung A13 5G",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-40-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Samsung A14",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 4707471,
+          "title": "Custom Samsung A14 Glass Case",
+          "model": "Samsung A14",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/03/Samsung-A14-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5032011,
+          "title": "Custom Samsung A14 Silicone Case",
+          "model": "Samsung A14",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-17-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5211463,
+          "title": "Custom Samsung A14 Clear Case",
+          "model": "Samsung A14",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-40-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Samsung A15",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5130583,
+          "title": "Custom Samsung A15 Glass Case",
+          "model": "Samsung A15",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/01/Glass-Case-Custom-Thumbnail-Final-1-1-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5389619,
+          "title": "Custom Samsung A15 Silicone Case",
+          "model": "Samsung A15",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-17-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5232854,
+          "title": "Custom Samsung A15 Clear Case",
+          "model": "Samsung A15",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-40-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Samsung A16",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5823883,
+          "title": "Custom Samsung A16 Glass Case",
+          "model": "Samsung A16",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/02/Glass-Case-Custom-Thumbnail-Final-1-2-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5526092,
+          "title": "Custom Samsung A16 Clear Case",
+          "model": "Samsung A16",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Clear-Case-Custom-Thumbnail-Final-40-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5734528,
+          "title": "Custom Samsung A16 Silicone Case",
+          "model": "Samsung A16",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2023/10/Silicone-Case-Custom-Thumbnail-Final-17-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "model": "Samsung A17",
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6179684,
+          "title": "Custom Samsung A17 Glass Case",
+          "model": "Samsung A17",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Samsung-A17-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
     },
     {
       "model": "Samsung A22 4G",
@@ -8348,63 +8540,408 @@
   "Motorola": [
     {
       "model": "Motorola Edge 30",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5178084,
+          "title": "Custom Motorola Edge 30 Glass Case",
+          "model": "Motorola Edge 30",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Glass-Case-Custom-Thumbnail-Final-27-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
     },
     {
       "model": "Motorola Edge 30 Fusion",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5131172,
+          "title": "Custom Motorola Edge 30 Fusion Silicone Case",
+          "model": "Motorola Edge 30 Fusion",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/01/Silicone-Case-Custom-Thumbnail-Final-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Motorola Edge 30 Pro",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5314381,
+          "title": "Custom Motorola Edge 30 Pro Glass Case",
+          "model": "Motorola Edge 30 Pro",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/04/Glass-Case-Custom-Thumbnail-Final-27-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
     },
     {
       "model": "Motorola Edge 30 Ultra",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5124420,
+          "title": "Custom Motorola Edge 30 Ultra Glass Case",
+          "model": "Motorola Edge 30 Ultra",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/01/Glass-Case-Custom-Thumbnail-Final-39-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5131204,
+          "title": "Custom Motorola Edge 30 Ultra Silicone Case",
+          "model": "Motorola Edge 30 Ultra",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/01/Silicone-Case-Custom-Thumbnail-Final-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Motorola Edge 40",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5124422,
+          "title": "Custom Motorola Edge 40 Glass Case",
+          "model": "Motorola Edge 40",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/01/Glass-Case-Custom-Thumbnail-Final-30-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5131210,
+          "title": "Custom Motorola Edge 40 Silicone Case",
+          "model": "Motorola Edge 40",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/01/Silicone-Case-Custom-Thumbnail-Final-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Motorola Edge 40 Neo",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5124430,
+          "title": "Custom Motorola Edge 40 Neo Glass Case",
+          "model": "Motorola Edge 40 Neo",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/01/Glass-Case-Custom-Thumbnail-Final-31-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5131230,
+          "title": "Custom Motorola Edge 40 Neo Silicone Case",
+          "model": "Motorola Edge 40 Neo",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/01/Silicone-Case-Custom-Thumbnail-Final-3-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5206594,
+          "title": "Custom Motorola Edge 40 Neo Clear Case",
+          "model": "Motorola Edge 40 Neo",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Motorola-Edge-40-Neo-1-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Motorola Edge 50",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5514837,
+          "title": "Custom Motorola Edge 50 Glass Case",
+          "model": "Motorola Edge 50",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Glass-Case-Custom-Thumbnail-Final-32-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5380498,
+          "title": "Custom Motorola Edge 50 Clear Case",
+          "model": "Motorola Edge 50",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Motorola-Edge-50-Neo-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6121878,
+          "title": "Custom Motorola Edge 50 Silicone Case",
+          "model": "Motorola Edge 50",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-37-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Motorola Edge 50 Fusion",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5315063,
+          "title": "Custom Motorola Edge 50 Fusion Glass Case",
+          "model": "Motorola Edge 50 Fusion",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/07/Glass-Case-Custom-Thumbnail-Final-33-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5388535,
+          "title": "Custom Motorola Edge 50 Fusion Silicone Case",
+          "model": "Motorola Edge 50 Fusion",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-5-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5302332,
+          "title": "Custom Motorola Edge 50 Fusion Clear Case",
+          "model": "Motorola Edge 50 Fusion",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/06/Motorola-Edge-50-Fusion-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Motorola Edge 50 Pro",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5323686,
+          "title": "Custom Motorola Edge 50 Pro Glass Case",
+          "model": "Motorola Edge 50 Pro",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/07/Glass-Case-Custom-Thumbnail-Final-34-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5388540,
+          "title": "Custom Motorola Edge 50 Pro Silicone Case",
+          "model": "Motorola Edge 50 Pro",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-6-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5206598,
+          "title": "Custom Motorola Edge 50 Pro Clear Case",
+          "model": "Motorola Edge 50 Pro",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Motorola-Edge-50-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Motorola Edge 50 Ultra",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5323681,
+          "title": "Custom Motorola Edge 50 Ultra Glass Case",
+          "model": "Motorola Edge 50 Ultra",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/07/Glass-Case-Custom-Thumbnail-Final-35-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5388544,
+          "title": "Custom Motorola Edge 50 Ultra Silicone Case",
+          "model": "Motorola Edge 50 Ultra",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-7-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5313839,
+          "title": "Custom Motorola Edge 50 Ultra Clear Case",
+          "model": "Motorola Edge 50 Ultra",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/07/Motorola-Edge-50-Ultra-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Motorola Edge 50 Neo",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5651096,
+          "title": "Custom Motorola Edge 50 Neo Glass Case",
+          "model": "Motorola Edge 50 Neo",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/11/Glass-Case-Custom-Thumbnail-Final-36-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5659263,
+          "title": "Custom Motorola Edge 50 Neo Clear Case",
+          "model": "Motorola Edge 50 Neo",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Motorola-Edge-50-Neo-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6121870,
+          "title": "Custom Motorola Edge 50 Neo Silicone Case",
+          "model": "Motorola Edge 50 Neo",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Silicone-Case-Custom-Thumbnail-Final-37-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Motorola Edge 60",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6098324,
+          "title": "Custom Motorola Edge 60 Glass Case",
+          "model": "Motorola Edge 60",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/08/Glass-Motorola-Edge-60-Pro-Thumbnail-Compress-510x510-1-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6121885,
+          "title": "Custom Motorola Edge 60 Silicone Case",
+          "model": "Motorola Edge 60",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Cpmpress-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Motorola Edge 60 Pro",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6098367,
+          "title": "Custom Motorola Edge 60 Pro Glass Case",
+          "model": "Motorola Edge 60 Pro",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/08/Glass-Motorola-Edge-60-Pro-Thumbnail-Compress-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6189755,
+          "title": "Custom Motorola Edge 60 Pro Silicone Case",
+          "model": "Motorola Edge 60 Pro",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Cpmpress-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Motorola Edge 60 Fusion",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6098359,
+          "title": "Custom Motorola Edge 60 Fusion Glass Case",
+          "model": "Motorola Edge 60 Fusion",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/08/Glass-Motorola-Edge-60-Fusion-Thumbnail-Compress-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6121888,
+          "title": "Custom Motorola Edge 60 Fusion Silicone Case",
+          "model": "Motorola Edge 60 Fusion",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Cpmpress-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Motorola Edge 60 Stylus",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6140762,
+          "title": "Custom Motorola Edge 60 Stylus Clear Case",
+          "model": "Motorola Edge 60 Stylus",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/11/Clear-Case-Custom-Thumbnail-Final-4-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6121897,
+          "title": "Custom Motorola Edge 60 Stylus Silicone Case",
+          "model": "Motorola Edge 60 Stylus",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/09/Cpmpress-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Motorola Moto E40",
@@ -8412,11 +8949,33 @@
     },
     {
       "model": "Motorola Moto G04",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5229927,
+          "title": "Custom Motorola Moto G04 Clear Case",
+          "model": "Motorola Moto G04",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Motorola-Moto-G04-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Motorola Moto G04S",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6037272,
+          "title": "Custom Motorola Moto G04S Clear Case",
+          "model": "Motorola Moto G04S",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/07/Clear-Case-Custom-Thumbnail-Final-7-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Motorola Moto G24",
@@ -8424,7 +8983,28 @@
     },
     {
       "model": "Motorola Moto G24 Power",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5229944,
+          "title": "Custom Motorola Moto G24 Power Clear Case",
+          "model": "Motorola Moto G24 Power",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Motorola-Moto-G24-Power-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6185959,
+          "title": "Custom Motorola Moto G24 Power Glass Case",
+          "model": "Motorola Moto G24 Power",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Glass-Case-Custom-Thumbnail-Final-1-4-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
     },
     {
       "model": "Motorola Moto G31",
@@ -8432,35 +9012,143 @@
     },
     {
       "model": "Motorola Moto G32",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5660371,
+          "title": "Custom Motorola Moto G32 Clear Case",
+          "model": "Motorola Moto G32",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/12/Motorola-Moto-G32-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Motorola Moto G34",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5229974,
+          "title": "Custom Motorola Moto G34 Clear Case",
+          "model": "Motorola Moto G34",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Motorola-Moto-G24-Power-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Motorola Moto G35",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5810516,
+          "title": "Custom Motorola Moto G35 Glass Case",
+          "model": "Motorola Moto G35",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/02/Glass-Case-Custom-Thumbnail-Final-37-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
     },
     {
       "model": "Motorola Moto G40 Fusion",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5377487,
+          "title": "Custom Motorola Moto G40 Fusion Clear Case",
+          "model": "Motorola Moto G40 Fusion",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Motorola-Moto-G40-Fusion-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Motorola Moto G45",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5427490,
+          "title": "Custom Motorola Moto G45 Clear Case",
+          "model": "Motorola Moto G45",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Motorola-Moto-G24-Power-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Motorola Moto G52",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6030707,
+          "title": "Custom Motorola Moto G52 Clear Case",
+          "model": "Motorola Moto G52",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/07/Motorola-Moto-G52-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Motorola Moto G54",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5124455,
+          "title": "Custom Motorola Moto G54 Glass Case",
+          "model": "Motorola Moto G54",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/01/Glass-Case-Custom-Thumbnail-Final-38-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5131250,
+          "title": "Custom Motorola Moto G54 Silicone Case",
+          "model": "Motorola Moto G54",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/01/Silicone-Case-Custom-Thumbnail-Final-8-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5206606,
+          "title": "Custom Motorola Moto G54 Clear Case",
+          "model": "Motorola Moto G54",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Motorola-Moto-G54-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Motorola Moto G55",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5810600,
+          "title": "Custom Motorola Moto G55 Glass Case",
+          "model": "Motorola Moto G55",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/02/Glass-Case-Custom-Thumbnail-Final-38-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
     },
     {
       "model": "Motorola Moto G62",
@@ -8468,11 +9156,53 @@
     },
     {
       "model": "Motorola Moto G64",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5314477,
+          "title": "Custom Motorola Moto G64 Glass Case",
+          "model": "Motorola Moto G64",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/02/Glass-Case-Custom-Thumbnail-Final-38-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5388551,
+          "title": "Custom Motorola Moto G64 Silicone Case",
+          "model": "Motorola Moto G64",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-9-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5230073,
+          "title": "Custom Motorola Moto G64 Clear Case",
+          "model": "Motorola Moto G64",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/05/Motorola-Moto-G54-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Motorola Moto G75",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5817450,
+          "title": "Custom Motorola Moto G75 Glass Case",
+          "model": "Motorola Moto G75",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2025/02/Glass-Case-Custom-Thumbnail-Final-40-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        }
+      ]
     },
     {
       "model": "Motorola Moto G82",
@@ -8480,11 +9210,73 @@
     },
     {
       "model": "Motorola Moto G84",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5124457,
+          "title": "Custom Motorola Moto G84 Glass Case",
+          "model": "Motorola Moto G84",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/01/Glass-Case-Custom-Thumbnail-Final-41-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5131262,
+          "title": "Custom Motorola Moto G84 Silicone Case",
+          "model": "Motorola Moto G84",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/01/Silicone-Case-Custom-Thumbnail-Final-10-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 6181632,
+          "title": "Custom Motorola Moto G84 Clear Case",
+          "model": "Motorola Moto G84",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2026/02/Clear-Case-Custom-Thumbnail-Final-2-1-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     },
     {
       "model": "Motorola Moto G85",
-      "products": []
+      "products": [
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5388253,
+          "title": "Custom Motorola Moto G85 Glass Case",
+          "model": "Motorola Moto G85",
+          "cases": "Glass",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Glass-Case-Custom-Thumbnail-Final-2025-06-27T173003.390-247x247.jpg",
+          "oldPrice": 698,
+          "price": 349
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5733573,
+          "title": "Custom Motorola Moto G85 Silicone Case",
+          "model": "Motorola Moto G85",
+          "cases": "Silicone",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/08/Silicone-Case-Custom-Thumbnail-Final-11-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        },
+        {
+          "smallTitle": "Mobile Cover",
+          "id": 5319291,
+          "title": "Custom Motorola Moto G85 Clear Case",
+          "model": "Motorola Moto G85",
+          "cases": "Clear",
+          "image": "https://stayclassy.in/wp-content/uploads/2024/09/Motorola-Moto-G24-Power-2-247x247.jpg",
+          "oldPrice": 598,
+          "price": 299
+        }
+      ]
     }
   ]
 }

@@ -14,6 +14,7 @@ import ProductDetails from "./pages/ProductDetails";
 import MagSafePhone from "./pages/MagSafePhone";
 import GlassCase from "./pages/GlassCase";
 import Dashboard from "./admin/Dashboard";
+import ChangeBackgroundImage from "./admin/ChangeBackgroundImage";
 
 const App = () => {
   return (

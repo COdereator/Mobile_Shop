@@ -1,12 +1,26 @@
-exports.changeBackground = (req, res) => {
-  // Logic for changing background image
+const cloudinary = require("../config/cloudinary");
+
+let previousImagePublicId = null;
+
+exports.changeBackground = async (req, res) => {
   try {
     const file = req.file;
-    if (!file) {
-      return res.status(400).send("No file uploaded");
+    if (!file) return res.status(400).send("No file uploaded");
+
+    if (previousImagePublicId) {
+      await cloudinary.uploader.destroy(previousImagePublicId);
     }
-  } catch (error) {
-    res.status(500).send("Error changing background image");
+
+    previousImagePublicId = file.filename;
+
+    res.json({
+      message: "Background updated successfully",
+      imageUrl: file.path,
+      publicId: file.filename,
+    });
+
+  } catch (err) {
+    console.error(err);
+    res.status(500).send("Error updating background image");
   }
-  res.send("Background image changed successfully");
 };
