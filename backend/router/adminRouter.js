@@ -7,6 +7,7 @@ adminRouter.get("/dashboard", (req, res) => {
   res.send("Admin Dashboard");
 });
 
+
 adminRouter.post("/changeBackground", changeBackground);
 
 module.exports = adminRouter;
