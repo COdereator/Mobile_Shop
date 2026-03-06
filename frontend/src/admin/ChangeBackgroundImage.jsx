@@ -48,9 +48,9 @@ export default function ChangeBackgroundImage() {
       );
 
       alert("Background Updated Successfully");
-      console.log(res.data);
+      console.log(res);
     } catch (err) {
-      console.error(err.message);
+      console.log(err.message);
       alert("Upload Failed");
     }
   };

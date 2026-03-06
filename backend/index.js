@@ -1,5 +1,6 @@
 const express = require("express");
 const multer = require("multer");
+const mongoose = require('mongoose')
 const adminRouter = require("./router/adminRouter");
 const orderRouter = require("./router/orderRouter");
 const { CloudinaryStorage } = require("multer-storage-cloudinary");
@@ -29,9 +30,11 @@ app.get("/", (req, res) => {
 app.use("/admin", adminRouter);
 app.use("/orders", orderRouter);
 
-app.listen(3000, () => {
-  console.log("Server is running on port 3000");
-});
+mongoose.connect('mongodb://localhost:27017/mobile_shop').then(()=>{
+  app.listen(3000, () => {
+    console.log("Server is running on port 3000");
+  });
+})
 
 // backgroundImage Change
 // new phone model add

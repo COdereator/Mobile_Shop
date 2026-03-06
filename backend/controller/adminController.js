@@ -1,17 +1,24 @@
 const cloudinary = require("../config/cloudinary");
-
-let previousImagePublicId = null;
+const Background = require("../models/imageModel");
 
 exports.changeBackground = async (req, res) => {
   try {
     const file = req.file;
     if (!file) return res.status(400).send("No file uploaded");
 
-    if (previousImagePublicId) {
-      await cloudinary.uploader.destroy(previousImagePublicId);
+    const previousBackground = await Background.findOne();
+
+    if (previousBackground) {
+      await cloudinary.uploader.destroy(previousBackground.publicId);
+      await Background.deleteOne({ _id: previousBackground._id });
     }
 
-    previousImagePublicId = file.filename;
+    const newBackground = new Background({
+      imageUrl: file.path,
+      publicId: file.filename
+    });
+
+    await newBackground.save();
 
     res.json({
       message: "Background updated successfully",
@@ -24,3 +31,16 @@ exports.changeBackground = async (req, res) => {
     res.status(500).send("Error updating background image");
   }
 };
+
+exports.getImage = async (req,res) => {
+  try {
+    const image = await Background.findOne();
+    res.json({
+      message: "Background updated successfully",
+      imageUrl: image.imageUrl,
+    })
+  } catch (error) {
+    console.error(err);
+    res.status(500).send("Error updating background image");
+  }
+}
